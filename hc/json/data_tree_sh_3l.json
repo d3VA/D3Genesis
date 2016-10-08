@@ -1,0 +1,289 @@
+{
+ "name": "Centre",
+"children": [
+ {
+ "name": "1: love,good,man",
+"children": [
+ {
+ "name": "1: love,good,man",
+"children": [
+ {
+ "name": "1: love,man,good",
+"children": [
+ {
+ "name": "C_12Night",
+"size":    819 
+},
+{
+ "name": "C_MuchAdo",
+"size":   1018 
+} 
+] 
+},
+{
+ "name": "4: love,good,man",
+"children": [
+ {
+ "name": "T_Othello",
+"size":   1054 
+},
+{
+ "name": "C_TroCres",
+"size":   1044 
+},
+{
+ "name": "C_TaShrew",
+"size":    739 
+},
+{
+ "name": "C_AYLI",
+"size":   1049 
+},
+{
+ "name": "C_MerVeni",
+"size":    844 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "2: love,good,make",
+"children": [
+ {
+ "name": "C_LovLLo",
+"size":    952 
+},
+{
+ "name": "C_MidNiDr",
+"size":    803 
+},
+{
+ "name": "C_2Verona",
+"size":    803 
+},
+{
+ "name": "T_RomJul",
+"size":   1445 
+} 
+] 
+},
+{
+ "name": "8: eye,love,like",
+"children": [
+ {
+ "name": "12: love,eye,heart",
+"children": [
+ {
+ "name": "P_VenAdo",
+"size":    496 
+},
+{
+ "name": "P_LovCom",
+"size":     81 
+} 
+] 
+},
+{
+ "name": "13: eye,like,make",
+"children": [
+ {
+ "name": "P_RapLuc",
+"size":    672 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "2: king,good,make",
+"children": [
+ {
+ "name": "10: king,queen,good",
+"children": [
+ {
+ "name": "H_KRich3",
+"size":   1850 
+},
+{
+ "name": "H_KHen6_1",
+"size":    816 
+},
+{
+ "name": "H_KHen6_2",
+"size":   1299 
+} 
+] 
+},
+{
+ "name": "3: king,good,love",
+"children": [
+ {
+ "name": "H_KHen8",
+"size":   1325 
+},
+{
+ "name": "T_Hamlet",
+"size":   1573 
+},
+{
+ "name": "C_AWTEW",
+"size":    981 
+} 
+] 
+},
+{
+ "name": "9: king,good,make",
+"children": [
+ {
+ "name": "H_KHen5",
+"size":   1267 
+},
+{
+ "name": "H_KHen6_3",
+"size":   1486 
+},
+{
+ "name": "T_KinLea",
+"size":   1347 
+},
+{
+ "name": "H_KRich2",
+"size":   1290 
+},
+{
+ "name": "H_KJohn",
+"size":   1137 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "3: good,make,man",
+"children": [
+ {
+ "name": "4: man,good,men",
+"children": [
+ {
+ "name": "15: good,man,men",
+"children": [
+ {
+ "name": "T_JulCae",
+"size":    882 
+},
+{
+ "name": "T_TimAth",
+"size":    832 
+} 
+] 
+},
+{
+ "name": "5: man,good,time",
+"children": [
+ {
+ "name": "C_ComErr",
+"size":    472 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "5: good,king,like",
+"children": [
+ {
+ "name": "16: ladi,good,time",
+"children": [
+ {
+ "name": "T_Macbet",
+"size":    842 
+} 
+] 
+},
+{
+ "name": "6: good,make,like",
+"children": [
+ {
+ "name": "C_Cymbel",
+"size":   1158 
+},
+{
+ "name": "C_Tempest",
+"size":    593 
+},
+{
+ "name": "C_WinTale",
+"size":   1074 
+},
+{
+ "name": "C_Pericles",
+"size":    862 
+} 
+] 
+},
+{
+ "name": "8: good,king,like",
+"children": [
+ {
+ "name": "H_KHen4_1",
+"size":   1106 
+},
+{
+ "name": "H_KHen4_2",
+"size":   1193 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "6: good,make,like",
+"children": [
+ {
+ "name": "14: good,make,like",
+"children": [
+ {
+ "name": "T_Coriol",
+"size":    950 
+},
+{
+ "name": "T_TitAnd",
+"size":    796 
+},
+{
+ "name": "T_AntCle",
+"size":   1061 
+} 
+] 
+},
+{
+ "name": "7: good,man,make",
+"children": [
+ {
+ "name": "C_MerWiWi",
+"size":    716 
+},
+{
+ "name": "C_Measure",
+"size":    843 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "7: death,love,day",
+"children": [
+ {
+ "name": "P_FunEle",
+"size":    187 
+} 
+] 
+} 
+] 
+} 
+] 
+}

@@ -1,0 +1,3830 @@
+{
+ "name": "Centre",
+"children": [
+ {
+ "name": "1: distribut,normal,densiti",
+"children": [
+ {
+ "name": "1: distribut,mean,paramet",
+"children": [
+ {
+ "name": "MMSTATdistribution_exponential",
+"size":      1 
+},
+{
+ "name": "MVAcondnorm",
+"size":      1 
+},
+{
+ "name": "BCS_CauchyPdfCdf",
+"size":      1 
+},
+{
+ "name": "MSMLLN",
+"size":      1 
+},
+{
+ "name": "MSMasymmetricnormal",
+"size":      1 
+},
+{
+ "name": "BCS_StablePdfCdf",
+"size":      1 
+},
+{
+ "name": "MMSTATdistribution_normal",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "103: distribut,random,uniform",
+"children": [
+ {
+ "name": "SFEBMuller",
+"size":      1 
+},
+{
+ "name": "BCS_ARM",
+"size":      1 
+},
+{
+ "name": "ISP_centralLimitTheorem",
+"size":      1 
+},
+{
+ "name": "BCS_CopulaInvarOutlier",
+"size":      1 
+},
+{
+ "name": "SFEclaytonMC",
+"size":      1 
+},
+{
+ "name": "SFEevt1",
+"size":      1 
+},
+{
+ "name": "SFEevt2",
+"size":      1 
+},
+{
+ "name": "SFEevt3",
+"size":      1 
+},
+{
+ "name": "BCS_claytonMC",
+"size":      1 
+},
+{
+ "name": "SFEtMC",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "109: distribut,model,probabl",
+"children": [
+ {
+ "name": "SFSLossBern",
+"size":      1 
+},
+{
+ "name": "SFSLossBernPois",
+"size":      1 
+},
+{
+ "name": "SFSLossPois",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "117: distribut,pdf,tdistribut",
+"children": [
+ {
+ "name": "BCS_ChiNormApprox",
+"size":      1 
+},
+{
+ "name": "BCS_ChiPdf",
+"size":      1 
+},
+{
+ "name": "BCS_ChiPdfCdf",
+"size":      1 
+},
+{
+ "name": "BCS_tPdfCdf",
+"size":      1 
+},
+{
+ "name": "BCS_tQQplots",
+"size":      1 
+},
+{
+ "name": "ISP_distContinuous",
+"size":      1 
+},
+{
+ "name": "BCS_FPdfCdf",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "119: normal,distribut,interv",
+"children": [
+ {
+ "name": "BCS_Conf2sided",
+"size":      1 
+},
+{
+ "name": "BCS_Conf1sidedleft",
+"size":      1 
+},
+{
+ "name": "BCS_Conf1sidedright",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "33: distribut,can,interact",
+"children": [
+ {
+ "name": "MMSTATdistribution_poisson",
+"size":      1 
+},
+{
+ "name": "MMSTATdistribution_binom",
+"size":      1 
+},
+{
+ "name": "MMSTATdistribution_hyper",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "4: distribut,random,densiti",
+"children": [
+ {
+ "name": "SFEBinomial",
+"size":      1 
+},
+{
+ "name": "SFEbinomv",
+"size":      1 
+},
+{
+ "name": "SFEbinomv_log",
+"size":      1 
+},
+{
+ "name": "MSMasymptoticnormality1",
+"size":      1 
+},
+{
+ "name": "MSMasymptoticnormality2",
+"size":      1 
+},
+{
+ "name": "SFElognormal",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "5: distribut,normal,pdf",
+"children": [
+ {
+ "name": "BCS_HAC",
+"size":      1 
+},
+{
+ "name": "MSMpdfnormal",
+"size":      1 
+},
+{
+ "name": "MSMcdfnormal",
+"size":      1 
+},
+{
+ "name": "MSMpdfasymmetric",
+"size":      1 
+},
+{
+ "name": "MSMedgeworth",
+"size":      1 
+},
+{
+ "name": "BCS_StablePdfCdfSpecial",
+"size":      1 
+},
+{
+ "name": "MVAgausscauchy",
+"size":      1 
+},
+{
+ "name": "SFEtimewn",
+"size":      1 
+},
+{
+ "name": "BCS_ExpPdfCdf",
+"size":      1 
+},
+{
+ "name": "BCS_Poispdf",
+"size":      1 
+},
+{
+ "name": "SFEplotCop",
+"size":      1 
+},
+{
+ "name": "ISP_distNormal",
+"size":      1 
+},
+{
+ "name": "BCS_NormPdfCdf",
+"size":      1 
+},
+{
+ "name": "BCS_NormalCopulaContour",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "57: distribut,empir,normal",
+"children": [
+ {
+ "name": "MVAedfbootstrap",
+"size":      1 
+},
+{
+ "name": "MVAedfnormal",
+"size":      1 
+},
+{
+ "name": "SRM_fig2.14",
+"size":      1 
+},
+{
+ "name": "SRM_fig2.16",
+"size":      1 
+},
+{
+ "name": "BCS_EdfsDAXFTSE",
+"size":      1 
+},
+{
+ "name": "MVAsimdepex",
+"size":      1 
+},
+{
+ "name": "SFSmeffrechet",
+"size":      1 
+},
+{
+ "name": "SPMsimulatedexponential",
+"size":      1 
+},
+{
+ "name": "BCS_ecdf",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "6: distribut,binomi,probabl",
+"children": [
+ {
+ "name": "BCS_Binnorm",
+"size":      1 
+},
+{
+ "name": "BCS_Binpdf",
+"size":      1 
+},
+{
+ "name": "BCS_Bincdf",
+"size":      1 
+},
+{
+ "name": "BCS_Binhist",
+"size":      1 
+},
+{
+ "name": "BCS_Binpois",
+"size":      1 
+},
+{
+ "name": "BCS_Binhyper",
+"size":      1 
+},
+{
+ "name": "MSMpdfbinomial",
+"size":      1 
+},
+{
+ "name": "SRM_fig1.1",
+"size":      1 
+},
+{
+ "name": "ISP_distDiscrete",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "68: densiti,distribut,normal",
+"children": [
+ {
+ "name": "MVAcltbern",
+"size":      1 
+},
+{
+ "name": "SFEclt",
+"size":      1 
+},
+{
+ "name": "MVAcltbern2",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "77: densiti,distribut,probabl",
+"children": [
+ {
+ "name": "MVAmixture",
+"size":      1 
+},
+{
+ "name": "MVAtdistail",
+"size":      1 
+},
+{
+ "name": "MVAghdistail",
+"size":      1 
+},
+{
+ "name": "MVAlaplacedis",
+"size":      1 
+},
+{
+ "name": "SFSchisq",
+"size":      1 
+},
+{
+ "name": "MVAtdis",
+"size":      1 
+},
+{
+ "name": "MVAghadatail",
+"size":      1 
+},
+{
+ "name": "MVAghdis",
+"size":      1 
+},
+{
+ "name": "MVAcauchy",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "93: approxim,normal,distribut",
+"children": [
+ {
+ "name": "SFENormalApprox4",
+"size":      1 
+},
+{
+ "name": "SFENormalApprox1",
+"size":      1 
+},
+{
+ "name": "SFENormalApprox2",
+"size":      1 
+},
+{
+ "name": "SFENormalApprox3",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "94: distribut,contour,densiti",
+"children": [
+ {
+ "name": "SFEgaussCop",
+"size":      1 
+},
+{
+ "name": "SFEtCop",
+"size":      1 
+},
+{
+ "name": "SFEfrechet",
+"size":      1 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "2: regress,estim,model",
+"children": [
+ {
+ "name": "11: simul,generat,number",
+"children": [
+ {
+ "name": "106: generat,random,number",
+"children": [
+ {
+ "name": "BCS_RANDU",
+"size":      1 
+},
+{
+ "name": "SFErangen1",
+"size":      1 
+},
+{
+ "name": "SFErandu",
+"size":      1 
+},
+{
+ "name": "SFErangen2",
+"size":      1 
+},
+{
+ "name": "BCS_LFG",
+"size":      1 
+},
+{
+ "name": "SFEfibonacci",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "19: simul,model,timeseri",
+"children": [
+ {
+ "name": "LCARE_Intervals",
+"size":      1 
+},
+{
+ "name": "SFEcir",
+"size":      1 
+},
+{
+ "name": "LCARE_c_Simulation",
+"size":      1 
+},
+{
+ "name": "LCARE_a_rsn",
+"size":      1 
+},
+{
+ "name": "SFEsimShortRate",
+"size":      1 
+},
+{
+ "name": "SFEscomCIR",
+"size":      1 
+},
+{
+ "name": "SFEsimVasi",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "48: lasso,lnorm,simul",
+"children": [
+ {
+ "name": "TVPvariance",
+"size":      1 
+},
+{
+ "name": "TVPdesign",
+"size":      1 
+},
+{
+ "name": "TVPactiveset",
+"size":      1 
+},
+{
+ "name": "TVPbetanorm",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "51: deriv,simul,surfac",
+"children": [
+ {
+ "name": "FPCAmultiloc",
+"size":      1 
+},
+{
+ "name": "FPCAvariance",
+"size":      1 
+},
+{
+ "name": "FPCAsimulate_input",
+"size":      1 
+},
+{
+ "name": "FPCAsimulation",
+"size":      1 
+},
+{
+ "name": "FPCAgpu",
+"size":      1 
+},
+{
+ "name": "FPCAindividual",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "61: simul,graphic,represent",
+"children": [
+ {
+ "name": "SPMsimulmase",
+"size":      1 
+},
+{
+ "name": "SPMgasmul",
+"size":      1 
+},
+{
+ "name": "SPMsimase",
+"size":      1 
+},
+{
+ "name": "SPMwavereg",
+"size":      1 
+},
+{
+ "name": "simulationplot",
+"size":      1 
+},
+{
+ "name": "MVApcasimu",
+"size":      1 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "12: copula,gumbel,clayton",
+"children": [
+ {
+ "name": "20: copula,valu,gumbel",
+"children": [
+ {
+ "name": "COPlcpdiffMLI",
+"size":      1 
+},
+{
+ "name": "COPlcpgraphs",
+"size":      1 
+},
+{
+ "name": "COPlcpcompcv",
+"size":      1 
+},
+{
+ "name": "COPRollingBIC",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "22: copula,estim,gumbel",
+"children": [
+ {
+ "name": "CopVaRBackTesRes1",
+"size":      1 
+},
+{
+ "name": "COPthetasDiff",
+"size":      1 
+},
+{
+ "name": "COPtautotheta",
+"size":      1 
+},
+{
+ "name": "CopSimStudyBoxpl",
+"size":      1 
+},
+{
+ "name": "COPmisspecClayGum",
+"size":      1 
+},
+{
+ "name": "COPSimStudyResMix",
+"size":      1 
+},
+{
+ "name": "COPSimStudyResLarge",
+"size":      1 
+},
+{
+ "name": "CopDynEst",
+"size":      1 
+},
+{
+ "name": "COPSimStuPercRelBiasLarge",
+"size":      1 
+},
+{
+ "name": "CopVaRBackTesRes2",
+"size":      1 
+},
+{
+ "name": "COPSimStuPercRelBiasMix",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "56: copula,gumbel,clayton",
+"children": [
+ {
+ "name": "MVAghsurface",
+"size":      1 
+},
+{
+ "name": "SFEdynCop",
+"size":      1 
+},
+{
+ "name": "COPlcpinres",
+"size":      1 
+},
+{
+ "name": "BCS_ArchimedeanContour",
+"size":      1 
+},
+{
+ "name": "SFScontourgumbel",
+"size":      1 
+},
+{
+ "name": "SFEArchCopDensity",
+"size":      1 
+},
+{
+ "name": "MVAgumbelclayton",
+"size":      1 
+},
+{
+ "name": "MVAghcontour",
+"size":      1 
+},
+{
+ "name": "MVAsample1000",
+"size":      1 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "16: sampl,mean,interact",
+"children": [
+ {
+ "name": "32: sampl,mean,interact",
+"children": [
+ {
+ "name": "MMSTATtest_mean_error",
+"size":      1 
+},
+{
+ "name": "MMSTATsample_param",
+"size":      1 
+},
+{
+ "name": "MMSTATtest_proportion",
+"size":      1 
+},
+{
+ "name": "MMSTAT_confi_mean_len",
+"size":      1 
+},
+{
+ "name": "MMSTATconfi_pi",
+"size":      1 
+},
+{
+ "name": "MMSTATtest_two_means",
+"size":      1 
+},
+{
+ "name": "MMSTATtest_mean",
+"size":      1 
+},
+{
+ "name": "MMSTATconfi_two_means",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "34: visual,set,can",
+"children": [
+ {
+ "name": "MMSTATdotplot_location",
+"size":      1 
+},
+{
+ "name": "MMSTAThistogram_simple",
+"size":      1 
+},
+{
+ "name": "MMSTATdotplot_parameter",
+"size":      1 
+},
+{
+ "name": "MMSTATvis_distr",
+"size":      1 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "17: paramet,risk,likelihood",
+"children": [
+ {
+ "name": "36: estim,expectil,risk",
+"children": [
+ {
+ "name": "LCARE_Adaptive_Estimation_001",
+"size":      1 
+},
+{
+ "name": "LCARE_Adaptive_Estimation_Length_001",
+"size":      1 
+},
+{
+ "name": "LCARE_Adaptive_Estimation_001",
+"size":      1 
+},
+{
+ "name": "LCARE_Adaptive_Estimation_Length_005",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "37: risk,paramet,model",
+"children": [
+ {
+ "name": "LCARE_Risk_Bound_Th3_001",
+"size":      1 
+},
+{
+ "name": "LCARE_Risk_Bound_Th2_001",
+"size":      1 
+},
+{
+ "name": "LCARE_Risk_Bound_Results",
+"size":      1 
+},
+{
+ "name": "LCARE_Risk_Bound_Th1_005",
+"size":      1 
+},
+{
+ "name": "LCARE_Risk_Bound_Th1_001",
+"size":      1 
+},
+{
+ "name": "LCARE_Risk_Bound_Th3_005",
+"size":      1 
+},
+{
+ "name": "LCARE_Risk_Bound_Th2_005",
+"size":      1 
+},
+{
+ "name": "LCARE_Critical_Values",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "38: likelihood,risk,paramet",
+"children": [
+ {
+ "name": "LCARE_Critical_Values_Th3_005",
+"size":      1 
+},
+{
+ "name": "LCARE_Critical_Values_Th2_001",
+"size":      1 
+},
+{
+ "name": "LCARE_Critical_Values_Th1_005",
+"size":      1 
+},
+{
+ "name": "LCARE_Critical_Values_Th2_005",
+"size":      1 
+},
+{
+ "name": "LCARE_Critical_Values_Th3_001",
+"size":      1 
+},
+{
+ "name": "LCARE_Critical_Values_Th1_001",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "39: day,month,select",
+"children": [
+ {
+ "name": "LCARE_Estimation_Rolling_001",
+"size":      1 
+},
+{
+ "name": "LCARE_Estimation_Rolling_001",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "41: likelihood,paramet,lcareteststatisticsth",
+"children": [
+ {
+ "name": "LCARE_Test_Statistics_Th1_005",
+"size":      1 
+},
+{
+ "name": "LCARE_Test_Statistics_Th2_001",
+"size":      1 
+},
+{
+ "name": "LCARE_Test_Statistics_Th2_005",
+"size":      1 
+},
+{
+ "name": "LCARE_Test_Statistics_Th3_005",
+"size":      1 
+},
+{
+ "name": "LCARE_Test_Statistics_Th3_001",
+"size":      1 
+},
+{
+ "name": "LCARE_Test_Statistics_Th1_001",
+"size":      1 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "18: law,power,bitcoin",
+"children": [
+ {
+ "name": "XFGTabletoLatex",
+"size":      1 
+},
+{
+ "name": "XFGHistWealthD",
+"size":      1 
+},
+{
+ "name": "XFGPowerLawAlpha",
+"size":      1 
+},
+{
+ "name": "XFGPowerLawEst1",
+"size":      1 
+},
+{
+ "name": "XFGPowerLawEst2",
+"size":      1 
+},
+{
+ "name": "XFGPowerLawP",
+"size":      1 
+},
+{
+ "name": "XFGPowerLawEst3",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "2: correl,analysi,use",
+"children": [
+ {
+ "name": "118: variabl,condit,panel",
+"children": [
+ {
+ "name": "BCS_FourDimensional",
+"size":      1 
+},
+{
+ "name": "BCS_ConditionalGrouped",
+"size":      1 
+},
+{
+ "name": "BCS_ConditionalGroupedDensity",
+"size":      1 
+},
+{
+ "name": "BCS_TwoConditioningVariables",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "122: method,numer,use",
+"children": [
+ {
+ "name": "BCS_Rosenbrock",
+"size":      1 
+},
+{
+ "name": "BCS_Integrand",
+"size":      1 
+},
+{
+ "name": "BCS_Newton",
+"size":      1 
+},
+{
+ "name": "BCS_Multimodal",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "123: optim,depict,hyperplan",
+"children": [
+ {
+ "name": "BCS_LP",
+"size":      1 
+},
+{
+ "name": "BCS_NLP",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "124: differ,random,three",
+"children": [
+ {
+ "name": "BCS_Shapes",
+"size":      1 
+},
+{
+ "name": "BCS_SceneSelection",
+"size":      1 
+},
+{
+ "name": "BCS_LightedPlots",
+"size":      1 
+},
+{
+ "name": "BCS_SurfaceShape",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "125: analysi,correl,normal",
+"children": [
+ {
+ "name": "BCS_PCAbiplot",
+"size":      1 
+},
+{
+ "name": "BCS_NPCAbiplot",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "2: visual,number,sampl",
+"children": [
+ {
+ "name": "BCS_FuzzyMultiSets",
+"size":      1 
+},
+{
+ "name": "BCS_HelloWorld",
+"size":      1 
+},
+{
+ "name": "SFE5dim",
+"size":      1 
+},
+{
+ "name": "MSMasprob",
+"size":      1 
+},
+{
+ "name": "MSM_LIL",
+"size":      1 
+},
+{
+ "name": "MMSTATdice_game",
+"size":      1 
+},
+{
+ "name": "approx",
+"size":      1 
+},
+{
+ "name": "COPapp2residual",
+"size":      1 
+},
+{
+ "name": "TXTBreweries",
+"size":      1 
+},
+{
+ "name": "BCS_SamplesDiagram",
+"size":      1 
+},
+{
+ "name": "MMSTATmonty_hall",
+"size":      1 
+},
+{
+ "name": "BCS_SetupFile",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "21: correl,tau,kendal",
+"children": [
+ {
+ "name": "ISP_bivariate",
+"size":      1 
+},
+{
+ "name": "MMSTATrank_correlation",
+"size":      1 
+},
+{
+ "name": "COPRollingcorr",
+"size":      1 
+},
+{
+ "name": "MMSTATcrosstable",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "24: mine,count,word",
+"children": [
+ {
+ "name": "TXTMcDbl",
+"size":      1 
+},
+{
+ "name": "TXTnlp",
+"size":      1 
+},
+{
+ "name": "TXTMcDlm",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "25: volatil,nonparametr,simul",
+"children": [
+ {
+ "name": "TXTSimulationAttention",
+"size":      1 
+},
+{
+ "name": "TXTSimulation",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "27: linear,regress,analysi",
+"children": [
+ {
+ "name": "ISP_anscombe",
+"size":      1 
+},
+{
+ "name": "ISP_gettingStarted",
+"size":      1 
+},
+{
+ "name": "MVAcareffect",
+"size":      1 
+},
+{
+ "name": "DataExpo2013_QuachSymanzikForsgren",
+"size":      1 
+},
+{
+ "name": "ARRreghb",
+"size":      1 
+},
+{
+ "name": "BCS_MLRdiagnostic",
+"size":      1 
+},
+{
+ "name": "BCS_LDA",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "35: mortal,forecast,popul",
+"children": [
+ {
+ "name": "SPAdemoLC",
+"size":      1 
+},
+{
+ "name": "SPAdemodescriptive",
+"size":      1 
+},
+{
+ "name": "SPAdemofcastaccuracy",
+"size":      1 
+},
+{
+ "name": "SPAdemoHUJapan",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "42: index,crix,cryptocurr",
+"children": [
+ {
+ "name": "ECRIXindex",
+"size":      1 
+},
+{
+ "name": "EFCRIXindex",
+"size":      1 
+},
+{
+ "name": "CRIXfamdiff",
+"size":      1 
+},
+{
+ "name": "CRIXoutmarket",
+"size":      1 
+},
+{
+ "name": "CRIXindex",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "43: mean,mse,squar",
+"children": [
+ {
+ "name": "DAXCRIXloss",
+"size":      1 
+},
+{
+ "name": "CRIXfamdiffloss",
+"size":      1 
+},
+{
+ "name": "BCS_LeaveOneOut",
+"size":      1 
+},
+{
+ "name": "BCS_MSE",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "44: varianc,comput,pca",
+"children": [
+ {
+ "name": "BCS_PCAvar",
+"size":      1 
+},
+{
+ "name": "MVAusenergy",
+"size":      1 
+},
+{
+ "name": "CRIXvarreturn",
+"size":      1 
+},
+{
+ "name": "SFEVolaPCA",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "53: correl,bootstrap,confid",
+"children": [
+ {
+ "name": "VolLinkagesSigma",
+"size":      1 
+},
+{
+ "name": "bootstrap",
+"size":      1 
+},
+{
+ "name": "ISP_bootstrapDemo",
+"size":      1 
+},
+{
+ "name": "VolLinkagesDCC",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "55: factor,semiparametr,option",
+"children": [
+ {
+ "name": "LETFFactorFuncs",
+"size":      1 
+},
+{
+ "name": "LETFIVTrueMonsc",
+"size":      1 
+},
+{
+ "name": "LETFIVSurfPlot",
+"size":      1 
+},
+{
+ "name": "LETFStochLoads",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "59: interv,confid,regress",
+"children": [
+ {
+ "name": "ISP_bayesianStats",
+"size":      1 
+},
+{
+ "name": "SRM_fig4.6",
+"size":      1 
+},
+{
+ "name": "plotLMR",
+"size":      1 
+},
+{
+ "name": "ISP_fitLine",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "60: size,group,sampl",
+"children": [
+ {
+ "name": "BCS_HistBinSizes",
+"size":      1 
+},
+{
+ "name": "SRM_fig5.5",
+"size":      1 
+},
+{
+ "name": "ISP_sampleSize",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "69: cluster,distanc,analysi",
+"children": [
+ {
+ "name": "BCS_CAComplete",
+"size":      1 
+},
+{
+ "name": "BCS_CAmethods",
+"size":      1 
+},
+{
+ "name": "MVAclusfood",
+"size":      1 
+},
+{
+ "name": "MVAspecclust",
+"size":      1 
+},
+{
+ "name": "MVAclusbank",
+"size":      1 
+},
+{
+ "name": "MVAclus8p",
+"size":      1 
+},
+{
+ "name": "MVAclusbh",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "7: correl,visual,covari",
+"children": [
+ {
+ "name": "MVAcanus",
+"size":      1 
+},
+{
+ "name": "MVAcancarm",
+"size":      1 
+},
+{
+ "name": "MVAbluepullover",
+"size":      1 
+},
+{
+ "name": "HistofCor",
+"size":      1 
+},
+{
+ "name": "MMSTATscatterplot",
+"size":      1 
+},
+{
+ "name": "MMSTATcorrelation",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "71: discrimin,rule,estim",
+"children": [
+ {
+ "name": "MVAdiscbh",
+"size":      1 
+},
+{
+ "name": "MVAaerbh",
+"size":      1 
+},
+{
+ "name": "MVAaper",
+"size":      1 
+},
+{
+ "name": "MVAdisnorm",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "72: factor,analysi,perform",
+"children": [
+ {
+ "name": "BCS_FAsummary",
+"size":      1 
+},
+{
+ "name": "MVAfactcarm",
+"size":      1 
+},
+{
+ "name": "MVAfacthous",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "85: descript,statist,mean",
+"children": [
+ {
+ "name": "SPMmigmvdesc",
+"size":      1 
+},
+{
+ "name": "MVAdescbh",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "87: project,index,densiti",
+"children": [
+ {
+ "name": "MVAppsib",
+"size":      1 
+},
+{
+ "name": "MVAppexample",
+"size":      1 
+},
+{
+ "name": "ppsib",
+"size":      1 
+},
+{
+ "name": "MVAdisfbank",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "89: distanc,proxim,clusteranalysi",
+"children": [
+ {
+ "name": "MVAdrugsim",
+"size":      1 
+},
+{
+ "name": "MVAclususcrime",
+"size":      1 
+},
+{
+ "name": "MVAcarsim",
+"size":      1 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "21: test,chisquar,statist",
+"children": [
+ {
+ "name": "58: test,group,use",
+"children": [
+ {
+ "name": "ISP_kruskalWallis",
+"size":      1 
+},
+{
+ "name": "ISP_oneGroup",
+"size":      1 
+},
+{
+ "name": "ISP_anovaOneway",
+"size":      1 
+},
+{
+ "name": "ISP_twoGroups",
+"size":      1 
+},
+{
+ "name": "MVAsimcidif",
+"size":      1 
+},
+{
+ "name": "ISP_binomialTest",
+"size":      1 
+},
+{
+ "name": "ISP_compGroups",
+"size":      1 
+},
+{
+ "name": "SRM_fig4.2",
+"size":      1 
+},
+{
+ "name": "MVAsimcibh",
+"size":      1 
+},
+{
+ "name": "ISP_checkNormality",
+"size":      1 
+},
+{
+ "name": "ISP_multipleTesting",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "64: test,chisquar,statist",
+"children": [
+ {
+ "name": "MVAdrug3waysTab",
+"size":      1 
+},
+{
+ "name": "MVAcorrEyeHair",
+"size":      1 
+},
+{
+ "name": "MVAcorrCar",
+"size":      1 
+},
+{
+ "name": "MVAdrug",
+"size":      1 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "25: regress,comput,represent",
+"children": [
+ {
+ "name": "110: regress,represent,graphic",
+"children": [
+ {
+ "name": "SPMAdditivecorrelated",
+"size":      1 
+},
+{
+ "name": "SPMadditive",
+"size":      1 
+},
+{
+ "name": "SPMadditivebostonh",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "111: regress,expenditur,comput",
+"children": [
+ {
+ "name": "SPMengelcurve",
+"size":      1 
+},
+{
+ "name": "SPMspline",
+"size":      1 
+},
+{
+ "name": "SPMengelcurve1",
+"size":      1 
+},
+{
+ "name": "SPMorthogon",
+"size":      1 
+},
+{
+ "name": "SPMsplineRegression",
+"size":      1 
+},
+{
+ "name": "SPMengelconf",
+"size":      1 
+},
+{
+ "name": "SPMlocpolyderivative",
+"size":      1 
+},
+{
+ "name": "SPMmesmooreg",
+"size":      1 
+},
+{
+ "name": "SPMkernelregression",
+"size":      1 
+},
+{
+ "name": "SPMlocpolyregression",
+"size":      1 
+},
+{
+ "name": "SPMknnreg",
+"size":      1 
+},
+{
+ "name": "SPMregress",
+"size":      1 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "3: risk,quantil,variabl",
+"children": [
+ {
+ "name": "101: gaussian,integr,normal",
+"children": [
+ {
+ "name": "ETL",
+"size":      1 
+},
+{
+ "name": "SFEbaseCorr",
+"size":      1 
+},
+{
+ "name": "SFEETLGaussTr1",
+"size":      1 
+},
+{
+ "name": "SFEcompCorr",
+"size":      1 
+},
+{
+ "name": "lowerTrLossGauss",
+"size":      1 
+},
+{
+ "name": "BaseCorrGaussModelCDO",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "28: curv,quantil,expectil",
+"children": [
+ {
+ "name": "FRM_download_data",
+"size":      1 
+},
+{
+ "name": "LQRcheck",
+"size":      1 
+},
+{
+ "name": "FASTEC_with_Expectiles",
+"size":      1 
+},
+{
+ "name": "FASTECChinaTemper2008",
+"size":      1 
+},
+{
+ "name": "SFSconfexpectile0.95",
+"size":      1 
+},
+{
+ "name": "ISP_lifelinesDemo",
+"size":      1 
+},
+{
+ "name": "P_beta_est",
+"size":      1 
+},
+{
+ "name": "SFSbootband",
+"size":      1 
+},
+{
+ "name": "data_load_hurricanes",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "29: quantil,return,lasso",
+"children": [
+ {
+ "name": "TEDASstrategies2",
+"size":      1 
+},
+{
+ "name": "TEDAS_tau_spine_GS",
+"size":      1 
+},
+{
+ "name": "TEDAS_tau_spine_GS_KDE",
+"size":      1 
+},
+{
+ "name": "TEDAS_tau_spine_MF",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "3: risk,expect,portfolio",
+"children": [
+ {
+ "name": "XFGexp_rtn_ES_2d",
+"size":      1 
+},
+{
+ "name": "XFGTWSE100_strategy_fixedESlevel",
+"size":      1 
+},
+{
+ "name": "MSM_VaRandES",
+"size":      1 
+},
+{
+ "name": "XFGexp_rtn_SRM_2d",
+"size":      1 
+},
+{
+ "name": "XFGexp_rtn_SRM",
+"size":      1 
+},
+{
+ "name": "CRIXoutmarketTERES",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "40: estim,line,quantil",
+"children": [
+ {
+ "name": "TENET_total_in_out_groups",
+"size":      1 
+},
+{
+ "name": "SFEgpdist",
+"size":      1 
+},
+{
+ "name": "SFEhillquantile",
+"size":      1 
+},
+{
+ "name": "LCARE_Parameter_Dynamics_Quartiles",
+"size":      1 
+},
+{
+ "name": "TENET_VaR_CoVaR",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "45: risk,variabl,quantil",
+"children": [
+ {
+ "name": "TENET_total_connectedness",
+"size":      1 
+},
+{
+ "name": "TENET_total_in_out_individual",
+"size":      1 
+},
+{
+ "name": "TENET_Linear",
+"size":      1 
+},
+{
+ "name": "TENET_SIFIs",
+"size":      1 
+},
+{
+ "name": "TENET_SIM",
+"size":      1 
+},
+{
+ "name": "TENET_group_network",
+"size":      1 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "4: regress,model,linear",
+"children": [
+ {
+ "name": "115: regress,fit,variabl",
+"children": [
+ {
+ "name": "BCS_linreg",
+"size":      1 
+},
+{
+ "name": "BCS_RegressionCurve",
+"size":      1 
+},
+{
+ "name": "BCS_BivariateRegression",
+"size":      1 
+},
+{
+ "name": "ISP_logisticRegression",
+"size":      1 
+},
+{
+ "name": "ISP_ordinalLogisticRegression",
+"size":      1 
+},
+{
+ "name": "ISP_multipleRegression",
+"size":      1 
+},
+{
+ "name": "BCS_MLRleaps",
+"size":      1 
+},
+{
+ "name": "BCS_UnivariateRegression",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "121: regress,logreturn,nonparametr",
+"children": [
+ {
+ "name": "BCS_GaussianKernel",
+"size":      1 
+},
+{
+ "name": "BCS_kNN",
+"size":      1 
+},
+{
+ "name": "BCS_Splines",
+"size":      1 
+},
+{
+ "name": "BCS_KernelSmoother",
+"size":      1 
+},
+{
+ "name": "BCS_NonparametricRegressions",
+"size":      1 
+},
+{
+ "name": "BCS_UniformKernel",
+"size":      1 
+},
+{
+ "name": "BCS_LOESS",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "76: regress,linear,represent",
+"children": [
+ {
+ "name": "MVAlrtest",
+"size":      1 
+},
+{
+ "name": "MVAregpull",
+"size":      1 
+},
+{
+ "name": "MVAregzoom",
+"size":      1 
+},
+{
+ "name": "MVAlinregbh",
+"size":      1 
+},
+{
+ "name": "MVAlinreg2bh",
+"size":      1 
+},
+{
+ "name": "MVAsirdata",
+"size":      1 
+},
+{
+ "name": "MVAsir2data",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "8: model,regress,use",
+"children": [
+ {
+ "name": "ISP_anovaTwoway",
+"size":      1 
+},
+{
+ "name": "TSARMARJMCMC",
+"size":      1 
+},
+{
+ "name": "MCARtest",
+"size":      1 
+},
+{
+ "name": "SPMgamkredit",
+"size":      1 
+},
+{
+ "name": "ISP_modelImplementations",
+"size":      1 
+},
+{
+ "name": "MVAboshousing",
+"size":      1 
+},
+{
+ "name": "bestglm_lambda_down",
+"size":      1 
+},
+{
+ "name": "MVAdrugLogistic",
+"size":      1 
+},
+{
+ "name": "MVAbankrupt",
+"size":      1 
+},
+{
+ "name": "SFEdefaproba",
+"size":      1 
+},
+{
+ "name": "ISP_simpleModels",
+"size":      1 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "3: graphic,represent,visual",
+"children": [
+ {
+ "name": "10: kernel,densiti,estim",
+"children": [
+ {
+ "name": "16: densiti,estim,kernel",
+"children": [
+ {
+ "name": "BCS_PopularKernels",
+"size":      1 
+},
+{
+ "name": "SPMcontour2D",
+"size":      1 
+},
+{
+ "name": "SPMkdeconstruct",
+"size":      1 
+},
+{
+ "name": "SPMkde2D",
+"size":      1 
+},
+{
+ "name": "SPMfesdensities",
+"size":      1 
+},
+{
+ "name": "SPM2density2D",
+"size":      1 
+},
+{
+ "name": "BCS_NormalDensityFit",
+"size":      1 
+},
+{
+ "name": "SFSdaxdowkernel",
+"size":      1 
+},
+{
+ "name": "BQPR_betadensity",
+"size":      1 
+},
+{
+ "name": "XFGkernelcom",
+"size":      1 
+},
+{
+ "name": "SFEDaxReturnDistribution",
+"size":      1 
+},
+{
+ "name": "SPMkdemse",
+"size":      1 
+},
+{
+ "name": "SPMkdebias",
+"size":      1 
+},
+{
+ "name": "SPMkdebias_sim",
+"size":      1 
+},
+{
+ "name": "SFStimeseries",
+"size":      1 
+},
+{
+ "name": "SPMkdeconstruct-Sliders",
+"size":      1 
+},
+{
+ "name": "SFE_RND_HD",
+"size":      1 
+},
+{
+ "name": "SFEpricingkernel",
+"size":      1 
+},
+{
+ "name": "BCS_KernelDAX",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "50: kernel,gaussian,epanechnikov",
+"children": [
+ {
+ "name": "SPMkernelcontours",
+"size":      1 
+},
+{
+ "name": "FPCAepan",
+"size":      1 
+},
+{
+ "name": "SPMkernel",
+"size":      1 
+},
+{
+ "name": "MVAkernelfunctions",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "70: densiti,visual,kernel",
+"children": [
+ {
+ "name": "MVAdenbank",
+"size":      1 
+},
+{
+ "name": "MVAcontbank2",
+"size":      1 
+},
+{
+ "name": "MVAdenbank3",
+"size":      1 
+},
+{
+ "name": "MVAdenbank2",
+"size":      1 
+},
+{
+ "name": "MVAcontbank3",
+"size":      1 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "13: return,dax,index",
+"children": [
+ {
+ "name": "104: dax,return,ftse",
+"children": [
+ {
+ "name": "SFEcomplogreturns",
+"size":      1 
+},
+{
+ "name": "SFEfdescStat",
+"size":      1 
+},
+{
+ "name": "SFECondVola",
+"size":      1 
+},
+{
+ "name": "SFSarch",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "23: return,dax,index",
+"children": [
+ {
+ "name": "SFSautoparcorr",
+"size":      1 
+},
+{
+ "name": "LCARE_Index_Returns",
+"size":      1 
+},
+{
+ "name": "LCARE_Index_Returns_Description",
+"size":      1 
+},
+{
+ "name": "TEDAS_gestalts",
+"size":      1 
+},
+{
+ "name": "TEDAS_hf_acfs",
+"size":      1 
+},
+{
+ "name": "COPretaparch",
+"size":      1 
+},
+{
+ "name": "SFEReturns",
+"size":      1 
+},
+{
+ "name": "COPp.values",
+"size":      1 
+},
+{
+ "name": "TEDAS_perform",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "96: stock,index,dax",
+"children": [
+ {
+ "name": "SFEmvol03",
+"size":      1 
+},
+{
+ "name": "SFEmvol01",
+"size":      1 
+},
+{
+ "name": "SFEtimeret",
+"size":      1 
+},
+{
+ "name": "SFEvolnonparest",
+"size":      1 
+},
+{
+ "name": "SFElshill",
+"size":      1 
+},
+{
+ "name": "SFEvolgarchest",
+"size":      1 
+},
+{
+ "name": "SFEtail",
+"size":      1 
+},
+{
+ "name": "SFEgarchest",
+"size":      1 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "14: analysi,multivari,visual",
+"children": [
+ {
+ "name": "ARRboxgscit",
+"size":      1 
+},
+{
+ "name": "ARRmosage",
+"size":      1 
+},
+{
+ "name": "ARRmosagegr",
+"size":      1 
+},
+{
+ "name": "ARRhexhin",
+"size":      1 
+},
+{
+ "name": "ARRscamer",
+"size":      1 
+},
+{
+ "name": "ARRhexage",
+"size":      1 
+},
+{
+ "name": "ARRhexcit",
+"size":      1 
+},
+{
+ "name": "ARRpcpgscit",
+"size":      1 
+},
+{
+ "name": "ARRboxhb",
+"size":      1 
+},
+{
+ "name": "ARRhismer",
+"size":      1 
+},
+{
+ "name": "ARRpcphb",
+"size":      1 
+},
+{
+ "name": "ARRpcpmer",
+"size":      1 
+},
+{
+ "name": "ARRboxage",
+"size":      1 
+},
+{
+ "name": "ARRcormer",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "15: estim,graphic,model",
+"children": [
+ {
+ "name": "100: var,estim,visual",
+"children": [
+ {
+ "name": "SFSvarblockmaxbacktesting",
+"size":      1 
+},
+{
+ "name": "SFSvarpotbacktesting",
+"size":      1 
+},
+{
+ "name": "SFEvar_block_max_params",
+"size":      1 
+},
+{
+ "name": "SFEvar_block_max_backtesting",
+"size":      1 
+},
+{
+ "name": "SFEvar_pot_params",
+"size":      1 
+},
+{
+ "name": "SFEvar_pot_backtesting",
+"size":      1 
+},
+{
+ "name": "SFSvar_pot_params",
+"size":      1 
+},
+{
+ "name": "SFSvar_block_max_params",
+"size":      1 
+},
+{
+ "name": "VaR",
+"size":      1 
+},
+{
+ "name": "SFEVaRHAC",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "105: averag,var,risk",
+"children": [
+ {
+ "name": "SFEVaRbank",
+"size":      1 
+},
+{
+ "name": "SFEVaRqqplot",
+"size":      1 
+},
+{
+ "name": "SFEVaRtimeplot",
+"size":      1 
+},
+{
+ "name": "SFEVaRtimeplot2",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "114: estim,visual,represent",
+"children": [
+ {
+ "name": "SPMnadwaest",
+"size":      1 
+},
+{
+ "name": "SPMderivest",
+"size":      1 
+},
+{
+ "name": "SPMdenepatri",
+"size":      1 
+},
+{
+ "name": "SPMlocpolyest",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "30: graphic,deriv,represent",
+"children": [
+ {
+ "name": "MTS_afns_fr",
+"size":      1 
+},
+{
+ "name": "MTS_afns_uk",
+"size":      1 
+},
+{
+ "name": "MTS_afns_it",
+"size":      1 
+},
+{
+ "name": "MTS_afns_de",
+"size":      1 
+},
+{
+ "name": "MTS_afns_sw",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "31: estim,model,graphic",
+"children": [
+ {
+ "name": "MTS_expinf",
+"size":      1 
+},
+{
+ "name": "MTS_comexpinf_cds",
+"size":      1 
+},
+{
+ "name": "MTS_multi_modelres",
+"size":      1 
+},
+{
+ "name": "SPMlogit",
+"size":      1 
+},
+{
+ "name": "MTS_comexpinf",
+"size":      1 
+},
+{
+ "name": "VCCARE",
+"size":      1 
+},
+{
+ "name": "SFENewsImpactCurve",
+"size":      1 
+},
+{
+ "name": "SFEgplm",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "88: lasso,estim,group",
+"children": [
+ {
+ "name": "MVAgrouplasso",
+"size":      1 
+},
+{
+ "name": "MVAlassologit",
+"size":      1 
+},
+{
+ "name": "MVAlassoregress",
+"size":      1 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "19: graphic,represent,visual",
+"children": [
+ {
+ "name": "112: visual,graphic,represent",
+"children": [
+ {
+ "name": "BCS_BarGraphs",
+"size":      1 
+},
+{
+ "name": "SPMparametriclinkfunctions",
+"size":      1 
+},
+{
+ "name": "BCS_pie",
+"size":      1 
+},
+{
+ "name": "SPMbuffagrid",
+"size":      1 
+},
+{
+ "name": "SPMbuffadata",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "113: histogram,return,represent",
+"children": [
+ {
+ "name": "SPMhistogram",
+"size":      1 
+},
+{
+ "name": "SPMstockreturnhisto",
+"size":      1 
+},
+{
+ "name": "SPMashstock",
+"size":      1 
+},
+{
+ "name": "SPMhiststock",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "116: histogram,boxplot,exampl",
+"children": [
+ {
+ "name": "BCS_hist2",
+"size":      1 
+},
+{
+ "name": "BCS_Boxplot",
+"size":      1 
+},
+{
+ "name": "BCS_Boxplot2",
+"size":      1 
+},
+{
+ "name": "ISP_showPlots",
+"size":      1 
+},
+{
+ "name": "BCS_hist1",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "120: graphic,control,rpanel",
+"children": [
+ {
+ "name": "BCS_HistogramBoxplotOption",
+"size":      1 
+},
+{
+ "name": "BCS_ControlDensityEstimate",
+"size":      1 
+},
+{
+ "name": "BCS_rp.tkrplot",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "49: graphic,represent,contour",
+"children": [
+ {
+ "name": "SFEdescgrad",
+"size":      1 
+},
+{
+ "name": "SFEerrorsurf",
+"size":      1 
+},
+{
+ "name": "SPMpenalize",
+"size":      1 
+},
+{
+ "name": "MVAprofil",
+"size":      1 
+},
+{
+ "name": "HermPolyPlot",
+"size":      1 
+},
+{
+ "name": "MVAlassocontour",
+"size":      1 
+},
+{
+ "name": "MVAresponsesurface",
+"size":      1 
+},
+{
+ "name": "MVAsimdep1",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "65: decomposit,eigenvalu,graphic",
+"children": [
+ {
+ "name": "MVAcorrjourn",
+"size":      1 
+},
+{
+ "name": "MVAcorrcrime",
+"size":      1 
+},
+{
+ "name": "MVAdecofood",
+"size":      1 
+},
+{
+ "name": "MVAcorrbac",
+"size":      1 
+},
+{
+ "name": "MVAspecdecomp",
+"size":      1 
+},
+{
+ "name": "SFETsDecomp",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "67: represent,graphic,financi",
+"children": [
+ {
+ "name": "MVAageCom",
+"size":      1 
+},
+{
+ "name": "MVAageIncome",
+"size":      1 
+},
+{
+ "name": "MVAincomeLi",
+"size":      1 
+},
+{
+ "name": "MVAhexaAl",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "78: boxplot,graphic,visual",
+"children": [
+ {
+ "name": "MVAboxbank1",
+"size":      1 
+},
+{
+ "name": "MVAboxbank6",
+"size":      1 
+},
+{
+ "name": "MVAboxbhd",
+"size":      1 
+},
+{
+ "name": "MVAboxcar",
+"size":      1 
+},
+{
+ "name": "MVAboxcity",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "79: histogram,graphic,represent",
+"children": [
+ {
+ "name": "MVAashbank",
+"size":      1 
+},
+{
+ "name": "SPMhistobias2",
+"size":      1 
+},
+{
+ "name": "SPMHistoConstruct",
+"size":      1 
+},
+{
+ "name": "SPMbuffahisto",
+"size":      1 
+},
+{
+ "name": "MVAhisbank1",
+"size":      1 
+},
+{
+ "name": "MVAhisbank2",
+"size":      1 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "22: mds,scale,multidimension",
+"children": [
+ {
+ "name": "62: mds,similar,multidimension",
+"children": [
+ {
+ "name": "MVAQnetClusKmeans_plotly",
+"size":      1 
+},
+{
+ "name": "MVAQnetClusKmeans",
+"size":      1 
+},
+{
+ "name": "MVAQnetClusKmeansB",
+"size":      1 
+},
+{
+ "name": "MVAQnetClusKmeansT",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "63: pav,mds,violat",
+"children": [
+ {
+ "name": "MVAMDSpooladj",
+"size":      1 
+},
+{
+ "name": "MVAnmdscar1",
+"size":      1 
+},
+{
+ "name": "MVAnmdscar2",
+"size":      1 
+},
+{
+ "name": "MVAcarrankings_plotly",
+"size":      1 
+},
+{
+ "name": "MVAnmdscar3",
+"size":      1 
+},
+{
+ "name": "MVAcarrankings",
+"size":      1 
+},
+{
+ "name": "MVAMDSnonmstart",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "73: scale,multidimension,mds",
+"children": [
+ {
+ "name": "BCS_isoMDS",
+"size":      1 
+},
+{
+ "name": "MVAmdscarm",
+"size":      1 
+},
+{
+ "name": "MVAMDScity1",
+"size":      1 
+},
+{
+ "name": "MVAMDScity2",
+"size":      1 
+},
+{
+ "name": "BCS_MDS",
+"size":      1 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "23: pca,eigenvalu,standard",
+"children": [
+ {
+ "name": "MVAnpcafood",
+"size":      1 
+},
+{
+ "name": "MVAnpcatime",
+"size":      1 
+},
+{
+ "name": "MVAnpcahousi",
+"size":      1 
+},
+{
+ "name": "MVAnpcabank",
+"size":      1 
+},
+{
+ "name": "MVApcabank",
+"size":      1 
+},
+{
+ "name": "MVApcabankr",
+"size":      1 
+},
+{
+ "name": "MVAnpcausco2",
+"size":      1 
+},
+{
+ "name": "MVAnpcahous",
+"size":      1 
+},
+{
+ "name": "MVAnpcausco",
+"size":      1 
+},
+{
+ "name": "MVAnpcabanki",
+"size":      1 
+},
+{
+ "name": "MVApcabanki",
+"size":      1 
+},
+{
+ "name": "MVAnpcausco2i",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "24: graphic,represent,scatterplot",
+"children": [
+ {
+ "name": "80: scatterplot,bank,note",
+"children": [
+ {
+ "name": "MVAdraftbank4",
+"size":      1 
+},
+{
+ "name": "MVAscabank456",
+"size":      1 
+},
+{
+ "name": "MVAscabank45",
+"size":      1 
+},
+{
+ "name": "MVAscabank56",
+"size":      1 
+},
+{
+ "name": "MVAregbank",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "81: visual,comput,graphic",
+"children": [
+ {
+ "name": "MVAandcur",
+"size":      1 
+},
+{
+ "name": "MVAandcur2",
+"size":      1 
+},
+{
+ "name": "MVAparcoo1",
+"size":      1 
+},
+{
+ "name": "MVAparcoo2",
+"size":      1 
+},
+{
+ "name": "MVAfacebank50",
+"size":      1 
+},
+{
+ "name": "MVAfacebank10",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "82: financi,represent,comput",
+"children": [
+ {
+ "name": "MVApcp1",
+"size":      1 
+},
+{
+ "name": "MVApcp2",
+"size":      1 
+},
+{
+ "name": "MVApcp3",
+"size":      1 
+},
+{
+ "name": "MVApcp4",
+"size":      1 
+},
+{
+ "name": "MVApcp5",
+"size":      1 
+},
+{
+ "name": "MVApcp7",
+"size":      1 
+},
+{
+ "name": "MVApcp8",
+"size":      1 
+},
+{
+ "name": "MVApcp6",
+"size":      1 
+},
+{
+ "name": "MVApcphousing",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "83: scatterplot,graphic,visual",
+"children": [
+ {
+ "name": "MVAscapull2",
+"size":      1 
+},
+{
+ "name": "MVAscapull1",
+"size":      1 
+},
+{
+ "name": "MVAdrafthousing",
+"size":      1 
+},
+{
+ "name": "MVAdrafthousingt",
+"size":      1 
+},
+{
+ "name": "MVAscalogret",
+"size":      1 
+},
+{
+ "name": "MVAscacar",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "84: scatterplot,contour,normal",
+"children": [
+ {
+ "name": "BCS_NormalProbability",
+"size":      1 
+},
+{
+ "name": "MVAcontnorm",
+"size":      1 
+},
+{
+ "name": "BCS_BinormalDensity",
+"size":      1 
+},
+{
+ "name": "MVAcorrnorm",
+"size":      1 
+},
+{
+ "name": "BCS_NormalCopula",
+"size":      1 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "5: classif,graphic,represent",
+"children": [
+ {
+ "name": "86: classif,svm,kernel",
+"children": [
+ {
+ "name": "MVAsvmSig2C1",
+"size":      1 
+},
+{
+ "name": "MVAsvmSpiral",
+"size":      1 
+},
+{
+ "name": "MVAsvmSig100C1",
+"size":      1 
+},
+{
+ "name": "MVAsvmOrangePeel",
+"size":      1 
+},
+{
+ "name": "MVAsvmSig05C200",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "9: classif,analysi,tree",
+"children": [
+ {
+ "name": "MVACARTGiniTree1",
+"size":      1 
+},
+{
+ "name": "MVACARTTwoingTree1",
+"size":      1 
+},
+{
+ "name": "MVACARTBan2",
+"size":      1 
+},
+{
+ "name": "Tree_OJ",
+"size":      1 
+},
+{
+ "name": "MVACARTBan1",
+"size":      1 
+},
+{
+ "name": "MVAbankruptcydis",
+"size":      1 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "6: visual,return,financi",
+"children": [
+ {
+ "name": "10: visual,timeseri,graphic",
+"children": [
+ {
+ "name": "SFEustb",
+"size":      1 
+},
+{
+ "name": "SFEusycplot",
+"size":      1 
+},
+{
+ "name": "MTS_BEIR",
+"size":      1 
+},
+{
+ "name": "timeseries",
+"size":      1 
+},
+{
+ "name": "Unemployment_Google_vs_Official",
+"size":      1 
+},
+{
+ "name": "SFScola1",
+"size":      1 
+},
+{
+ "name": "SFEclose",
+"size":      1 
+},
+{
+ "name": "SFScola2",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "11: time,seri,visual",
+"children": [
+ {
+ "name": "SFEnnarch",
+"size":      1 
+},
+{
+ "name": "SFEnnjpyusd",
+"size":      1 
+},
+{
+ "name": "BCS_DefaultStackTimeSeries",
+"size":      1 
+},
+{
+ "name": "Unemploymentrate_jobagency_comparison",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "17: asset,portfolio,bond",
+"children": [
+ {
+ "name": "SFSLossDiscrete",
+"size":      1 
+},
+{
+ "name": "SFEcirpricing",
+"size":      1 
+},
+{
+ "name": "SFEPortfolioLossDensity",
+"size":      1 
+},
+{
+ "name": "SFEdefault",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "74: portfolio,return,optim",
+"children": [
+ {
+ "name": "MVAportfol",
+"size":      1 
+},
+{
+ "name": "MVAportfol_IBM_Ford",
+"size":      1 
+},
+{
+ "name": "SFEoptman",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "75: return,visual,financi",
+"children": [
+ {
+ "name": "SFSmvol01",
+"size":      1 
+},
+{
+ "name": "MVAreturns",
+"size":      1 
+},
+{
+ "name": "SPMfxrate",
+"size":      1 
+},
+{
+ "name": "SFEDAXlogreturns",
+"size":      1 
+},
+{
+ "name": "SFEtimedax",
+"size":      1 
+},
+{
+ "name": "SFScola3",
+"size":      1 
+},
+{
+ "name": "SFEfxrate",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "98: portfolio,logreturn,financi",
+"children": [
+ {
+ "name": "SFEdenport",
+"size":      1 
+},
+{
+ "name": "SFEportlogreturns",
+"size":      1 
+},
+{
+ "name": "SFEtailGEV_pp",
+"size":      1 
+},
+{
+ "name": "SFSportfolio",
+"size":      1 
+},
+{
+ "name": "SFEtailGEV_qq",
+"size":      1 
+},
+{
+ "name": "SFStailport",
+"size":      1 
+},
+{
+ "name": "SFEMeanExcessFun",
+"size":      1 
+},
+{
+ "name": "SFEportfolio",
+"size":      1 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "9: volatil,graphic,impli",
+"children": [
+ {
+ "name": "15: volatil,impli,impliedvolatil",
+"children": [
+ {
+ "name": "SFEscap",
+"size":      1 
+},
+{
+ "name": "LETFIV",
+"size":      1 
+},
+{
+ "name": "LETFIVMonSc",
+"size":      1 
+},
+{
+ "name": "MVAcpcaiv",
+"size":      1 
+},
+{
+ "name": "SFEVolSurfFilm",
+"size":      1 
+},
+{
+ "name": "SFEVolSurfPlot",
+"size":      1 
+},
+{
+ "name": "SFEVolaCov",
+"size":      1 
+},
+{
+ "name": "SFEVolSurfPlot",
+"size":      1 
+},
+{
+ "name": "SFEVolaTermStructure",
+"size":      1 
+},
+{
+ "name": "SFEPCA",
+"size":      1 
+},
+{
+ "name": "SFEcapvplot",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "18: varianc,represent,graphic",
+"children": [
+ {
+ "name": "SFErealizedVolatilityVarious",
+"size":      1 
+},
+{
+ "name": "SFErealizedVarianceIPC",
+"size":      1 
+},
+{
+ "name": "SFErealizedVolatilityDAX",
+"size":      1 
+},
+{
+ "name": "SFEvolTenDaysIPC",
+"size":      1 
+},
+{
+ "name": "SFErealizedVolatilityIPC",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "47: sampl,volatil,autocorrel",
+"children": [
+ {
+ "name": "XFGbetatsacf",
+"size":      1 
+},
+{
+ "name": "XFGrvtsacf",
+"size":      1 
+},
+{
+ "name": "XFGsignature",
+"size":      1 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "4: option,price,call",
+"children": [
+ {
+ "name": "20: uniform,option,bootstrap",
+"children": [
+ {
+ "name": "LETFConfBands05SDS",
+"size":      1 
+},
+{
+ "name": "LETFConfBands05SPY",
+"size":      1 
+},
+{
+ "name": "LETFConfBands05UPRO",
+"size":      1 
+},
+{
+ "name": "LETFConfBands05SSO",
+"size":      1 
+},
+{
+ "name": "LETFConfBands07SSO",
+"size":      1 
+},
+{
+ "name": "LETFConfBands07SDS",
+"size":      1 
+},
+{
+ "name": "LETFConfBands07UPRO",
+"size":      1 
+},
+{
+ "name": "LETFConfBands07SPY",
+"size":      1 
+},
+{
+ "name": "LETFConfBands06SDS",
+"size":      1 
+},
+{
+ "name": "LETFConfBands06SSO",
+"size":      1 
+},
+{
+ "name": "LETFConfBands06SPY",
+"size":      1 
+},
+{
+ "name": "LETFConfBands06UPRO",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "7: option,price,call",
+"children": [
+ {
+ "name": "102: price,delta,stock",
+"children": [
+ {
+ "name": "SFSdeltahedging",
+"size":      1 
+},
+{
+ "name": "SFEDeltaHedging",
+"size":      1 
+},
+{
+ "name": "SFEDeltahedgingLogic",
+"size":      1 
+},
+{
+ "name": "SFEDeltahedgingdepend",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "107: option,volatil,price",
+"children": [
+ {
+ "name": "SFSriskreversal",
+"size":      1 
+},
+{
+ "name": "SFSstickycall",
+"size":      1 
+},
+{
+ "name": "SFSinterpolMaturity",
+"size":      1 
+},
+{
+ "name": "SFSinterpolStrike",
+"size":      1 
+},
+{
+ "name": "SFScalendarspread",
+"size":      1 
+},
+{
+ "name": "SFSextrapolationIV",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "108: call,option,put",
+"children": [
+ {
+ "name": "blackscholes",
+"size":      1 
+},
+{
+ "name": "SFSbullspreadcall",
+"size":      1 
+},
+{
+ "name": "SFSpayoffcollar",
+"size":      1 
+},
+{
+ "name": "SFSbutterfly",
+"size":      1 
+},
+{
+ "name": "SFSbottomstrangle",
+"size":      1 
+},
+{
+ "name": "SFSbottomstraddle",
+"size":      1 
+},
+{
+ "name": "SFSstrip",
+"size":      1 
+},
+{
+ "name": "SFSstrap",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "12: option,price,asset",
+"children": [
+ {
+ "name": "SFSrndbarrier",
+"size":      1 
+},
+{
+ "name": "SFECliquetPrice",
+"size":      1 
+},
+{
+ "name": "SFECliquetPayoff",
+"size":      1 
+},
+{
+ "name": "SFEdown-and-out",
+"size":      1 
+},
+{
+ "name": "SFEBSCopt2",
+"size":      1 
+},
+{
+ "name": "SFEBarrier",
+"size":      1 
+},
+{
+ "name": "SFEexerput",
+"size":      1 
+},
+{
+ "name": "CRIXhnoptions",
+"size":      1 
+},
+{
+ "name": "SFEBSCopt1",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "13: tree,binomi,probabl",
+"children": [
+ {
+ "name": "SFSIBTdk",
+"size":      1 
+},
+{
+ "name": "SFSIBTbc",
+"size":      1 
+},
+{
+ "name": "SFEBoundary",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "52: price,estim,timeseri",
+"children": [
+ {
+ "name": "VolLinkagesVecmRes",
+"size":      1 
+},
+{
+ "name": "VolLinkagesPricePlot",
+"size":      1 
+},
+{
+ "name": "VolLinkagesCointVecm",
+"size":      1 
+},
+{
+ "name": "VolLinkagesStat",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "92: option,call,asset",
+"children": [
+ {
+ "name": "SFEdelta",
+"size":      1 
+},
+{
+ "name": "SFEvomma",
+"size":      1 
+},
+{
+ "name": "SFEcolor",
+"size":      1 
+},
+{
+ "name": "SFEultima",
+"size":      1 
+},
+{
+ "name": "SFEtheta",
+"size":      1 
+},
+{
+ "name": "SFEgamma",
+"size":      1 
+},
+{
+ "name": "SFEspeed",
+"size":      1 
+},
+{
+ "name": "SFEcharmcall",
+"size":      1 
+},
+{
+ "name": "SFEdvegadtime",
+"size":      1 
+},
+{
+ "name": "SFEvega",
+"size":      1 
+},
+{
+ "name": "SFEvolga",
+"size":      1 
+},
+{
+ "name": "SFEvanna",
+"size":      1 
+},
+{
+ "name": "SFEzomma",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "97: option,binomi,asset",
+"children": [
+ {
+ "name": "SFSbitreeNDiv",
+"size":      1 
+},
+{
+ "name": "SFEbitreePDiv",
+"size":      1 
+},
+{
+ "name": "SFEbitreeCDiv",
+"size":      1 
+},
+{
+ "name": "SFEcompound",
+"size":      1 
+},
+{
+ "name": "SFElookback",
+"size":      1 
+},
+{
+ "name": "SFEbitreeFDiv",
+"size":      1 
+},
+{
+ "name": "SFEasian",
+"size":      1 
+},
+{
+ "name": "SFEchooser",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "99: call,option,price",
+"children": [
+ {
+ "name": "SFEbsbm",
+"size":      1 
+},
+{
+ "name": "SFSBSCopt1",
+"size":      1 
+},
+{
+ "name": "SFSgreeks",
+"size":      1 
+},
+{
+ "name": "SFSstoploss",
+"size":      1 
+},
+{
+ "name": "SFEputcall",
+"size":      1 
+},
+{
+ "name": "SFShullhedgeratio",
+"size":      1 
+},
+{
+ "name": "SFEbsprices",
+"size":      1 
+},
+{
+ "name": "SFSproductcall",
+"size":      1 
+},
+{
+ "name": "SFScompBS",
+"size":      1 
+},
+{
+ "name": "SFStrinomialSB",
+"size":      1 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "5: process,simul,stochast",
+"children": [
+ {
+ "name": "14: process,stochast,binomi",
+"children": [
+ {
+ "name": "SFEItoProcess",
+"size":      1 
+},
+{
+ "name": "SFEItoIntegral",
+"size":      1 
+},
+{
+ "name": "SFS5step",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "90: autocorrel,process,stochast",
+"children": [
+ {
+ "name": "SFEpacfar2",
+"size":      1 
+},
+{
+ "name": "SFEpacfma2",
+"size":      1 
+},
+{
+ "name": "SFEacfma2",
+"size":      1 
+},
+{
+ "name": "SFSacfMA3",
+"size":      1 
+},
+{
+ "name": "SFEfgnacf",
+"size":      1 
+},
+{
+ "name": "SFEacfma1",
+"size":      1 
+},
+{
+ "name": "SFEacfar2",
+"size":      1 
+},
+{
+ "name": "SFEacfar1",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "91: process,simul,stochast",
+"children": [
+ {
+ "name": "SFETimegarch",
+"size":      1 
+},
+{
+ "name": "SFElikma1",
+"size":      1 
+},
+{
+ "name": "SFElikgarch",
+"size":      1 
+},
+{
+ "name": "SFEarfima",
+"size":      1 
+},
+{
+ "name": "SFEkurgarch",
+"size":      1 
+},
+{
+ "name": "SFEplotma1",
+"size":      1 
+},
+{
+ "name": "SFESpecSim",
+"size":      1 
+},
+{
+ "name": "SFElikarch1",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "95: process,simul,graphic",
+"children": [
+ {
+ "name": "SFSbb",
+"size":      1 
+},
+{
+ "name": "SFSwiener3",
+"size":      1 
+},
+{
+ "name": "SFSwiener1",
+"size":      1 
+},
+{
+ "name": "SFSwiener2",
+"size":      1 
+},
+{
+ "name": "SFEGBMProcess",
+"size":      1 
+},
+{
+ "name": "SFEwienerdens",
+"size":      1 
+},
+{
+ "name": "SFEfbmplot",
+"size":      1 
+},
+{
+ "name": "SFSornstein",
+"size":      1 
+},
+{
+ "name": "SFSsamplepath",
+"size":      1 
+},
+{
+ "name": "SFEmaxprocess",
+"size":      1 
+},
+{
+ "name": "SFEtrinomp",
+"size":      1 
+},
+{
+ "name": "SFEsimGBM",
+"size":      1 
+},
+{
+ "name": "SFEsimOU",
+"size":      1 
+},
+{
+ "name": "SFEsimCIR",
+"size":      1 
+},
+{
+ "name": "SFEWienerProcess",
+"size":      1 
+},
+{
+ "name": "SFEBinomp",
+"size":      1 
+} 
+] 
+} 
+] 
+} 
+] 
+}

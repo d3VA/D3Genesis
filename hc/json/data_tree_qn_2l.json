@@ -1,0 +1,6983 @@
+{
+ "name": "Centre",
+"children": [
+ {
+ "name": "1",
+"children": [
+ {
+ "name": "1",
+"children": [
+ {
+ "name": "SPMfxvolatility_1992",
+"size":     15 
+},
+{
+ "name": "SMStestcov_1824",
+"size":      0 
+},
+{
+ "name": "MVAregbank_1616",
+"size":     27 
+},
+{
+ "name": "MVAregbank_524",
+"size":     19 
+},
+{
+ "name": "MVAresponsesurface_1683",
+"size":     10 
+},
+{
+ "name": "STFdmm01_2030",
+"size":     15 
+},
+{
+ "name": "NAME_MISSING(4)_507",
+"size":      0 
+},
+{
+ "name": "NAME_MISSING(3)_485",
+"size":      0 
+},
+{
+ "name": "NAME_MISSING(6)_420",
+"size":      0 
+},
+{
+ "name": "NAME_MISSING(5)_511",
+"size":      0 
+},
+{
+ "name": "VaRDGdecomp_2172",
+"size":     19 
+},
+{
+ "name": "NCspDSFM_1705",
+"size":      0 
+},
+{
+ "name": "NAME_MISSING(2)_474",
+"size":      0 
+},
+{
+ "name": "arord_996",
+"size":      0 
+},
+{
+ "name": "arqr_997",
+"size":      0 
+},
+{
+ "name": "arfit_995",
+"size":      0 
+},
+{
+ "name": "SMSlinregbank2_2329",
+"size":     17 
+},
+{
+ "name": "SMSlinregbank2_1814",
+"size":     10 
+},
+{
+ "name": "SFSpayoffcollar_313",
+"size":     11 
+},
+{
+ "name": "SFEoptman_1401",
+"size":      7 
+},
+{
+ "name": "SMSscapopu_1798",
+"size":      6 
+},
+{
+ "name": "SFEoptman_2381",
+"size":     11 
+},
+{
+ "name": "leastsquaresterm_1004",
+"size":      0 
+},
+{
+ "name": "SMSdisfbank2_1853",
+"size":     24 
+},
+{
+ "name": "SMSdisfbank_1095",
+"size":      4 
+},
+{
+ "name": "SFENewsImpactCurve_2158",
+"size":     24 
+},
+{
+ "name": "SFENewsImpactCurve_2157",
+"size":     24 
+},
+{
+ "name": "SFEmyfun_2259",
+"size":     13 
+},
+{
+ "name": "SFEFreqFilt_2456",
+"size":     10 
+},
+{
+ "name": "one_sided_hp_filter_kalman_1473",
+"size":     23 
+},
+{
+ "name": "pacf_1005",
+"size":      0 
+},
+{
+ "name": "SFEexerput_1400",
+"size":     10 
+},
+{
+ "name": "SPMgasmul_2101",
+"size":     11 
+},
+{
+ "name": "smoothn_276",
+"size":      1 
+},
+{
+ "name": "SMSfactvocab_1104",
+"size":      5 
+},
+{
+ "name": "SFSextrapolationIV_2107",
+"size":      8 
+},
+{
+ "name": "STFhes05_1872",
+"size":     10 
+},
+{
+ "name": "dcc_estimation_1829",
+"size":     23 
+},
+{
+ "name": "dcc_forcast_1830",
+"size":     19 
+},
+{
+ "name": "dfcrit_999",
+"size":      0 
+},
+{
+ "name": "diffdates_1012",
+"size":      1 
+},
+{
+ "name": "SFE3dim_702",
+"size":     15 
+},
+{
+ "name": "SFS5step_1533",
+"size":      7 
+},
+{
+ "name": "GaussCop_458",
+"size":      0 
+},
+{
+ "name": "dwatson_1001",
+"size":      0 
+},
+{
+ "name": "durbinh_1000",
+"size":      0 
+},
+{
+ "name": "SFEBinomp_2459",
+"size":     15 
+},
+{
+ "name": "SMSanovapull_2252",
+"size":     38 
+},
+{
+ "name": "SPMsplinekernel_2191",
+"size":     37 
+},
+{
+ "name": "SIMqrL1_2120",
+"size":     91 
+},
+{
+ "name": "STFloss08t_1950",
+"size":     23 
+},
+{
+ "name": "MVAbluepullover_2426",
+"size":     15 
+},
+{
+ "name": "TEDAS_dcc_garch_2366",
+"size":     15 
+},
+{
+ "name": "TEDAS_ogarch_2365",
+"size":     15 
+},
+{
+ "name": "SFSsamplepath_1348",
+"size":     12 
+},
+{
+ "name": "SFSsamplepath_1339",
+"size":     11 
+},
+{
+ "name": "SFEfrechet_1271",
+"size":     18 
+},
+{
+ "name": "SFEfrechet_1741",
+"size":     14 
+},
+{
+ "name": "SMScancarm_774",
+"size":      0 
+},
+{
+ "name": "SFEexerput_582",
+"size":     15 
+},
+{
+ "name": "SFEexratevol_735",
+"size":     16 
+},
+{
+ "name": "sibj_1695",
+"size":      2 
+},
+{
+ "name": "MVAresponsesurface_641",
+"size":     13 
+},
+{
+ "name": "STFdmm01_2007",
+"size":     19 
+},
+{
+ "name": "SPMsplinekernel_2143",
+"size":      8 
+},
+{
+ "name": "SFEDeltaHedging_2300",
+"size":     35 
+},
+{
+ "name": "TEDAS_strategies_2364",
+"size":     16 
+},
+{
+ "name": "TEDAS_strategies_2486",
+"size":     14 
+},
+{
+ "name": "tquant_1008",
+"size":      0 
+},
+{
+ "name": "mst_2006",
+"size":      9 
+},
+{
+ "name": "MVAcareffect_1678",
+"size":      0 
+},
+{
+ "name": "XFGSPDcb_2520",
+"size":     53 
+},
+{
+ "name": "XFGSPDcb2_2521",
+"size":     55 
+},
+{
+ "name": "XFGseries_1777",
+"size":      9 
+},
+{
+ "name": "XFGSPDcom_2522",
+"size":     40 
+},
+{
+ "name": "SFSrwdiscretetime_1539",
+"size":      6 
+},
+{
+ "name": "SFSrwdiscretetime_288",
+"size":     19 
+},
+{
+ "name": "SFSrndbarrier_1538",
+"size":      3 
+},
+{
+ "name": "SMScartdiag_2128",
+"size":      5 
+},
+{
+ "name": "XFGiv06_2445",
+"size":     24 
+},
+{
+ "name": "SFEtrinomp_2424",
+"size":     16 
+},
+{
+ "name": "SFEtrinomp_584",
+"size":      5 
+},
+{
+ "name": "SFEtrinomp_1983",
+"size":      3 
+},
+{
+ "name": "SMScapmnyse_779",
+"size":      2 
+},
+{
+ "name": "MVAcpcaiv_1048",
+"size":     23 
+},
+{
+ "name": "nigmml_2004",
+"size":      6 
+},
+{
+ "name": "SFEVolaCov_1801",
+"size":      6 
+},
+{
+ "name": "SPMengelconfsample_2097",
+"size":      0 
+},
+{
+ "name": "SFEoptman_583",
+"size":      8 
+},
+{
+ "name": "MSEivgss_2039",
+"size":      4 
+},
+{
+ "name": "SFStrinomialSB_1734",
+"size":     20 
+},
+{
+ "name": "dcc_llh_gen_mgarch_1831",
+"size":     11 
+},
+{
+ "name": "MVAQnetClusKmeans_2548",
+"size":     28 
+},
+{
+ "name": "MVAQnetClusKmeansB_2544",
+"size":     29 
+},
+{
+ "name": "MVAQnetClusKmeansT_2545",
+"size":     38 
+},
+{
+ "name": "hypmml_2003",
+"size":      7 
+},
+{
+ "name": "KQ_696",
+"size":      4 
+},
+{
+ "name": "SFEVolaCov_518",
+"size":      8 
+},
+{
+ "name": "DSFM_fmri_2324",
+"size":     19 
+},
+{
+ "name": "SMSnpcathletic_1108",
+"size":      0 
+},
+{
+ "name": "mgfs_1722",
+"size":      1 
+},
+{
+ "name": "ESdynamic.test_2516",
+"size":     20 
+},
+{
+ "name": "SMSnpcasimu_1107",
+"size":      0 
+},
+{
+ "name": "SFE5dim_1754",
+"size":     10 
+},
+{
+ "name": "SFE_tCop_467",
+"size":      0 
+},
+{
+ "name": "moments_1723",
+"size":      2 
+},
+{
+ "name": "MSEanovapull_891",
+"size":      2 
+},
+{
+ "name": "SPMwavereg_2144",
+"size":      6 
+},
+{
+ "name": "MSEfMRI_2160",
+"size":      5 
+},
+{
+ "name": "CentralLimitTheorem_411",
+"size":      0 
+},
+{
+ "name": "MSEex0706_2052",
+"size":      6 
+},
+{
+ "name": "cleaning historical data for pricing_1010",
+"size":      6 
+},
+{
+ "name": "MincerZarno_2515",
+"size":     33 
+},
+{
+ "name": "SFEplotma1_2500",
+"size":      4 
+},
+{
+ "name": "SFEplotma1_1806",
+"size":      4 
+},
+{
+ "name": "BCS_MLRleaps_2413",
+"size":     18 
+},
+{
+ "name": "BCS_MLRdiagnostic_2412",
+"size":     38 
+},
+{
+ "name": "hclust_1691",
+"size":      9 
+},
+{
+ "name": "heart_971",
+"size":      0 
+},
+{
+ "name": "SMScovbank_1808",
+"size":      7 
+},
+{
+ "name": "SMScovbank_2254",
+"size":     11 
+},
+{
+ "name": "SFSextrapolationIV_967",
+"size":      8 
+},
+{
+ "name": "kpss_1003",
+"size":      0 
+},
+{
+ "name": "MSEloglikelihood_823",
+"size":      0 
+},
+{
+ "name": "IBTresort_1784",
+"size":      9 
+},
+{
+ "name": "SFSdaxdowkernel_1457",
+"size":      0 
+},
+{
+ "name": "SFSdaxdowkernel_901",
+"size":      0 
+},
+{
+ "name": "MSElinregvocab_2161",
+"size":      7 
+},
+{
+ "name": "NormalDist_498",
+"size":      0 
+},
+{
+ "name": "Gumbel3D_418",
+"size":      0 
+},
+{
+ "name": "SFS5step_1540",
+"size":      7 
+},
+{
+ "name": "ESdynamicSIMULATIONTest_2517",
+"size":     28 
+},
+{
+ "name": "ESPlot_2514",
+"size":     29 
+},
+{
+ "name": "IBTimpliedvola_1466",
+"size":     10 
+},
+{
+ "name": "IBTimpliedvola_1552",
+"size":      9 
+},
+{
+ "name": "IBTimpliedvola_1783",
+"size":     12 
+},
+{
+ "name": "DSFM_YC_1704",
+"size":     14 
+},
+{
+ "name": "dynamics_temperature_991",
+"size":      9 
+},
+{
+ "name": "SPMadditivecorrelated_1189",
+"size":      7 
+},
+{
+ "name": "SFEBinomp_2373",
+"size":     15 
+},
+{
+ "name": "BCS_Linreg_2393",
+"size":     24 
+},
+{
+ "name": "SMSscapopu_2079",
+"size":      6 
+},
+{
+ "name": "ppf_1693",
+"size":     14 
+},
+{
+ "name": "SFSpayoffcollar_449",
+"size":      8 
+},
+{
+ "name": "SPMadditivebostonh_1188",
+"size":      7 
+},
+{
+ "name": "MVAbankruptcydis_1581",
+"size":     14 
+},
+{
+ "name": "MVAbankruptcydis_1582",
+"size":     14 
+},
+{
+ "name": "MVAboshousing_1677",
+"size":      0 
+},
+{
+ "name": "SMSlinregvocab_1818",
+"size":      7 
+},
+{
+ "name": "SMSlinregvocab_2330",
+"size":     27 
+},
+{
+ "name": "SPMpenalize_2141",
+"size":      2 
+},
+{
+ "name": "SFSrndbarrier_1547",
+"size":      3 
+},
+{
+ "name": "SFSrwdiscretetime_553",
+"size":     19 
+},
+{
+ "name": "SPMadditive_1187",
+"size":      5 
+},
+{
+ "name": "VaRDGdecompG_2171",
+"size":     11 
+},
+{
+ "name": "sphere_2149",
+"size":      2 
+},
+{
+ "name": "SMScartsq_2129",
+"size":      4 
+},
+{
+ "name": "stabrnd_2109",
+"size":      0 
+},
+{
+ "name": "SFStimeseries_899",
+"size":      0 
+},
+{
+ "name": "SMSfactbank_1098",
+"size":      0 
+},
+{
+ "name": "SFECondVola_2048",
+"size":     11 
+},
+{
+ "name": "SFEdefault_484",
+"size":     15 
+},
+{
+ "name": "SFEdown-and-out_766",
+"size":     12 
+},
+{
+ "name": "SFEDeltahedgingLogic_1456",
+"size":     36 
+},
+{
+ "name": "SFEDeltahedgingdepend_1468",
+"size":     24 
+},
+{
+ "name": "SFECondVola_2049",
+"size":     11 
+},
+{
+ "name": "SFEDaxReturnDistribution_1755",
+"size":      0 
+},
+{
+ "name": "SFEdefaproba_1776",
+"size":      4 
+},
+{
+ "name": "SFEdefaproba_539",
+"size":      6 
+},
+{
+ "name": "SFEdown-and-out_1902",
+"size":     12 
+},
+{
+ "name": "SFEexerput_2398",
+"size":     16 
+},
+{
+ "name": "SPMsimulmase_2142",
+"size":      5 
+},
+{
+ "name": "XFGSPDonemonth_2519",
+"size":     58 
+},
+{
+ "name": "XFGSPDoneday_2518",
+"size":     73 
+},
+{
+ "name": "SFStrinomialSB_1510",
+"size":     20 
+},
+{
+ "name": "SFSLossDiscrete_1471",
+"size":     13 
+},
+{
+ "name": "SFSLossDiscrete_908",
+"size":     13 
+},
+{
+ "name": "pava_1686",
+"size":      0 
+},
+{
+ "name": "AkdHaeOsiElectricity_983",
+"size":     14 
+},
+{
+ "name": "arconf_994",
+"size":      0 
+},
+{
+ "name": "adjR_1721",
+"size":      2 
+},
+{
+ "name": "afunction_1009",
+"size":      2 
+},
+{
+ "name": "adfreg_993",
+"size":      0 
+},
+{
+ "name": "arres_998",
+"size":      0 
+},
+{
+ "name": "_390",
+"size":      0 
+},
+{
+ "name": "acf_992",
+"size":      0 
+},
+{
+ "name": "MVAdrugLogistic_1679",
+"size":     22 
+},
+{
+ "name": "MVAdrugLogistic_1680",
+"size":     22 
+},
+{
+ "name": "MVAdisfbank_928",
+"size":     26 
+},
+{
+ "name": "MVAdisfbank_493",
+"size":     26 
+},
+{
+ "name": "MVAdrug3waysTab_1716",
+"size":     23 
+},
+{
+ "name": "ruinmix2exps_1719",
+"size":      2 
+},
+{
+ "name": "plotFCATMPR2OLS_1023",
+"size":      2 
+},
+{
+ "name": "plotIMPR.m_1025",
+"size":      1 
+},
+{
+ "name": "phillips_1006",
+"size":      0 
+},
+{
+ "name": "MSR_Frechet_bounds_505",
+"size":      5 
+},
+{
+ "name": "MSEregression_2037",
+"size":      9 
+},
+{
+ "name": "MSR_Frechet_bounds_1033",
+"size":      5 
+},
+{
+ "name": "quantilelasso_2119",
+"size":     13 
+},
+{
+ "name": "qstat_1007",
+"size":      0 
+},
+{
+ "name": "SFStimeseries_1458",
+"size":      0 
+},
+{
+ "name": "one_sided_hp_filter_serial_1474",
+"size":     19 
+},
+{
+ "name": "sparse_hp_filter_1475",
+"size":      8 
+},
+{
+ "name": "STFhes03_1868",
+"size":     22 
+},
+{
+ "name": "SFEplotma1_1284",
+"size":      4 
+} 
+] 
+},
+{
+ "name": "10",
+"children": [
+ {
+ "name": "MSRfibonacci_1039",
+"size":      9 
+},
+{
+ "name": "MSRfibonacci_260",
+"size":     11 
+},
+{
+ "name": "SFEfibonacci_1142",
+"size":     11 
+},
+{
+ "name": "SFEfibonacci_523",
+"size":     12 
+},
+{
+ "name": "SFErangen2_589",
+"size":     18 
+},
+{
+ "name": "mixexprnd_2202",
+"size":     11 
+},
+{
+ "name": "Burrrnd_2201",
+"size":     11 
+},
+{
+ "name": "SFEBMuller_1247",
+"size":     20 
+},
+{
+ "name": "BCS_Boxmuller_2402",
+"size":     28 
+},
+{
+ "name": "SFErandu_1748",
+"size":     18 
+},
+{
+ "name": "SFErandu_590",
+"size":     21 
+},
+{
+ "name": "SFErangen1_1749",
+"size":     14 
+},
+{
+ "name": "SFErangen1_588",
+"size":     17 
+},
+{
+ "name": "SFEBMuller_1388",
+"size":     16 
+},
+{
+ "name": "BCS_LFG_2404",
+"size":     26 
+},
+{
+ "name": "BCS_RANDU_2405",
+"size":     23 
+},
+{
+ "name": "SFEevt2_1759",
+"size":      4 
+},
+{
+ "name": "Paretornd_2203",
+"size":     11 
+},
+{
+ "name": "SFErangen2_1750",
+"size":     15 
+} 
+] 
+},
+{
+ "name": "100",
+"children": [
+ {
+ "name": "VaRcumulantsDG_2169",
+"size":     19 
+},
+{
+ "name": "VaRcorrfDGF2_2179",
+"size":     15 
+},
+{
+ "name": "VaRcumulantDG_2168",
+"size":     23 
+},
+{
+ "name": "XFGqDGtest_2181",
+"size":     22 
+},
+{
+ "name": "VaRqDG_2180",
+"size":     21 
+},
+{
+ "name": "XFGVaRcgfDGtest_2173",
+"size":      9 
+},
+{
+ "name": "VaRcdfDG_2178",
+"size":     10 
+},
+{
+ "name": "VaRcgfDG_2165",
+"size":     11 
+},
+{
+ "name": "VaRcharfDG_2166",
+"size":      9 
+},
+{
+ "name": "VaRcharfDGF2_2167",
+"size":     17 
+} 
+] 
+},
+{
+ "name": "11",
+"children": [
+ {
+ "name": "SMS5num_762",
+"size":     18 
+},
+{
+ "name": "MVAboxbank1_2428",
+"size":     20 
+},
+{
+ "name": "MVAboxbank1_621",
+"size":     12 
+},
+{
+ "name": "MVAboxbhd_516",
+"size":      8 
+},
+{
+ "name": "MVAboxcar_1408",
+"size":     11 
+},
+{
+ "name": "MVAboxbank6_1484",
+"size":     19 
+},
+{
+ "name": "MVAboxbank6_543",
+"size":     12 
+},
+{
+ "name": "SMSboxunemp_773",
+"size":      4 
+},
+{
+ "name": "SMSboxbank6_770",
+"size":      8 
+},
+{
+ "name": "SMSboxcar_1834",
+"size":     11 
+},
+{
+ "name": "MVAboxcar_1485",
+"size":     19 
+},
+{
+ "name": "MVAboxcity_490",
+"size":     10 
+},
+{
+ "name": "MVAboxcity_1486",
+"size":     16 
+},
+{
+ "name": "BCS_Boxplot2_2389",
+"size":     42 
+},
+{
+ "name": "BCS_Boxplot_2384",
+"size":     41 
+},
+{
+ "name": "MVAboxbhd_2298",
+"size":     16 
+},
+{
+ "name": "SMSboxcar_772",
+"size":     11 
+},
+{
+ "name": "SMSboxunemp_1835",
+"size":      5 
+},
+{
+ "name": "SMSboxbank6_1833",
+"size":     11 
+} 
+] 
+},
+{
+ "name": "13",
+"children": [
+ {
+ "name": "MVAtdis_1235",
+"size":     22 
+},
+{
+ "name": "MVAtdis_1637",
+"size":     17 
+},
+{
+ "name": "MVAtdistail_1482",
+"size":     17 
+},
+{
+ "name": "MVAtdistail_1638",
+"size":     17 
+},
+{
+ "name": "MSRtcopulaparam_525",
+"size":     11 
+},
+{
+ "name": "BCS_ChiNormApprox_2352",
+"size":     34 
+},
+{
+ "name": "BCS_ChiPdfCdf_2354",
+"size":     35 
+},
+{
+ "name": "BCS_ChiPdf_2353",
+"size":     25 
+},
+{
+ "name": "BCS_FPdfCdf_2356",
+"size":     39 
+},
+{
+ "name": "BCS_tQQplots_2360",
+"size":     37 
+},
+{
+ "name": "BCS_tPdfCdf_2361",
+"size":     28 
+},
+{
+ "name": "MSRtaildep_tcdf_515",
+"size":     15 
+},
+{
+ "name": "MSRtaildepVsVarIndex_508",
+"size":     15 
+},
+{
+ "name": "MSRnonp_utd_275",
+"size":      8 
+},
+{
+ "name": "MSRlambda_smoothing_utd_416",
+"size":      6 
+},
+{
+ "name": "MSR_TDC_tStudent_375",
+"size":     13 
+},
+{
+ "name": "MSR_TDC_tStudent_1431",
+"size":      9 
+},
+{
+ "name": "SFSchisq_1714",
+"size":      8 
+},
+{
+ "name": "SFSchisq_1715",
+"size":      8 
+} 
+] 
+},
+{
+ "name": "14",
+"children": [
+ {
+ "name": "MSEGCthmexp_2002",
+"size":     23 
+},
+{
+ "name": "XFGdist_1761",
+"size":      3 
+},
+{
+ "name": "STFloss02_1932",
+"size":     19 
+},
+{
+ "name": "STFloss02_1909",
+"size":     19 
+},
+{
+ "name": "BCS_ECDF_2390",
+"size":     21 
+},
+{
+ "name": "MSEedfnormal_893",
+"size":     17 
+},
+{
+ "name": "MSEedfnormal_1161",
+"size":     17 
+},
+{
+ "name": "MSEGCthmnorm_2001",
+"size":     24 
+},
+{
+ "name": "MVAedfnormal_1654",
+"size":     17 
+},
+{
+ "name": "MVAedfbootstrap_1653",
+"size":     11 
+},
+{
+ "name": "MVAedfnormal_620",
+"size":     21 
+},
+{
+ "name": "MVAedfbootstrap_503",
+"size":     16 
+} 
+] 
+},
+{
+ "name": "15",
+"children": [
+ {
+ "name": "SMSfactuscrime_2449",
+"size":     12 
+},
+{
+ "name": "SMSfactushealth_2458",
+"size":     11 
+},
+{
+ "name": "SMSfactushealth_1103",
+"size":      4 
+},
+{
+ "name": "SMSfactbank_2529",
+"size":     54 
+},
+{
+ "name": "SMSfactfood_1099",
+"size":     33 
+},
+{
+ "name": "SMSfacthletic_2531",
+"size":    109 
+},
+{
+ "name": "BCS_FAsummary_2409",
+"size":     28 
+},
+{
+ "name": "factiter_2533",
+"size":     12 
+},
+{
+ "name": "SMSfactfood_2530",
+"size":     29 
+},
+{
+ "name": "SMSfacthletic_1844",
+"size":    111 
+},
+{
+ "name": "SMSfactanal_1100",
+"size":      4 
+},
+{
+ "name": "SMSfactbank_2447",
+"size":     60 
+},
+{
+ "name": "SMSfactsigma_2532",
+"size":     13 
+},
+{
+ "name": "SMSfactuscrime_1102",
+"size":      4 
+},
+{
+ "name": "MVAfactcarm_1398",
+"size":     24 
+},
+{
+ "name": "MVAfactcarm_2159",
+"size":     24 
+},
+{
+ "name": "SMSfactsigma_1101",
+"size":      3 
+},
+{
+ "name": "SMSfactsigma_2448",
+"size":     23 
+} 
+] 
+},
+{
+ "name": "16",
+"children": [
+ {
+ "name": "MVAmdscarm_1214",
+"size":     20 
+},
+{
+ "name": "MVAnmdscar1_482",
+"size":      9 
+},
+{
+ "name": "MVAmdscarm_1687",
+"size":     12 
+},
+{
+ "name": "SMSnmdsathlesub_1850",
+"size":     12 
+},
+{
+ "name": "SMSnmdsuscrime_1852",
+"size":      7 
+},
+{
+ "name": "SMSnmdsushealth_1956",
+"size":      9 
+},
+{
+ "name": "MVAnmdscar1_934",
+"size":      9 
+},
+{
+ "name": "MVAnmdscar2_660",
+"size":     10 
+},
+{
+ "name": "MVAnmdscar2_935",
+"size":     10 
+},
+{
+ "name": "MVAnmdscar3_661",
+"size":     11 
+},
+{
+ "name": "MVAnmdscar3_936",
+"size":     11 
+},
+{
+ "name": "MVAMDScity2_931",
+"size":     15 
+},
+{
+ "name": "SMSmdsbank_1845",
+"size":      6 
+},
+{
+ "name": "BCS_MDS_2411",
+"size":     28 
+},
+{
+ "name": "BCS_IsoMDS_2410",
+"size":     22 
+},
+{
+ "name": "MVAMDScity2_431",
+"size":     15 
+},
+{
+ "name": "MVAMDScity1_930",
+"size":     12 
+},
+{
+ "name": "MVAMDScity1_462",
+"size":     12 
+},
+{
+ "name": "SMSnmdsathletic_1851",
+"size":     18 
+},
+{
+ "name": "SMSnmdscarm_1846",
+"size":     10 
+} 
+] 
+},
+{
+ "name": "17",
+"children": [
+ {
+ "name": "stabcull_2005",
+"size":     11 
+},
+{
+ "name": "stable_700",
+"size":     40 
+},
+{
+ "name": "STFstab02_1862",
+"size":     21 
+},
+{
+ "name": "STFstab02_1364",
+"size":     19 
+},
+{
+ "name": "mc_culloch_2318",
+"size":     15 
+},
+{
+ "name": "stab_reg_kw_2320",
+"size":     12 
+},
+{
+ "name": "BCS_NormPdfCdf_2357",
+"size":     33 
+},
+{
+ "name": "sim_stable_2319",
+"size":     11 
+},
+{
+ "name": "BCS_StablePdfCdfSpecial_2362",
+"size":     51 
+},
+{
+ "name": "STFstab01_1363",
+"size":     20 
+},
+{
+ "name": "STFstab03_1878",
+"size":     35 
+},
+{
+ "name": "BCS_StablePdfCdf_2358",
+"size":     55 
+},
+{
+ "name": "SFSmsr1_1335",
+"size":     29 
+},
+{
+ "name": "SFSmsr1_2110",
+"size":     23 
+} 
+] 
+},
+{
+ "name": "20",
+"children": [
+ {
+ "name": "SFEVaRtimeplot_1134",
+"size":      9 
+},
+{
+ "name": "SFEVaRqqplot_1133",
+"size":      9 
+},
+{
+ "name": "SFEVaRqqplot_476",
+"size":     10 
+},
+{
+ "name": "SFEVaRtimeplot_608",
+"size":      9 
+},
+{
+ "name": "SFEVaRbank_526",
+"size":      5 
+},
+{
+ "name": "XFGexc_1767",
+"size":      4 
+},
+{
+ "name": "VaR_2194",
+"size":     11 
+},
+{
+ "name": "var_block_max_backtesting_2283",
+"size":     15 
+},
+{
+ "name": "XFGexc_1768",
+"size":      4 
+},
+{
+ "name": "VaRestMC_2182",
+"size":     13 
+},
+{
+ "name": "VaRqqplot_430",
+"size":      3 
+},
+{
+ "name": "SFEVaRtimeplot2_1135",
+"size":      9 
+},
+{
+ "name": "block_max_2282",
+"size":     11 
+},
+{
+ "name": "SFEVaRtimeplot2_609",
+"size":      9 
+},
+{
+ "name": "XFGVaRestMC_2164",
+"size":     22 
+},
+{
+ "name": "VaRest_607",
+"size":      6 
+},
+{
+ "name": "XFGpp_1769",
+"size":     21 
+},
+{
+ "name": "SFEVaRbank_1800",
+"size":     19 
+} 
+] 
+},
+{
+ "name": "24",
+"children": [
+ {
+ "name": "LQRquantilecurve_1129",
+"size":      7 
+},
+{
+ "name": "LQRlidar_1128",
+"size":      4 
+},
+{
+ "name": "LQRcheck_2307",
+"size":      6 
+},
+{
+ "name": "STFcat03_1382",
+"size":     11 
+},
+{
+ "name": "STFcat02_2223",
+"size":     15 
+},
+{
+ "name": "STFloss08_2083",
+"size":      9 
+},
+{
+ "name": "STFloss10_1930",
+"size":     31 
+},
+{
+ "name": "STFcat01_1380",
+"size":      4 
+},
+{
+ "name": "STFcat01_1717",
+"size":      4 
+},
+{
+ "name": "TEDAS_qrRho_2367",
+"size":      6 
+},
+{
+ "name": "STFloss01_1908",
+"size":     21 
+},
+{
+ "name": "STFloss01_1931",
+"size":     17 
+},
+{
+ "name": "cdf2quant_2175",
+"size":      7 
+},
+{
+ "name": "SFSheavytail_2112",
+"size":     18 
+},
+{
+ "name": "SFSheavytail_2108",
+"size":     15 
+},
+{
+ "name": "SFSheavytail_1331",
+"size":     23 
+},
+{
+ "name": "STFloss09_1922",
+"size":     21 
+},
+{
+ "name": "STFloss09_2084",
+"size":     19 
+},
+{
+ "name": "STFloss08_1920",
+"size":     11 
+},
+{
+ "name": "STFloss10_2085",
+"size":     24 
+},
+{
+ "name": "STFcat03 _1718",
+"size":     11 
+},
+{
+ "name": "quantilelines_2222",
+"size":      5 
+},
+{
+ "name": "STFcat02_1381",
+"size":     14 
+} 
+] 
+},
+{
+ "name": "25",
+"children": [
+ {
+ "name": "STFstab05_1891",
+"size":     47 
+},
+{
+ "name": "STFstab06_1892",
+"size":     49 
+},
+{
+ "name": "norm_697",
+"size":     14 
+},
+{
+ "name": "norm2_698",
+"size":     13 
+},
+{
+ "name": "STFhes07_1875",
+"size":     57 
+},
+{
+ "name": "STFhes06_1873",
+"size":     58 
+},
+{
+ "name": "f_692",
+"size":     11 
+},
+{
+ "name": "chisq_689",
+"size":     12 
+},
+{
+ "name": "t_701",
+"size":     11 
+},
+{
+ "name": "STFhes04_1871",
+"size":     32 
+} 
+] 
+},
+{
+ "name": "26",
+"children": [
+ {
+ "name": "SFEcirpricing_519",
+"size":     12 
+},
+{
+ "name": "SFEcir_2469",
+"size":      8 
+},
+{
+ "name": "SFEcir_346",
+"size":      8 
+},
+{
+ "name": "SFEcir_1752",
+"size":     14 
+},
+{
+ "name": "SFEcirpricing_1900",
+"size":     12 
+},
+{
+ "name": "SFECIRmle_1899",
+"size":      7 
+},
+{
+ "name": "CIRml_429",
+"size":     10 
+},
+{
+ "name": "SFEsimCIR_1454",
+"size":      6 
+},
+{
+ "name": "SFEsimCIR_2437",
+"size":     14 
+},
+{
+ "name": "SFECIRmle_1253",
+"size":     12 
+},
+{
+ "name": "SFEsimCIR2_423",
+"size":      8 
+},
+{
+ "name": "SFEsimCIR_514",
+"size":      9 
+} 
+] 
+},
+{
+ "name": "27",
+"children": [
+ {
+ "name": "QRBSGumbel_667",
+"size":     11 
+},
+{
+ "name": "concorpanel_896",
+"size":     10 
+},
+{
+ "name": "MVAsimcibh_1684",
+"size":     13 
+},
+{
+ "name": "MVAsimcibh_311",
+"size":     17 
+},
+{
+ "name": "MVAsimcidif_1658",
+"size":     12 
+},
+{
+ "name": "MVAsimcidif_1659",
+"size":     12 
+},
+{
+ "name": "SPMcps85dist_2081",
+"size":     14 
+},
+{
+ "name": "SFSbootband_1804",
+"size":     11 
+},
+{
+ "name": "MSEconfexpectile0.95_2080",
+"size":     10 
+},
+{
+ "name": "SFSconfexpectile0.95_1778",
+"size":      5 
+} 
+] 
+},
+{
+ "name": "28",
+"children": [
+ {
+ "name": "STF2tvch01_1353",
+"size":      9 
+},
+{
+ "name": "COPlcpeinaparch_2552",
+"size":     28 
+},
+{
+ "name": "SFESumm_2477",
+"size":     14 
+},
+{
+ "name": "SFESumm_1259",
+"size":     14 
+},
+{
+ "name": "SFESumm_1260",
+"size":     14 
+},
+{
+ "name": "COPlcpexgarch_2553",
+"size":     33 
+},
+{
+ "name": "SFEtimedax_1292",
+"size":      4 
+},
+{
+ "name": "SFEReturns_1838",
+"size":     18 
+},
+{
+ "name": "SFSautoparcorr_1322",
+"size":     27 
+},
+{
+ "name": "SFSautoparcorr_554",
+"size":     27 
+},
+{
+ "name": "SFSarch_319",
+"size":     20 
+},
+{
+ "name": "SFSarch_465",
+"size":     19 
+},
+{
+ "name": "SFE_DAXlogreturns_1356",
+"size":      4 
+},
+{
+ "name": "SFE_DAXlogreturns_1427",
+"size":      3 
+},
+{
+ "name": "MSEDAXre_2054",
+"size":      2 
+},
+{
+ "name": "SFEReturns_489",
+"size":     28 
+},
+{
+ "name": "MSEqlretqqplot_2059",
+"size":      7 
+},
+{
+ "name": "MSEspqlogret_2060",
+"size":      3 
+} 
+] 
+},
+{
+ "name": "3",
+"children": [
+ {
+ "name": "SMStestuscomp_2338",
+"size":     12 
+},
+{
+ "name": "arex_367",
+"size":      6 
+},
+{
+ "name": "SMStestcovwais_2335",
+"size":     17 
+},
+{
+ "name": "SMStestcovwais_1826",
+"size":      7 
+},
+{
+ "name": "SMStestcov4i_1825",
+"size":      7 
+},
+{
+ "name": "SMStestcov4i_2334",
+"size":     12 
+},
+{
+ "name": "SMStestcov_2333",
+"size":      5 
+},
+{
+ "name": "SMStestuscomp_1828",
+"size":      8 
+},
+{
+ "name": "SFE_RVarTestStat_786",
+"size":      5 
+},
+{
+ "name": "MVAusenergy_1511",
+"size":     15 
+},
+{
+ "name": "MVAusenergy_1660",
+"size":     15 
+},
+{
+ "name": "SMSchi2bac_780",
+"size":      6 
+},
+{
+ "name": "hotellingstat_2337",
+"size":     13 
+},
+{
+ "name": "kpss_504",
+"size":      6 
+},
+{
+ "name": "SFEAdfKpss_668",
+"size":     22 
+},
+{
+ "name": "center_406",
+"size":      5 
+},
+{
+ "name": "MSEEX0810_1126",
+"size":      2 
+},
+{
+ "name": "MSEex0913_1203",
+"size":      6 
+},
+{
+ "name": "MSEex0805_1648",
+"size":      4 
+},
+{
+ "name": "MSECramervonMisestest_2055",
+"size":      7 
+},
+{
+ "name": "MSEJarque-Beratest_2056",
+"size":     11 
+},
+{
+ "name": "ols_373",
+"size":      7 
+},
+{
+ "name": "MSEKolmogorov-Smirnovtest_2057",
+"size":      7 
+},
+{
+ "name": "MVAcorrEyeHair_1266",
+"size":     12 
+},
+{
+ "name": "MVAcorrCar_1265",
+"size":     13 
+},
+{
+ "name": "adf_528",
+"size":      6 
+},
+{
+ "name": "MSENormalityTests_2058",
+"size":      7 
+},
+{
+ "name": "MSEtestcov_2162",
+"size":      7 
+} 
+] 
+},
+{
+ "name": "32",
+"children": [
+ {
+ "name": "optionprice_1792",
+"size":      2 
+},
+{
+ "name": "Eulerscheme_1791",
+"size":      2 
+},
+{
+ "name": "XFGIBTcbc_1793",
+"size":      2 
+},
+{
+ "name": "IBTcrr_1781",
+"size":     16 
+},
+{
+ "name": "IBTblackscholes_1780",
+"size":     12 
+},
+{
+ "name": "XFGIBTcdk_1794",
+"size":      2 
+},
+{
+ "name": "regxest_1789",
+"size":      9 
+} 
+] 
+},
+{
+ "name": "33",
+"children": [
+ {
+ "name": "Pricingtemperature_1026",
+"size":      3 
+},
+{
+ "name": "fcatpriceIMPRallNEW_1021",
+"size":      6 
+},
+{
+ "name": "fcatpriceEallNEW _1014",
+"size":      5 
+},
+{
+ "name": "fcatpriceIMPR2OLSallNEW_1027",
+"size":      7 
+},
+{
+ "name": "fcatpriceIMPROLSallNEW_1028",
+"size":      8 
+},
+{
+ "name": "fcatpriceIMPRSplineNEW_1013",
+"size":      6 
+},
+{
+ "name": "plotFCATIMPRall_1024",
+"size":      4 
+} 
+] 
+},
+{
+ "name": "34",
+"children": [
+ {
+ "name": "STF2tvch04_1357",
+"size":     29 
+},
+{
+ "name": "STF2tvch07_1359",
+"size":     15 
+},
+{
+ "name": "STF2tvch05_1156",
+"size":     25 
+},
+{
+ "name": "STF2tvch03_1355",
+"size":     17 
+},
+{
+ "name": "manh_2021",
+"size":      4 
+},
+{
+ "name": "SmoothingMethods_699",
+"size":     16 
+},
+{
+ "name": "theil_2022",
+"size":      5 
+},
+{
+ "name": "ultra_2009",
+"size":      2 
+},
+{
+ "name": "legendre_2189",
+"size":     10 
+},
+{
+ "name": "LOB visual_1120",
+"size":      8 
+},
+{
+ "name": "SFEPer_2457",
+"size":      5 
+},
+{
+ "name": "fitstochvola_1002",
+"size":      6 
+},
+{
+ "name": "STF2tvch02_1354",
+"size":      8 
+},
+{
+ "name": "STF2tvch06_1358",
+"size":     12 
+},
+{
+ "name": "XFGtimeseries_1765",
+"size":      3 
+},
+{
+ "name": "XFGtimeseries2_1766",
+"size":      3 
+} 
+] 
+},
+{
+ "name": "35",
+"children": [
+ {
+ "name": "SFEfgnacf _845",
+"size":     19 
+},
+{
+ "name": "SFEtimewn.sas_2478",
+"size":     12 
+},
+{
+ "name": "SFE_fgnacf_1137",
+"size":     19 
+},
+{
+ "name": "SFE_fgnacf_1269",
+"size":     12 
+},
+{
+ "name": "SFEtimewn_1296",
+"size":     12 
+},
+{
+ "name": "SFEtimewn_603",
+"size":     11 
+},
+{
+ "name": "fractal_hurst_2313",
+"size":     11 
+},
+{
+ "name": "SFEfgnacf_2472",
+"size":     19 
+},
+{
+ "name": "SFESpecWN_2446",
+"size":      8 
+} 
+] 
+},
+{
+ "name": "36",
+"children": [
+ {
+ "name": "HestonVanillaFitSmile_1874",
+"size":      9 
+},
+{
+ "name": "HestonVanillaLipton_1867",
+"size":      9 
+},
+{
+ "name": "GarmanKohlhagen_1869",
+"size":      5 
+},
+{
+ "name": "HestonVanillaSmile_1870",
+"size":      7 
+},
+{
+ "name": "simHeston_1044",
+"size":      9 
+},
+{
+ "name": "pdfHeston_1863",
+"size":      8 
+},
+{
+ "name": "HestonFFTVanilla_1865",
+"size":      6 
+},
+{
+ "name": "HestonVanilla_1866",
+"size":      6 
+},
+{
+ "name": "STFhes01_1361",
+"size":      8 
+},
+{
+ "name": "STFhes02_1864",
+"size":     24 
+} 
+] 
+},
+{
+ "name": "38",
+"children": [
+ {
+ "name": "SFSIBTbc_974",
+"size":     22 
+},
+{
+ "name": "SFSIBTdk_1551",
+"size":     19 
+},
+{
+ "name": "SFSIBTdk_973",
+"size":     22 
+},
+{
+ "name": "XFGIBT01_1785",
+"size":     19 
+},
+{
+ "name": "XFGIBT02_1790",
+"size":     17 
+},
+{
+ "name": "IBTbc_1779",
+"size":     22 
+},
+{
+ "name": "SFSIBTbc_1550",
+"size":     19 
+},
+{
+ "name": "IBTdk_1782",
+"size":     22 
+},
+{
+ "name": "IBTsdisplot_1787",
+"size":     13 
+},
+{
+ "name": "IBTvolaplot_1788",
+"size":     13 
+},
+{
+ "name": "IBTlocsigma_1786",
+"size":     11 
+},
+{
+ "name": "XFGIBT03_1795",
+"size":      9 
+} 
+] 
+},
+{
+ "name": "41",
+"children": [
+ {
+ "name": "MVAkernelfunctions_1738",
+"size":      2 
+},
+{
+ "name": "MVAkernelfunctions_1740",
+"size":     15 
+},
+{
+ "name": "SPMkde2D_2193",
+"size":     13 
+},
+{
+ "name": "SPMkdebias_2051",
+"size":      6 
+},
+{
+ "name": "SPMsimase_2145",
+"size":     18 
+},
+{
+ "name": "SPMkdeconstruct_676",
+"size":     10 
+},
+{
+ "name": "MSRportfolio_est_1040",
+"size":     21 
+},
+{
+ "name": "SPMrotpm_2192",
+"size":     15 
+},
+{
+ "name": "XFGLSK_2464",
+"size":    117 
+},
+{
+ "name": "SPMdensity_677",
+"size":     10 
+},
+{
+ "name": "SPMdenquauni_1191",
+"size":     10 
+},
+{
+ "name": "MSRportfolio_est_354",
+"size":     25 
+},
+{
+ "name": "SPMkdemse_2047",
+"size":      7 
+},
+{
+ "name": "SPMkernel_2061",
+"size":      2 
+},
+{
+ "name": "XFGiv02_2441",
+"size":     44 
+},
+{
+ "name": "MSEdecon_2038",
+"size":     22 
+},
+{
+ "name": "kernel_1857",
+"size":      3 
+},
+{
+ "name": "SPMkernel_2062",
+"size":      2 
+},
+{
+ "name": "SPMkernelcontours_673",
+"size":     16 
+},
+{
+ "name": "SFEDaxReturnDistribution_2155",
+"size":     31 
+},
+{
+ "name": "SPMslices3D_2185",
+"size":     21 
+},
+{
+ "name": "MSEnonpara1_2035",
+"size":     18 
+},
+{
+ "name": "MSEnonpara2_2036",
+"size":     44 
+},
+{
+ "name": "SPMkdebias_sim_2050",
+"size":      8 
+},
+{
+ "name": "SPMkdeconstruct-Sliders_966",
+"size":     12 
+},
+{
+ "name": "STFfft01_2088",
+"size":     15 
+} 
+] 
+},
+{
+ "name": "42",
+"children": [
+ {
+ "name": "SFEerrorsurf_1650",
+"size":      9 
+},
+{
+ "name": "SFEdescgrad_1649",
+"size":      8 
+},
+{
+ "name": "SFEdescgrad_1758",
+"size":     10 
+},
+{
+ "name": "lagged_2240",
+"size":      3 
+},
+{
+ "name": "SFEnnarch_2241",
+"size":     23 
+},
+{
+ "name": "SFEnnjpyusd_2236",
+"size":     16 
+},
+{
+ "name": "SFEnnjpyusd_2239",
+"size":     16 
+},
+{
+ "name": "SFEerrorsurf_1757",
+"size":      9 
+},
+{
+ "name": "rbftrain_2237",
+"size":      7 
+},
+{
+ "name": "rbfpredict_2238",
+"size":      6 
+},
+{
+ "name": "SFEnnarch_2235",
+"size":     23 
+} 
+] 
+},
+{
+ "name": "43",
+"children": [
+ {
+ "name": "SPMgamkredit_1193",
+"size":     11 
+},
+{
+ "name": "MVAlassologit_2526",
+"size":     29 
+},
+{
+ "name": "MVAlassologit_2527",
+"size":     10 
+},
+{
+ "name": "MVAlassoregress_2555",
+"size":     35 
+},
+{
+ "name": "MSEglmest_892",
+"size":      2 
+},
+{
+ "name": "MVAbankrupt_1197",
+"size":      8 
+},
+{
+ "name": "MVAlassocontour_2556",
+"size":     31 
+},
+{
+ "name": "SPMlogitkredit_960",
+"size":      6 
+},
+{
+ "name": "SMSlassologit_2340",
+"size":     11 
+},
+{
+ "name": "SMSlassoridge_2341",
+"size":      9 
+},
+{
+ "name": "SMSlassocar_2339",
+"size":     13 
+},
+{
+ "name": "MSElogit_889",
+"size":      2 
+},
+{
+ "name": "MVAbankrupt_1676",
+"size":      7 
+},
+{
+ "name": "MVAbankrupt_2455",
+"size":      9 
+},
+{
+ "name": "MVAgrouplasso_2525",
+"size":     43 
+},
+{
+ "name": "MSElorenz_890",
+"size":      2 
+} 
+] 
+},
+{
+ "name": "45",
+"children": [
+ {
+ "name": "MVAdescbh_1614",
+"size":     22 
+},
+{
+ "name": "SFEfdescStat_1979",
+"size":      6 
+},
+{
+ "name": "SPMcontour2D_2186",
+"size":     21 
+},
+{
+ "name": "MSEloglikelihood_1160",
+"size":      3 
+},
+{
+ "name": "SPMlogit_2138",
+"size":      7 
+},
+{
+ "name": "MSRtail_dep_normal_1443",
+"size":      5 
+},
+{
+ "name": "MSRtail_dep_tStudent_336",
+"size":      7 
+},
+{
+ "name": "MSRtail_dep_normal_361",
+"size":      7 
+},
+{
+ "name": "MSRtail_dep_tStudent_1444",
+"size":      5 
+},
+{
+ "name": "SFEfdescStat_1981",
+"size":     10 
+},
+{
+ "name": "SPM2density2D_2184",
+"size":     18 
+},
+{
+ "name": "XFGsummary_1762",
+"size":      2 
+},
+{
+ "name": "MVAdescbh_509",
+"size":      9 
+},
+{
+ "name": "SPMmigmvdesc_2139",
+"size":      9 
+} 
+] 
+},
+{
+ "name": "46",
+"children": [
+ {
+ "name": "SFEarfimaplot_826",
+"size":      7 
+},
+{
+ "name": "SFE_arfima_825",
+"size":      5 
+},
+{
+ "name": "SFE_arfimaimaplot_1139",
+"size":      6 
+},
+{
+ "name": "SFE_arfima_1136",
+"size":      5 
+},
+{
+ "name": "SFE_arfima_2495",
+"size":      5 
+},
+{
+ "name": "MSL_graph_ms_arfima_473",
+"size":      3 
+} 
+] 
+},
+{
+ "name": "48",
+"children": [
+ {
+ "name": "MSRevt3_256",
+"size":     12 
+},
+{
+ "name": "SFEevt1_1753",
+"size":      9 
+},
+{
+ "name": "SFSevt2_556",
+"size":     24 
+},
+{
+ "name": "SFEevt1_2197",
+"size":     14 
+},
+{
+ "name": "SFSevt2_1330",
+"size":     25 
+},
+{
+ "name": "SFEevt3_2199",
+"size":     14 
+},
+{
+ "name": "MSRevt1_1035",
+"size":      9 
+},
+{
+ "name": "MSRevt2_258",
+"size":     19 
+},
+{
+ "name": "MSRevt1_254",
+"size":     13 
+},
+{
+ "name": "MSRevt2_1037",
+"size":     19 
+},
+{
+ "name": "MSRevt3_1038",
+"size":     13 
+},
+{
+ "name": "SFEevt2_2198",
+"size":     24 
+},
+{
+ "name": "SFEevt3_2200",
+"size":     12 
+} 
+] 
+},
+{
+ "name": "49",
+"children": [
+ {
+ "name": "SPMfxrate_1986",
+"size":      5 
+},
+{
+ "name": "SFEfxrate_2301",
+"size":      8 
+},
+{
+ "name": "SFSmvol01_1410",
+"size":     19 
+},
+{
+ "name": "SFSmvol01_2117",
+"size":     19 
+},
+{
+ "name": "SFEexrate_734",
+"size":      8 
+},
+{
+ "name": "MSRsca_log_returns_265",
+"size":     10 
+},
+{
+ "name": "MSRsca_log_returns_1440",
+"size":      7 
+},
+{
+ "name": "SFEresDens_1285",
+"size":     17 
+},
+{
+ "name": "MSRlog_returns_262",
+"size":      9 
+},
+{
+ "name": "MSRlog_returns_1434",
+"size":      7 
+} 
+] 
+},
+{
+ "name": "50",
+"children": [
+ {
+ "name": "MSRportfolio_1439",
+"size":      4 
+},
+{
+ "name": "MVAreturns_1689",
+"size":      6 
+},
+{
+ "name": "MVAreturns_1229",
+"size":      9 
+},
+{
+ "name": "MSRportfolio_263",
+"size":      6 
+},
+{
+ "name": "MVAportfol_IBM_Ford_1697",
+"size":     18 
+},
+{
+ "name": "MVAportfol_IBM_PanAm_1243",
+"size":     21 
+},
+{
+ "name": "MVAportfol_1226",
+"size":     22 
+},
+{
+ "name": "SMSportfol_1854",
+"size":      6 
+},
+{
+ "name": "MVAportfol_1688",
+"size":     19 
+},
+{
+ "name": "MVAportfol_IBM_Ford_1227",
+"size":     21 
+},
+{
+ "name": "SFEportfolio_2276",
+"size":      6 
+},
+{
+ "name": "SFEportfolio_2264",
+"size":      6 
+} 
+] 
+},
+{
+ "name": "53",
+"children": [
+ {
+ "name": "SFEvar_block_max_backtesting_2284",
+"size":     16 
+},
+{
+ "name": "SFSvar_block_max_backtesting_1343",
+"size":     15 
+},
+{
+ "name": "SFSvar_block_max_params_558",
+"size":     12 
+},
+{
+ "name": "SFSvar_block_max_params_333",
+"size":     15 
+},
+{
+ "name": "SFEvar_block_max_params_2286",
+"size":     15 
+},
+{
+ "name": "SFSvar_block_max_backtesting_2114",
+"size":     11 
+},
+{
+ "name": "MSRvar_block_max_params_348",
+"size":     12 
+},
+{
+ "name": "MSRvar_block_max_params_1449",
+"size":      9 
+},
+{
+ "name": "MSRvar_block_max_backtesting_454",
+"size":      8 
+},
+{
+ "name": "MSRvar_block_max_356",
+"size":      9 
+},
+{
+ "name": "SFEvar_block_max_backtesting_2285",
+"size":     16 
+},
+{
+ "name": "SFEvar_block_max_params_2287",
+"size":     17 
+} 
+] 
+},
+{
+ "name": "54",
+"children": [
+ {
+ "name": "SFSvar_pot_backtesting_1344",
+"size":     19 
+},
+{
+ "name": "SFSvar_pot_backtesting_2113",
+"size":     13 
+},
+{
+ "name": "SFEvar_pot_backtesting_2290",
+"size":     18 
+},
+{
+ "name": "SFEvar_pot_backtesting_2292",
+"size":     21 
+},
+{
+ "name": "var_pot_2288",
+"size":     17 
+},
+{
+ "name": "var_pot_backtesting_2289",
+"size":     17 
+},
+{
+ "name": "MSRvar_pot_params_537",
+"size":     13 
+},
+{
+ "name": "MSRvar_pot_params_1450",
+"size":     10 
+},
+{
+ "name": "SFSvar_pot_params_334",
+"size":     15 
+},
+{
+ "name": "SFSvar_pot_params_494",
+"size":     12 
+},
+{
+ "name": "MSRvar_pot_481",
+"size":     12 
+},
+{
+ "name": "SFEvar_pot_params_2293",
+"size":     18 
+},
+{
+ "name": "SFEvar_pot_params_2291",
+"size":     17 
+} 
+] 
+},
+{
+ "name": "55",
+"children": [
+ {
+ "name": "SMSdisfwais_1097",
+"size":      6 
+},
+{
+ "name": "MVAaper_1668",
+"size":     10 
+},
+{
+ "name": "MVAaper_2454",
+"size":     13 
+},
+{
+ "name": "MVAaper_656",
+"size":     14 
+},
+{
+ "name": "MVAaer_657",
+"size":     10 
+},
+{
+ "name": "SMSdiscbaycar_1093",
+"size":      4 
+},
+{
+ "name": "SMSdisccar_1094",
+"size":      4 
+},
+{
+ "name": "MVAdiscbh_1208",
+"size":     18 
+},
+{
+ "name": "MVAdiscbh_1692",
+"size":     12 
+},
+{
+ "name": "MVAdisnorm_1209",
+"size":     21 
+},
+{
+ "name": "MVAdisnorm_1733",
+"size":     21 
+} 
+] 
+},
+{
+ "name": "57",
+"children": [
+ {
+ "name": "MVAincomeLi_1213",
+"size":      4 
+},
+{
+ "name": "MVAageCom_1195",
+"size":     10 
+},
+{
+ "name": "MVAageIncome_1196",
+"size":     11 
+},
+{
+ "name": "MVAhexaAl_1702",
+"size":      2 
+},
+{
+ "name": "MVAhexaAl_1487",
+"size":      7 
+} 
+] 
+},
+{
+ "name": "58",
+"children": [
+ {
+ "name": "SMSandcurpopu_1832",
+"size":      9 
+},
+{
+ "name": "SMSandcurpopu_768",
+"size":      2 
+},
+{
+ "name": "MVAandcur2_364",
+"size":     15 
+},
+{
+ "name": "MVAandcur_1236",
+"size":     12 
+},
+{
+ "name": "MVAandcur_2453",
+"size":     18 
+},
+{
+ "name": "MVAandcur2_1569",
+"size":     21 
+} 
+] 
+},
+{
+ "name": "59",
+"children": [
+ {
+ "name": "MVAhisbank2_437",
+"size":     15 
+},
+{
+ "name": "MVAhisbank2_1490",
+"size":     24 
+},
+{
+ "name": "SPMhisdiffbin_671",
+"size":      6 
+},
+{
+ "name": "MVAhisbank1_1489",
+"size":     23 
+},
+{
+ "name": "SPMhisdiffori_672",
+"size":      7 
+},
+{
+ "name": "SMShiscar_2250",
+"size":     12 
+},
+{
+ "name": "MVAashbank_1528",
+"size":     15 
+},
+{
+ "name": "MVAashbank_623",
+"size":     11 
+},
+{
+ "name": "SPMhistmse_1999",
+"size":     14 
+},
+{
+ "name": "SMShisheights_2251",
+"size":      6 
+},
+{
+ "name": "SMShiscar_1773",
+"size":     11 
+},
+{
+ "name": "SMShisheights_1774",
+"size":      5 
+},
+{
+ "name": "SMShisheights_2294",
+"size":      6 
+},
+{
+ "name": "MVAhisbank1_622",
+"size":     15 
+},
+{
+ "name": "SPMhistogram_670",
+"size":      6 
+} 
+] 
+},
+{
+ "name": "6",
+"children": [
+ {
+ "name": "lowerTrLossGauss_2270",
+"size":     12 
+},
+{
+ "name": "BaseCorrGaussModelCDO_2271",
+"size":     11 
+},
+{
+ "name": "BaseCorrGaussModelCDO_2386",
+"size":     25 
+},
+{
+ "name": "lowerTrLossGauss_2387",
+"size":     27 
+},
+{
+ "name": "SFEbaseCorr_2272",
+"size":     20 
+},
+{
+ "name": "ETL_2266",
+"size":     28 
+},
+{
+ "name": "CompCorrGaussModelCDO_2268",
+"size":     12 
+},
+{
+ "name": "SFEETLGaussTr1_2369",
+"size":     36 
+},
+{
+ "name": "SFEbaseCorr_2385",
+"size":     32 
+},
+{
+ "name": "ETL_2368",
+"size":     41 
+},
+{
+ "name": "SFEcompCorr_2269",
+"size":     21 
+},
+{
+ "name": "SFEETLGaussTr1_2267",
+"size":     29 
+},
+{
+ "name": "SFEcompCorr_2388",
+"size":     35 
+} 
+] 
+},
+{
+ "name": "60",
+"children": [
+ {
+ "name": "SMSlinregcar2_1816",
+"size":     11 
+},
+{
+ "name": "SMSlinregcar_1815",
+"size":     11 
+},
+{
+ "name": "SMSlinregcar_2342",
+"size":     15 
+},
+{
+ "name": "SMSlinregcar2_2343",
+"size":     13 
+},
+{
+ "name": "MVAscacar_1621",
+"size":     13 
+},
+{
+ "name": "MVAscacar_370",
+"size":      9 
+},
+{
+ "name": "MVAcareffect_1532",
+"size":      5 
+},
+{
+ "name": "SMSdrafcar_1796",
+"size":     19 
+},
+{
+ "name": "SMSdrafcar_2076",
+"size":      9 
+} 
+] 
+},
+{
+ "name": "61",
+"children": [
+ {
+ "name": "MVAMDSnonmstart_932",
+"size":     13 
+},
+{
+ "name": "MVAMDSpooladj_318",
+"size":      9 
+},
+{
+ "name": "MVAcarrankings_757",
+"size":     15 
+},
+{
+ "name": "MVAcarrankings_1685",
+"size":     15 
+},
+{
+ "name": "MVAMDSnonmstart_659",
+"size":     13 
+},
+{
+ "name": "MVAMDSpooladj_933",
+"size":      9 
+} 
+] 
+},
+{
+ "name": "62",
+"children": [
+ {
+ "name": "MVACARTBan1_1707",
+"size":     20 
+},
+{
+ "name": "MVACARTBan1_1711",
+"size":     18 
+},
+{
+ "name": "MVACARTBan2_1708",
+"size":     15 
+},
+{
+ "name": "MVACARTBan2_1712",
+"size":     13 
+},
+{
+ "name": "MVACARTTwoingTree1_1710",
+"size":     13 
+},
+{
+ "name": "MVACARTGiniTree1_1709",
+"size":     18 
+},
+{
+ "name": "MVACARTGiniTree1_1713",
+"size":     11 
+} 
+] 
+},
+{
+ "name": "63",
+"children": [
+ {
+ "name": "MVAcauchy_1626",
+"size":     17 
+},
+{
+ "name": "MVAlaplacedis_1481",
+"size":     17 
+},
+{
+ "name": "MVAlaplacedis_1635",
+"size":     17 
+},
+{
+ "name": "MVAghadatail_1477",
+"size":     13 
+},
+{
+ "name": "MVAghdistail_1633",
+"size":     14 
+},
+{
+ "name": "MVAghdis_1632",
+"size":     11 
+},
+{
+ "name": "MVAcauchy_1264",
+"size":     20 
+},
+{
+ "name": "MVAmixture_1492",
+"size":     12 
+},
+{
+ "name": "MVAmixture_1636",
+"size":     12 
+},
+{
+ "name": "MVAghadatail_1631",
+"size":     13 
+},
+{
+ "name": "MVAghdistail_1479",
+"size":     14 
+},
+{
+ "name": "MVAghdis_1478",
+"size":     11 
+} 
+] 
+},
+{
+ "name": "64",
+"children": [
+ {
+ "name": "MVAcltbern_1199",
+"size":     31 
+},
+{
+ "name": "SFEclt_1411",
+"size":     29 
+},
+{
+ "name": "MVAcltbern2_1200",
+"size":     27 
+},
+{
+ "name": "MVAcltbern2_1628",
+"size":     21 
+},
+{
+ "name": "MVAcltbern_1627",
+"size":     26 
+},
+{
+ "name": "SFEclt_2377",
+"size":     29 
+},
+{
+ "name": "SFEclt_1739",
+"size":      9 
+} 
+] 
+},
+{
+ "name": "65",
+"children": [
+ {
+ "name": "MVAcontbank2_1512",
+"size":     12 
+},
+{
+ "name": "MVAcontbank3_1700",
+"size":     21 
+},
+{
+ "name": "MVAdenbank3_1630",
+"size":     15 
+},
+{
+ "name": "MVAdenbank_1493",
+"size":     32 
+},
+{
+ "name": "MVAdenbank_469",
+"size":     20 
+},
+{
+ "name": "MVAdenbank2_513",
+"size":     12 
+},
+{
+ "name": "MVAdenbank2_942",
+"size":     23 
+},
+{
+ "name": "SPMdensity2D_1192",
+"size":     10 
+},
+{
+ "name": "SMSdenbank_1770",
+"size":     17 
+},
+{
+ "name": "SMSdenbank_1836",
+"size":     17 
+},
+{
+ "name": "MVAdenbank3_1207",
+"size":     26 
+},
+{
+ "name": "MVAdraftbank4_1491",
+"size":     17 
+},
+{
+ "name": "MVAdraftbank4_1508",
+"size":      9 
+},
+{
+ "name": "MVAcontbank2_1206",
+"size":     22 
+} 
+] 
+},
+{
+ "name": "67",
+"children": [
+ {
+ "name": "SMSanovapull_1807",
+"size":      4 
+},
+{
+ "name": "SFSstoploss_2115",
+"size":     12 
+},
+{
+ "name": "SFSstoploss_1690",
+"size":     12 
+},
+{
+ "name": "SFSdeltahedging_1895",
+"size":      8 
+},
+{
+ "name": "SFShullhedgeratio_1546",
+"size":      8 
+},
+{
+ "name": "SFShullhedgeratio_1535",
+"size":      6 
+},
+{
+ "name": "SFSdeltahedging_1756",
+"size":      8 
+},
+{
+ "name": "MVAdrug_642",
+"size":      6 
+},
+{
+ "name": "MVAdrug_1046",
+"size":      6 
+} 
+] 
+},
+{
+ "name": "68",
+"children": [
+ {
+ "name": "SMSfacenorm_1771",
+"size":      6 
+},
+{
+ "name": "SMSfacenorm_2249",
+"size":     12 
+},
+{
+ "name": "MVAfacebank10_1736",
+"size":     17 
+},
+{
+ "name": "MVAfacebank50_1737",
+"size":     15 
+},
+{
+ "name": "MVAfacebank10_625",
+"size":     13 
+},
+{
+ "name": "MVAfacebank50_340",
+"size":     11 
+} 
+] 
+},
+{
+ "name": "69",
+"children": [
+ {
+ "name": "MVAregzoom_365",
+"size":     17 
+},
+{
+ "name": "MVAregpull_640",
+"size":     10 
+},
+{
+ "name": "MVAregpull_1617",
+"size":     19 
+},
+{
+ "name": "MVAregzoom_1618",
+"size":     24 
+},
+{
+ "name": "MVAlrtest_1661",
+"size":     16 
+},
+{
+ "name": "SMSlinregpull_1817",
+"size":      8 
+},
+{
+ "name": "MVAlrtest_1662",
+"size":     16 
+},
+{
+ "name": "MVAscapull1_1620",
+"size":     13 
+},
+{
+ "name": "MVAscapull1_638",
+"size":      9 
+},
+{
+ "name": "MVAscapull2_1246",
+"size":      9 
+},
+{
+ "name": "MVAscapull2_1622",
+"size":     13 
+},
+{
+ "name": "SMSlinregpull_2328",
+"size":      8 
+},
+{
+ "name": "SMSdeterpull_1812",
+"size":     15 
+},
+{
+ "name": "SMSdeterpull_2295",
+"size":     16 
+},
+{
+ "name": "SMSdete2pull_1811",
+"size":     10 
+},
+{
+ "name": "SMSdete2pull_2253",
+"size":     18 
+} 
+] 
+},
+{
+ "name": "7",
+"children": [
+ {
+ "name": "MSRpdf_cop_Frank_488",
+"size":      6 
+},
+{
+ "name": "MSRpdf_cop_Gumbel_441",
+"size":      6 
+},
+{
+ "name": "MVAghcontour_1212",
+"size":     11 
+},
+{
+ "name": "MVAghcontour_1656",
+"size":      9 
+},
+{
+ "name": "SFEgaussCop_1274",
+"size":     17 
+},
+{
+ "name": "MSRpdf_cop_tStudent_535",
+"size":      7 
+},
+{
+ "name": "SFEVaRcopulaSIM2ptv_1360",
+"size":     68 
+},
+{
+ "name": "SFEVaRHAC_1261",
+"size":     28 
+},
+{
+ "name": "MVAsample1000_1657",
+"size":      9 
+},
+{
+ "name": "SFEdynCop_703",
+"size":     14 
+},
+{
+ "name": "COPhelperfunctions_2551",
+"size":      5 
+},
+{
+ "name": "COPlcpexres_2550",
+"size":     17 
+},
+{
+ "name": "SFEstaticCop_1286",
+"size":     20 
+},
+{
+ "name": "MSRvar_clayton_GARCHn_323",
+"size":     14 
+},
+{
+ "name": "MVAsample1000_1230",
+"size":     12 
+},
+{
+ "name": "SFEtMC_1290",
+"size":     18 
+},
+{
+ "name": "MSRvar_frank_466",
+"size":      9 
+},
+{
+ "name": "MVAghsurface_1480",
+"size":      6 
+},
+{
+ "name": "BCS_ClaytonMC_2403",
+"size":     22 
+},
+{
+ "name": "SFEplotCop_1282",
+"size":     21 
+},
+{
+ "name": "SFEplotCop_1283",
+"size":     22 
+},
+{
+ "name": "SFEgaussCop_1273",
+"size":     20 
+},
+{
+ "name": "SFEgaussCop_2474",
+"size":     10 
+},
+{
+ "name": "SFEtCop_1288",
+"size":     17 
+},
+{
+ "name": "SFEtCop_1287",
+"size":     14 
+},
+{
+ "name": "gumbelcopula_1655",
+"size":      8 
+},
+{
+ "name": "HAC_1706",
+"size":     18 
+},
+{
+ "name": "BCS_ArchimedeanContour_2370",
+"size":     41 
+},
+{
+ "name": "SFEPortfolioLossDensity_2306",
+"size":     43 
+},
+{
+ "name": "SFScontourgumbel_1470",
+"size":      5 
+},
+{
+ "name": "SFScontourgumbel_1329",
+"size":      8 
+},
+{
+ "name": "MSRpdf_cop_Clayton_452",
+"size":      6 
+},
+{
+ "name": "MSRpdf_cop_Frank_1436",
+"size":      4 
+},
+{
+ "name": "MSRvar_coptStudent_413",
+"size":      9 
+},
+{
+ "name": "MSRvar_clayton_463",
+"size":      9 
+},
+{
+ "name": "SFEclaytonMC_617",
+"size":     15 
+},
+{
+ "name": "MSRpdf_cop_Clayton_1435",
+"size":      4 
+},
+{
+ "name": "MSRvar_gumbel_440",
+"size":      9 
+},
+{
+ "name": "SFEclaytonMC_683",
+"size":     18 
+},
+{
+ "name": "MVAgumbelclayton_1743",
+"size":      9 
+},
+{
+ "name": "MVAghsurface_1634",
+"size":      6 
+},
+{
+ "name": "MSRpdf_cop_Gumbel_1437",
+"size":      4 
+},
+{
+ "name": "MSRpdf_cop_tStudent_1438",
+"size":      5 
+} 
+] 
+},
+{
+ "name": "71",
+"children": [
+ {
+ "name": "MVApcp1_1572",
+"size":     10 
+},
+{
+ "name": "SMSpcpcar_1775",
+"size":      4 
+},
+{
+ "name": "MVAparcoo1_1570",
+"size":     17 
+},
+{
+ "name": "MVAparcoo1_626",
+"size":     11 
+},
+{
+ "name": "MVAparcoo2_1580",
+"size":     10 
+},
+{
+ "name": "MVAparcoo2_1571",
+"size":     16 
+},
+{
+ "name": "SMSpcpcar_2327",
+"size":      5 
+},
+{
+ "name": "MVApcp3_532",
+"size":     10 
+},
+{
+ "name": "MVApcp6_1577",
+"size":     17 
+},
+{
+ "name": "MVApcp6_417",
+"size":     12 
+},
+{
+ "name": "MVApcp7_1578",
+"size":     13 
+},
+{
+ "name": "MVApcp3_1574",
+"size":     15 
+},
+{
+ "name": "MVApcp4_1575",
+"size":     18 
+},
+{
+ "name": "MVApcp5_1576",
+"size":     18 
+},
+{
+ "name": "MVApcp7_631",
+"size":      5 
+},
+{
+ "name": "MVApcp8_1579",
+"size":     13 
+},
+{
+ "name": "MVApcp5_630",
+"size":     13 
+},
+{
+ "name": "MVApcp4_629",
+"size":     13 
+},
+{
+ "name": "MVApcp8_632",
+"size":      5 
+},
+{
+ "name": "MVApcp1_627",
+"size":      5 
+},
+{
+ "name": "MVApcp2_1573",
+"size":     15 
+},
+{
+ "name": "MVApcp2_628",
+"size":     10 
+} 
+] 
+},
+{
+ "name": "72",
+"children": [
+ {
+ "name": "MVAppsib_1696",
+"size":     40 
+},
+{
+ "name": "MVAppsib_904",
+"size":     37 
+},
+{
+ "name": "MVAppexample_2153",
+"size":     42 
+},
+{
+ "name": "MVAppexample_2154",
+"size":     35 
+},
+{
+ "name": "ppsib_2245",
+"size":     14 
+},
+{
+ "name": "ppsibexample_2246",
+"size":     15 
+},
+{
+ "name": "SMSeppbank_2130",
+"size":     37 
+},
+{
+ "name": "SMSeppbank_2147",
+"size":     34 
+},
+{
+ "name": "ppsib_2244",
+"size":     14 
+} 
+] 
+},
+{
+ "name": "73",
+"children": [
+ {
+ "name": "SMSprofil_2163",
+"size":      4 
+},
+{
+ "name": "SMSprofil_2331",
+"size":      5 
+},
+{
+ "name": "SPMcps85lin_1190",
+"size":     14 
+},
+{
+ "name": "MVAprofil_455",
+"size":      4 
+},
+{
+ "name": "MVAprofil_941",
+"size":      4 
+},
+{
+ "name": "SMSprofplasma_1821",
+"size":      3 
+},
+{
+ "name": "SMSprofplasma_2332",
+"size":     12 
+},
+{
+ "name": "SFEgplm_2242",
+"size":     11 
+},
+{
+ "name": "SMSprofil_1820",
+"size":      4 
+} 
+] 
+},
+{
+ "name": "74",
+"children": [
+ {
+ "name": "MVAscabank56_1245",
+"size":     15 
+},
+{
+ "name": "MVAscabank45_1244",
+"size":     15 
+},
+{
+ "name": "MVAscabank56_1530",
+"size":     19 
+},
+{
+ "name": "SMSscabank45_2094",
+"size":     13 
+},
+{
+ "name": "SMSscabank45_1822",
+"size":     13 
+},
+{
+ "name": "MVAscabank45_1529",
+"size":     19 
+},
+{
+ "name": "MVAscabank456_1531",
+"size":     22 
+},
+{
+ "name": "MVAscabank456_502",
+"size":     18 
+} 
+] 
+},
+{
+ "name": "75",
+"children": [
+ {
+ "name": "MVAsimdep1_1268",
+"size":      5 
+},
+{
+ "name": "MVAsimdep1_347",
+"size":      5 
+},
+{
+ "name": "SMSsimpdbank_2131",
+"size":      9 
+},
+{
+ "name": "SMSsimpdsimu_2132",
+"size":      7 
+},
+{
+ "name": "MVAsimdepex_2305",
+"size":     26 
+} 
+] 
+},
+{
+ "name": "76",
+"children": [
+ {
+ "name": "SMSsirsimu_2134",
+"size":     15 
+},
+{
+ "name": "SMSsiruscomp_2135",
+"size":     15 
+},
+{
+ "name": "SMSsircars_1856",
+"size":     12 
+},
+{
+ "name": "SMSsir2simu_1855",
+"size":     10 
+},
+{
+ "name": "SMSsir2cars_2133",
+"size":     17 
+},
+{
+ "name": "MVAsirdata_1234",
+"size":     12 
+},
+{
+ "name": "MVAsirdata_1703",
+"size":     11 
+},
+{
+ "name": "MVAsir2data_1233",
+"size":     12 
+} 
+] 
+},
+{
+ "name": "77",
+"children": [
+ {
+ "name": "SMSsvmorange_2136",
+"size":     22 
+},
+{
+ "name": "SMSsvmspiral_2137",
+"size":      8 
+},
+{
+ "name": "SMSsvmbankrupt_2146",
+"size":      7 
+},
+{
+ "name": "MVAsvmOrangePeel_1964",
+"size":     13 
+},
+{
+ "name": "MVAsvmSpiral_1965",
+"size":     12 
+},
+{
+ "name": "SMSlogitbankrupt_1819",
+"size":      6 
+},
+{
+ "name": "MVAsvmSig100C1_1966",
+"size":      3 
+},
+{
+ "name": "MVAsvmSig2C1_1967",
+"size":      3 
+},
+{
+ "name": "SVMGAtraining_2121",
+"size":     21 
+},
+{
+ "name": "SVMtraining_2122",
+"size":      8 
+},
+{
+ "name": "STF2svm01_2248",
+"size":      9 
+},
+{
+ "name": "MVAsvmSig05C200_1968",
+"size":      3 
+} 
+] 
+},
+{
+ "name": "78",
+"children": [
+ {
+ "name": "SPMengelcurve1_2102",
+"size":     10 
+},
+{
+ "name": "SPMfesdensities_1993",
+"size":      6 
+},
+{
+ "name": "SPMsplineregression_965",
+"size":      8 
+},
+{
+ "name": "SPMorthogon_2103",
+"size":     14 
+},
+{
+ "name": "SPMorthogon_2190",
+"size":     16 
+},
+{
+ "name": "SPMspline_742",
+"size":      9 
+},
+{
+ "name": "SPMregress_2255",
+"size":     14 
+},
+{
+ "name": "SPMregress_2150",
+"size":     15 
+},
+{
+ "name": "SPMlocpolyderivative_2100",
+"size":     16 
+},
+{
+ "name": "SPMlocpolyest_2091",
+"size":     10 
+},
+{
+ "name": "SPMengelcurve_675",
+"size":     11 
+},
+{
+ "name": "SPMengelconf_2096",
+"size":     13 
+},
+{
+ "name": "SPMderivest_2095",
+"size":      6 
+},
+{
+ "name": "SPMdenepatri_2000",
+"size":     11 
+},
+{
+ "name": "SPMtruenadloc_2187",
+"size":     13 
+},
+{
+ "name": "SPMlocpolyregression_682",
+"size":     19 
+},
+{
+ "name": "nw_1858",
+"size":      6 
+},
+{
+ "name": "SPMkernelregression_679",
+"size":     11 
+},
+{
+ "name": "SPMknnreg_1194",
+"size":     11 
+},
+{
+ "name": "SPMnadwaest_2092",
+"size":      7 
+},
+{
+ "name": "SPMnadwaest_2188",
+"size":     12 
+},
+{
+ "name": "SPMmesmooreg_2099",
+"size":      8 
+} 
+] 
+},
+{
+ "name": "79",
+"children": [
+ {
+ "name": "SFEGBMProcess_1252",
+"size":     31 
+},
+{
+ "name": "SFEbsbm_2257",
+"size":      7 
+},
+{
+ "name": "SFEfbmplot_824",
+"size":      8 
+},
+{
+ "name": "SFEfbmplot_2497",
+"size":      8 
+},
+{
+ "name": "SFSbb_1323",
+"size":      5 
+},
+{
+ "name": "SFSbb_1461",
+"size":      3 
+},
+{
+ "name": "SFEGBMProcess_2463",
+"size":     31 
+},
+{
+ "name": "SFE_gph_1145",
+"size":      8 
+},
+{
+ "name": "SFEbsbm_368",
+"size":     10 
+},
+{
+ "name": "simGBM_1043",
+"size":      8 
+},
+{
+ "name": "SFEGBMProcess_952",
+"size":     31 
+},
+{
+ "name": "SFEsimGBM_2090",
+"size":      5 
+},
+{
+ "name": "SFEfbmplot_1138",
+"size":      6 
+},
+{
+ "name": "SFEbsbm_2438",
+"size":     10 
+} 
+] 
+},
+{
+ "name": "8",
+"children": [
+ {
+ "name": "MSRgpdist_1433",
+"size":      8 
+},
+{
+ "name": "SMSscanorm2_1823",
+"size":      8 
+},
+{
+ "name": "SMStestsim_2336",
+"size":     20 
+},
+{
+ "name": "SMSscanorm3_1797",
+"size":      9 
+},
+{
+ "name": "MVAgausscauchy_1267",
+"size":     19 
+},
+{
+ "name": "SFElognormal_2042",
+"size":      8 
+},
+{
+ "name": "SFElognormal_2046",
+"size":      8 
+},
+{
+ "name": "SMStestsim_1827",
+"size":     14 
+},
+{
+ "name": "dice_691",
+"size":      9 
+},
+{
+ "name": "MVAbluepullover_1651",
+"size":      6 
+},
+{
+ "name": "MVAcorrnorm_1612",
+"size":     24 
+},
+{
+ "name": "MVAcorrnorm_344",
+"size":     15 
+},
+{
+ "name": "SMSscanorm3_2078",
+"size":      9 
+},
+{
+ "name": "MVAcontnorm_1629",
+"size":      7 
+},
+{
+ "name": "SFElognormal_2450",
+"size":      9 
+},
+{
+ "name": "BCS_CauchyPdfCdf_2351",
+"size":     35 
+},
+{
+ "name": "BCS_Conf2sided_2394",
+"size":     40 
+},
+{
+ "name": "SMSconjcars_1848",
+"size":      6 
+},
+{
+ "name": "gFourierInversion_2177",
+"size":      9 
+},
+{
+ "name": "BCS_Bard_2382",
+"size":     32 
+},
+{
+ "name": "BCS_Barp_2383",
+"size":     34 
+},
+{
+ "name": "MVAcontnorm_500",
+"size":      9 
+},
+{
+ "name": "MSEEX0811_1131",
+"size":      2 
+},
+{
+ "name": "BCS_ExpPdfCdf_2355",
+"size":     25 
+},
+{
+ "name": "MSEfcauchy_886",
+"size":      2 
+},
+{
+ "name": "fehler_693",
+"size":     22 
+},
+{
+ "name": "BCS_Weibull_2406",
+"size":     14 
+},
+{
+ "name": "clt_690",
+"size":     32 
+},
+{
+ "name": "SMSconjexmp_1849",
+"size":      4 
+},
+{
+ "name": "SMSmdmv_2543",
+"size":     17 
+},
+{
+ "name": "MVAcondnorm_1652",
+"size":     11 
+},
+{
+ "name": "MVAcondnorm_651",
+"size":     14 
+},
+{
+ "name": "BCS_NormalDensity_2371",
+"size":     43 
+},
+{
+ "name": "BCS_Norm3_2396",
+"size":     38 
+},
+{
+ "name": "BCS_Norm2_2395",
+"size":     37 
+},
+{
+ "name": "KI_695",
+"size":     14 
+},
+{
+ "name": "GueteFunction2Sided_694",
+"size":     32 
+},
+{
+ "name": "MSEklnatparam_887",
+"size":      1 
+},
+{
+ "name": "BCS_Hist1_2391",
+"size":     27 
+},
+{
+ "name": "BCS_Hist2_2392",
+"size":     42 
+},
+{
+ "name": "BCS_HAC_2466",
+"size":     52 
+},
+{
+ "name": "BCS_Pie_2397",
+"size":     23 
+},
+{
+ "name": "BCS_Poispdf_2422",
+"size":     24 
+},
+{
+ "name": "XFGcofi_2183",
+"size":      9 
+},
+{
+ "name": "SFEgpdist_1760",
+"size":      8 
+},
+{
+ "name": "XFGVaRcharfDGtest_2174",
+"size":     15 
+},
+{
+ "name": "StandardNormalCharf_2176",
+"size":     12 
+},
+{
+ "name": "SFESpecSim_2512",
+"size":      9 
+},
+{
+ "name": "MVAgausscauchy_1681",
+"size":     14 
+},
+{
+ "name": "SFSornstein_1537",
+"size":     14 
+},
+{
+ "name": "SFSornstein_897",
+"size":     14 
+},
+{
+ "name": "SMSellipse_1813",
+"size":      4 
+},
+{
+ "name": "SMSellipse_2093",
+"size":      4 
+},
+{
+ "name": "MSRgpdist_412",
+"size":      8 
+},
+{
+ "name": "MSRgpdist_261",
+"size":      9 
+} 
+] 
+},
+{
+ "name": "80",
+"children": [
+ {
+ "name": "SFE_gsp_849",
+"size":      6 
+},
+{
+ "name": "SFE_gph_846",
+"size":     14 
+},
+{
+ "name": "SFE_GSPtestResults_1276",
+"size":      9 
+},
+{
+ "name": "SFE_ResVarTest_787",
+"size":      9 
+},
+{
+ "name": "SFEwhittle_848",
+"size":      6 
+},
+{
+ "name": "SFEgphTestResults_1275",
+"size":     12 
+} 
+] 
+},
+{
+ "name": "81",
+"children": [
+ {
+ "name": "STF2vswapstrike_1423",
+"size":      7 
+},
+{
+ "name": "SFSstickycall_1340",
+"size":     24 
+},
+{
+ "name": "SFSstickycall_562",
+"size":     24 
+},
+{
+ "name": "SFEbsprices_2498",
+"size":     12 
+},
+{
+ "name": "SFEbsprices_2273",
+"size":     24 
+},
+{
+ "name": "SFEbsprices_496",
+"size":     14 
+},
+{
+ "name": "SFSriskreversal_563",
+"size":     17 
+},
+{
+ "name": "sumseasonal_1029",
+"size":      3 
+},
+{
+ "name": "SFSriskreversal_1338",
+"size":     17 
+},
+{
+ "name": "SFSinterpolStrike_1333",
+"size":     25 
+},
+{
+ "name": "SFSinterpolMaturity_1332",
+"size":     28 
+},
+{
+ "name": "SFScalendarspread_1325",
+"size":     24 
+},
+{
+ "name": "SFScalendarspread_564",
+"size":     24 
+},
+{
+ "name": "SFSinterpolStrike_561",
+"size":     25 
+},
+{
+ "name": "XFGiv00_2439",
+"size":     29 
+},
+{
+ "name": "STF2daxvswap_1418",
+"size":     12 
+},
+{
+ "name": "SFSinterpolMaturity_289",
+"size":     29 
+},
+{
+ "name": "STF2logpayoff_1422",
+"size":     14 
+} 
+] 
+},
+{
+ "name": "82",
+"children": [
+ {
+ "name": "XFGiv05_2444",
+"size":     83 
+},
+{
+ "name": "SFEcapvplot_1898",
+"size":      8 
+},
+{
+ "name": "SFEcapvplot_351",
+"size":     15 
+},
+{
+ "name": "SFEcapvola_594",
+"size":     15 
+},
+{
+ "name": "SFEVolaTermStructure_1803",
+"size":      3 
+},
+{
+ "name": "SFEVolaTermStructure_611",
+"size":      9 
+},
+{
+ "name": "XFGiv03_2442",
+"size":    101 
+},
+{
+ "name": "SFEVolSurfPlot_477",
+"size":     13 
+},
+{
+ "name": "SFEscap_421",
+"size":     12 
+},
+{
+ "name": "SFEscap_1903",
+"size":      6 
+},
+{
+ "name": "vola_461",
+"size":      6 
+},
+{
+ "name": "XFGiv01_2440",
+"size":     17 
+},
+{
+ "name": "SFEVolsurfplot_2492",
+"size":     18 
+},
+{
+ "name": "SFEVolSurfPlot_1893",
+"size":     16 
+} 
+] 
+},
+{
+ "name": "83",
+"children": [
+ {
+ "name": "SFEvanna_1970",
+"size":     20 
+},
+{
+ "name": "SFEultima_1975",
+"size":     13 
+},
+{
+ "name": "SFEzomma_1978",
+"size":     10 
+},
+{
+ "name": "SFEcharm_1969",
+"size":     10 
+},
+{
+ "name": "SFEcharm_1957",
+"size":     10 
+},
+{
+ "name": "SFEzomma_1963",
+"size":     10 
+},
+{
+ "name": "SFEvomma_1977",
+"size":     26 
+},
+{
+ "name": "SFEvomma_1962",
+"size":     26 
+},
+{
+ "name": "SFEultima_1961",
+"size":     13 
+},
+{
+ "name": "SFEcolor_1958",
+"size":     14 
+},
+{
+ "name": "SFEdvegadtime_1973",
+"size":     15 
+},
+{
+ "name": "SFEcolor_1972",
+"size":     14 
+},
+{
+ "name": "SFEdvegadtime_1959",
+"size":     15 
+} 
+] 
+},
+{
+ "name": "88",
+"children": [
+ {
+ "name": "SFENormalApprox4_1406",
+"size":      6 
+},
+{
+ "name": "SFENormalApprox4_2436",
+"size":     12 
+},
+{
+ "name": "SFENormalApprox1 _2460",
+"size":     10 
+},
+{
+ "name": "SFENormalApprox2_1255",
+"size":     12 
+},
+{
+ "name": "SFENormalApprox2_1256",
+"size":     11 
+},
+{
+ "name": "SFENormalApprox3_1257",
+"size":      9 
+},
+{
+ "name": "SFENormalApprox3_1405",
+"size":     12 
+},
+{
+ "name": "SFENormalApprox2_2461",
+"size":      9 
+},
+{
+ "name": "SFENormalApprox1_1254",
+"size":     12 
+},
+{
+ "name": "SFENormalApprox1_1404",
+"size":     12 
+},
+{
+ "name": "SFENormalApprox3_2435",
+"size":     12 
+},
+{
+ "name": "SFENormalApprox4_1258",
+"size":      9 
+} 
+] 
+},
+{
+ "name": "89",
+"children": [
+ {
+ "name": "SFEusycplot_2302",
+"size":      4 
+},
+{
+ "name": "SFEustb_1424",
+"size":     12 
+},
+{
+ "name": "SFEVasiml_1262",
+"size":     15 
+},
+{
+ "name": "XFGyields_1764",
+"size":      3 
+},
+{
+ "name": "Vasimle_359",
+"size":      6 
+},
+{
+ "name": "SFEustb_1297",
+"size":     13 
+},
+{
+ "name": "SFEscomCIR_1901",
+"size":      9 
+},
+{
+ "name": "XFGtreasury_1763",
+"size":      2 
+},
+{
+ "name": "SFEVasiml_1905",
+"size":     14 
+},
+{
+ "name": "SFEusycplot_2296",
+"size":      3 
+},
+{
+ "name": "SFEsimVasi_415",
+"size":     11 
+},
+{
+ "name": "SFEsimVasi_1904",
+"size":     11 
+},
+{
+ "name": "SFEscomCIR_527",
+"size":     10 
+} 
+] 
+},
+{
+ "name": "9",
+"children": [
+ {
+ "name": "BCS_Binnorm_2420",
+"size":     32 
+},
+{
+ "name": "SFEBinomial_2372",
+"size":     14 
+},
+{
+ "name": "SFEbinomv_2425",
+"size":     15 
+},
+{
+ "name": "BCS_Binompdf_2401",
+"size":     20 
+},
+{
+ "name": "BCS_Binpdf_2423",
+"size":     23 
+},
+{
+ "name": "BCS_Binhist_2418",
+"size":     23 
+},
+{
+ "name": "BCS_Binhyper_2419",
+"size":     30 
+},
+{
+ "name": "BCS_Bincdf_2417",
+"size":     15 
+},
+{
+ "name": "SFEBinomp_1250",
+"size":      5 
+},
+{
+ "name": "SFEBinomp_1251",
+"size":      7 
+},
+{
+ "name": "SFEbinomv_log_2024",
+"size":      9 
+},
+{
+ "name": "SFEbinomv_1402",
+"size":      7 
+},
+{
+ "name": "BCS_Binpois_2421",
+"size":     26 
+},
+{
+ "name": "SFEBinomial_1249",
+"size":     17 
+},
+{
+ "name": "SFEBinomial_2258",
+"size":     14 
+},
+{
+ "name": "SFEbinomv_1980",
+"size":      7 
+} 
+] 
+},
+{
+ "name": "91",
+"children": [
+ {
+ "name": "SFScola3_1544",
+"size":     16 
+},
+{
+ "name": "SFScola2_1543",
+"size":     14 
+},
+{
+ "name": "SFScola3_1328",
+"size":     19 
+},
+{
+ "name": "SFScola1_1542",
+"size":     13 
+},
+{
+ "name": "SFScola2_1327",
+"size":     16 
+},
+{
+ "name": "SFScola1_1326",
+"size":     15 
+} 
+] 
+},
+{
+ "name": "92",
+"children": [
+ {
+ "name": "SFSLossBern_1392",
+"size":     11 
+},
+{
+ "name": "SFSLossBernPois_1320",
+"size":     14 
+},
+{
+ "name": "SFSLossBern_1319",
+"size":     12 
+},
+{
+ "name": "SFSLossBernPois_1393",
+"size":     11 
+},
+{
+ "name": "SFSLossPois_1321",
+"size":      8 
+},
+{
+ "name": "SFSLossPois_1394",
+"size":      8 
+} 
+] 
+},
+{
+ "name": "94",
+"children": [
+ {
+ "name": "SPMhiststock_1998",
+"size":      4 
+},
+{
+ "name": "SPMsimulatedexponential_1990",
+"size":      4 
+},
+{
+ "name": "SPMstockreturnhisto_1991",
+"size":      4 
+},
+{
+ "name": "SPMbuffahisto_1994",
+"size":      3 
+},
+{
+ "name": "SPMbuffagrid_1988",
+"size":      2 
+},
+{
+ "name": "SPMbuffadata_1987",
+"size":      1 
+},
+{
+ "name": "SPMashstock_1995",
+"size":      6 
+},
+{
+ "name": "SPMparametriclinkfunctions_2140",
+"size":      3 
+},
+{
+ "name": "SPMhistobias2_1996",
+"size":      3 
+},
+{
+ "name": "SPMHistoConstruct_1997",
+"size":      3 
+} 
+] 
+},
+{
+ "name": "95",
+"children": [
+ {
+ "name": "STF2dollargamma2D_1735",
+"size":      9 
+},
+{
+ "name": "STF2dollargamma3D_1420",
+"size":      9 
+},
+{
+ "name": "STF2dollargamma_1417",
+"size":      9 
+},
+{
+ "name": "STF2dollargamma_1419",
+"size":      9 
+},
+{
+ "name": "STF2dollargamma2D_1421",
+"size":      9 
+} 
+] 
+},
+{
+ "name": "98",
+"children": [
+ {
+ "name": "STFloss06_1916",
+"size":     34 
+},
+{
+ "name": "STFloss03_1933",
+"size":     28 
+},
+{
+ "name": "STFloss04_1912",
+"size":     44 
+},
+{
+ "name": "STFloss03_1911",
+"size":     31 
+},
+{
+ "name": "STFloss06_1936",
+"size":     31 
+},
+{
+ "name": "STFloss05_1914",
+"size":     25 
+},
+{
+ "name": "STFloss05_1935",
+"size":     22 
+},
+{
+ "name": "STFloss04_1934",
+"size":     44 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "10",
+"children": [
+ {
+ "name": "99",
+"children": [
+ {
+ "name": "STFruin06_1725",
+"size":     13 
+},
+{
+ "name": "STFruin07_1180",
+"size":     11 
+},
+{
+ "name": "STFruin14_1186",
+"size":     13 
+},
+{
+ "name": "STFruin13_1185",
+"size":     12 
+},
+{
+ "name": "STFruin13_1731",
+"size":     14 
+},
+{
+ "name": "STFruin14_1732",
+"size":     15 
+},
+{
+ "name": "STFruin02_1177",
+"size":      8 
+},
+{
+ "name": "STFruin03_1300",
+"size":      8 
+},
+{
+ "name": "STFruin04_1178",
+"size":      9 
+},
+{
+ "name": "STFruin04_1720",
+"size":     10 
+},
+{
+ "name": "STFruin05_1724",
+"size":     15 
+},
+{
+ "name": "STFruin06_1179",
+"size":     11 
+},
+{
+ "name": "STFruin10_1729",
+"size":     13 
+},
+{
+ "name": "STFruin08_1181",
+"size":     10 
+},
+{
+ "name": "STFruin07_1726",
+"size":     13 
+},
+{
+ "name": "STFruin09_1182",
+"size":     10 
+},
+{
+ "name": "STFruin10_1183",
+"size":     11 
+},
+{
+ "name": "STFruin08_1727",
+"size":     12 
+},
+{
+ "name": "STFruin05_1301",
+"size":     12 
+},
+{
+ "name": "STFruin12_1184",
+"size":     12 
+},
+{
+ "name": "STFruin12_1730",
+"size":     14 
+},
+{
+ "name": "STFruin17_1362",
+"size":     15 
+},
+{
+ "name": "STFruin09_1728",
+"size":     12 
+},
+{
+ "name": "STFruin11_1302",
+"size":     13 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "2",
+"children": [
+ {
+ "name": "2",
+"children": [
+ {
+ "name": "Paretocdf_1948",
+"size":      2 
+},
+{
+ "name": "cvln_1943",
+"size":      2 
+},
+{
+ "name": "cvPareto_1944",
+"size":      2 
+},
+{
+ "name": "estPareto_1947",
+"size":      2 
+},
+{
+ "name": "cvBurr_1942",
+"size":      2 
+},
+{
+ "name": "estBurr_1945",
+"size":      2 
+},
+{
+ "name": "estln_1946",
+"size":      2 
+},
+{
+ "name": "Burrcdf_1940",
+"size":      2 
+},
+{
+ "name": "ADcritln_1938",
+"size":      2 
+},
+{
+ "name": "ADcritBurr_1937",
+"size":      2 
+},
+{
+ "name": "ADcritPareto_1939",
+"size":      2 
+} 
+] 
+},
+{
+ "name": "21",
+"children": [
+ {
+ "name": "STFdmm02_2011",
+"size":     28 
+},
+{
+ "name": "STFdmm03_2032",
+"size":     19 
+},
+{
+ "name": "STFdmm04_2013",
+"size":     29 
+},
+{
+ "name": "umlp_2010",
+"size":      4 
+},
+{
+ "name": "bmlp_2008",
+"size":      4 
+},
+{
+ "name": "STFdmm04_2033",
+"size":     23 
+},
+{
+ "name": "STFdmm02_2031",
+"size":     19 
+},
+{
+ "name": "STFdmm03_2012",
+"size":     28 
+},
+{
+ "name": "STFdmm13_2027",
+"size":     34 
+},
+{
+ "name": "STFdmm13_2075",
+"size":     26 
+} 
+] 
+},
+{
+ "name": "23",
+"children": [
+ {
+ "name": "getQnumber_1921",
+"size":      1 
+},
+{
+ "name": "simNHPPRPRT_1929",
+"size":      2 
+},
+{
+ "name": "simNHPPRP_1928",
+"size":      2 
+},
+{
+ "name": "theil_2069",
+"size":      2 
+},
+{
+ "name": "Paretopdf_1913",
+"size":      2 
+},
+{
+ "name": "mef _1917",
+"size":      2 
+},
+{
+ "name": "manh_2068",
+"size":      2 
+},
+{
+ "name": "Burrrnd_1923",
+"size":      2 
+},
+{
+ "name": "Burrpdf_1915",
+"size":      2 
+},
+{
+ "name": "mixexppdf_1910",
+"size":      2 
+},
+{
+ "name": "mixexprnd_1924",
+"size":      2 
+},
+{
+ "name": "simHPP_1906",
+"size":      2 
+},
+{
+ "name": "simNHPP_1907",
+"size":      2 
+},
+{
+ "name": "quantiles_1926",
+"size":      2 
+},
+{
+ "name": "Paretornd_1925",
+"size":      2 
+},
+{
+ "name": "samplemef_1919",
+"size":      2 
+} 
+] 
+},
+{
+ "name": "31",
+"children": [
+ {
+ "name": "stabcdf_1889",
+"size":      8 
+},
+{
+ "name": "stabpdf_fft_1861",
+"size":      8 
+},
+{
+ "name": "stabreg_1890",
+"size":     13 
+},
+{
+ "name": "STFstab01_1860",
+"size":     23 
+},
+{
+ "name": "STFstab03_1365",
+"size":      2 
+},
+{
+ "name": "tstabpdf_1876",
+"size":      7 
+},
+{
+ "name": "tstabpdf3_1877",
+"size":      3 
+},
+{
+ "name": "nigpdf_1881",
+"size":      2 
+},
+{
+ "name": "hyppdf_1880",
+"size":      2 
+},
+{
+ "name": "hypcdf_1885",
+"size":      7 
+},
+{
+ "name": "hypest_1886",
+"size":      3 
+},
+{
+ "name": "empcdf_1884",
+"size":      7 
+},
+{
+ "name": "ghypstat_1879",
+"size":      9 
+},
+{
+ "name": "edftests_1883",
+"size":      9 
+},
+{
+ "name": "empcdf_1859",
+"size":      5 
+},
+{
+ "name": "nigcdf_1887",
+"size":      7 
+},
+{
+ "name": "nigest_1888",
+"size":      3 
+},
+{
+ "name": "STFstab04_1882",
+"size":     15 
+} 
+] 
+},
+{
+ "name": "96",
+"children": [
+ {
+ "name": "STFdmm08_2065",
+"size":     22 
+},
+{
+ "name": "STFdmm10_2067",
+"size":     21 
+},
+{
+ "name": "STFdmm09_2066",
+"size":     22 
+},
+{
+ "name": "STFdmm10_2020",
+"size":     26 
+},
+{
+ "name": "STFdmm07_2064",
+"size":     21 
+},
+{
+ "name": "STFdmm08_2017",
+"size":     27 
+},
+{
+ "name": "STFdmm06_2063",
+"size":     23 
+},
+{
+ "name": "STFdmm07_2016",
+"size":     27 
+},
+{
+ "name": "STFdmm05_2014",
+"size":     30 
+},
+{
+ "name": "STFdmm05_2034",
+"size":     18 
+},
+{
+ "name": "STFdmm06_2015",
+"size":     28 
+},
+{
+ "name": "STFdmm09_2018",
+"size":     27 
+} 
+] 
+},
+{
+ "name": "97",
+"children": [
+ {
+ "name": "STFdmm11_2025",
+"size":     24 
+},
+{
+ "name": "STFdmm11_2070",
+"size":     18 
+},
+{
+ "name": "STFdmm12_2026",
+"size":     30 
+},
+{
+ "name": "STFdmm12_2074",
+"size":     30 
+},
+{
+ "name": "STFdmm14_2028",
+"size":     25 
+},
+{
+ "name": "STFdmm15_2029",
+"size":     25 
+},
+{
+ "name": "STFdmm14_2072",
+"size":     19 
+},
+{
+ "name": "STFdmm15_2073",
+"size":     19 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "3",
+"children": [
+ {
+ "name": "30",
+"children": [
+ {
+ "name": "plotsurt_movie_1084",
+"size":      3 
+},
+{
+ "name": "mu_est_1076",
+"size":      3 
+},
+{
+ "name": "mugrid_1077",
+"size":      3 
+},
+{
+ "name": "loaddata_1075",
+"size":      3 
+},
+{
+ "name": "DSFM_FPCA_ICS_1086",
+"size":     16 
+},
+{
+ "name": "fpca_1074",
+"size":      3 
+},
+{
+ "name": "z_est_1085",
+"size":      1 
+},
+{
+ "name": "phi_est_1078",
+"size":      3 
+},
+{
+ "name": "phigrid_1079",
+"size":      3 
+},
+{
+ "name": "plotsurf_1080",
+"size":      3 
+},
+{
+ "name": "plotsurf_basis_1081",
+"size":      3 
+},
+{
+ "name": "plotsurf_data_1082",
+"size":      3 
+},
+{
+ "name": "plotsurf_interp_1083",
+"size":      3 
+} 
+] 
+},
+{
+ "name": "4",
+"children": [
+ {
+ "name": "augknt_1168",
+"size":      1 
+},
+{
+ "name": "sorted_1173",
+"size":      2 
+},
+{
+ "name": "Yhat_1167",
+"size":      1 
+},
+{
+ "name": "spap2_1174",
+"size":      2 
+},
+{
+ "name": "xplreshape_1165",
+"size":      2 
+},
+{
+ "name": "brk2knt_1170",
+"size":      2 
+},
+{
+ "name": "chckxywp_1171",
+"size":      2 
+},
+{
+ "name": "bkbrk_1169",
+"size":      2 
+},
+{
+ "name": "checkknots1_1162",
+"size":      2 
+},
+{
+ "name": "spmak_1176",
+"size":      2 
+},
+{
+ "name": "xplvec_1166",
+"size":      2 
+},
+{
+ "name": "spDSFM_1164",
+"size":      2 
+},
+{
+ "name": "slvblk_1172",
+"size":      2 
+},
+{
+ "name": "smartMatrix4sDSFM_1163",
+"size":      2 
+},
+{
+ "name": "spcol_1175",
+"size":      2 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "4",
+"children": [
+ {
+ "name": "5",
+"children": [
+ {
+ "name": "SFEacfar1_597",
+"size":      8 
+},
+{
+ "name": "SFEacfar2_1896",
+"size":      6 
+},
+{
+ "name": "SFEacfar2_2480",
+"size":     16 
+},
+{
+ "name": "autocorr.m_900",
+"size":      2 
+},
+{
+ "name": "SFEpacfar2_2476",
+"size":      8 
+},
+{
+ "name": "SFEpacfar2_433",
+"size":      8 
+},
+{
+ "name": "SFEacfma2_1751",
+"size":      2 
+},
+{
+ "name": "SFEacfma2_529",
+"size":      6 
+},
+{
+ "name": "SFEacfma1_2470",
+"size":     11 
+},
+{
+ "name": "SFEacfar2_598",
+"size":     12 
+},
+{
+ "name": "SFEpacfma2_600",
+"size":     16 
+},
+{
+ "name": "SFEacfma2_2485",
+"size":     11 
+},
+{
+ "name": "SFEacfma1_596",
+"size":     13 
+},
+{
+ "name": "SFEacfma1_1897",
+"size":      6 
+},
+{
+ "name": "SFEacfar1_2467",
+"size":      9 
+},
+{
+ "name": "SFEacfar1_479",
+"size":      9 
+},
+{
+ "name": "SFSacfMA3_1541",
+"size":      3 
+},
+{
+ "name": "SFEpacfma2_2483",
+"size":     10 
+},
+{
+ "name": "SFSacfMA3_978",
+"size":      5 
+},
+{
+ "name": "SFEpacfma2_453",
+"size":     10 
+},
+{
+ "name": "SFEpacfar2_599",
+"size":      9 
+} 
+] 
+},
+{
+ "name": "86",
+"children": [
+ {
+ "name": "SFElikgarch_1279",
+"size":     17 
+},
+{
+ "name": "SFElikma1_2494",
+"size":     14 
+},
+{
+ "name": "SFElikarch1_2490",
+"size":     13 
+},
+{
+ "name": "SFElikarch1_606",
+"size":      7 
+},
+{
+ "name": "SFEtimegarch_1294",
+"size":     11 
+},
+{
+ "name": "SFEtimegarch_1799",
+"size":     11 
+},
+{
+ "name": "SFEtimegarch_2487",
+"size":     11 
+},
+{
+ "name": "SFEkurgarch_2489",
+"size":     12 
+},
+{
+ "name": "SFElikarch1_1278",
+"size":     14 
+},
+{
+ "name": "SFEkurgarch_1277",
+"size":     11 
+},
+{
+ "name": "SFEkurgarch_1952",
+"size":      3 
+},
+{
+ "name": "SFElikma1_1805",
+"size":     14 
+},
+{
+ "name": "SFElikma1_602",
+"size":     14 
+},
+{
+ "name": "SFElikgarch_1839",
+"size":     12 
+},
+{
+ "name": "SFElikgarch_2496",
+"size":     17 
+} 
+] 
+},
+{
+ "name": "87",
+"children": [
+ {
+ "name": "SFEmaxprocess_765",
+"size":     14 
+},
+{
+ "name": "SFSwiener3_343",
+"size":      4 
+},
+{
+ "name": "SFEwienerdens_1460",
+"size":     10 
+},
+{
+ "name": "SFEwienerdens_2479",
+"size":     13 
+},
+{
+ "name": "SFEwienerdens_540",
+"size":     10 
+},
+{
+ "name": "SFEWienerProcess_1985",
+"size":     12 
+},
+{
+ "name": "SFEWienerProcess_2493",
+"size":     12 
+},
+{
+ "name": "SFEWienerProcess_585",
+"size":     12 
+},
+{
+ "name": "SFSwiener2_1463",
+"size":      6 
+},
+{
+ "name": "SFSwiener2_497",
+"size":      5 
+},
+{
+ "name": "SFSwiener1_1462",
+"size":      6 
+},
+{
+ "name": "SFSwiener1_478",
+"size":      5 
+},
+{
+ "name": "SFSwiener3_1464",
+"size":      6 
+},
+{
+ "name": "SFEsimOU_2043",
+"size":      2 
+},
+{
+ "name": "SFEsimOU_2045",
+"size":      2 
+},
+{
+ "name": "SFEWienerProcess_2375",
+"size":     12 
+},
+{
+ "name": "SFEmaxprocess_1387",
+"size":     16 
+} 
+] 
+},
+{
+ "name": "93",
+"children": [
+ {
+ "name": "simNHPPALP_2206",
+"size":     13 
+},
+{
+ "name": "simNHPP_2205",
+"size":     10 
+},
+{
+ "name": "simNHPPALP_2221",
+"size":     13 
+},
+{
+ "name": "simHPPALP_2231",
+"size":     12 
+},
+{
+ "name": "simHPP_2204",
+"size":     11 
+},
+{
+ "name": "simHPP_2219",
+"size":     10 
+},
+{
+ "name": "STFrisk01_1383",
+"size":      7 
+},
+{
+ "name": "simHPPALP_2214",
+"size":     14 
+},
+{
+ "name": "simNHPP_2220",
+"size":      9 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "5",
+"children": [
+ {
+ "name": "12",
+"children": [
+ {
+ "name": "MVAclusbank_1202",
+"size":     22 
+},
+{
+ "name": "MVAcarsim_2546",
+"size":     10 
+},
+{
+ "name": "BCS_CAmethods_2407",
+"size":     20 
+},
+{
+ "name": "BCS_CAWard_2408",
+"size":     20 
+},
+{
+ "name": "SMScluskmhealth_2541",
+"size":     22 
+},
+{
+ "name": "SMScluscrime_1090",
+"size":      7 
+},
+{
+ "name": "SMScluscrimechi2_1091",
+"size":      7 
+},
+{
+ "name": "SMSclushealth_1092",
+"size":      7 
+},
+{
+ "name": "SMSclus8pc_2536",
+"size":     15 
+},
+{
+ "name": "SMSclusbank_1842",
+"size":     41 
+},
+{
+ "name": "SMSclus8pmst_2537",
+"size":      8 
+},
+{
+ "name": "SMSclusbank2_1087",
+"size":     42 
+},
+{
+ "name": "SMSclusbank3_1088",
+"size":     54 
+},
+{
+ "name": "SMScluscereal_2538",
+"size":     38 
+},
+{
+ "name": "SMScluscomp_1089",
+"size":     75 
+},
+{
+ "name": "SMSclushealth05_2539",
+"size":     43 
+},
+{
+ "name": "SMScluskmcereal_2540",
+"size":     23 
+},
+{
+ "name": "MVAclus8p_1201",
+"size":     10 
+},
+{
+ "name": "MVAclus8p_1664",
+"size":      4 
+},
+{
+ "name": "MVAclusbank_1665",
+"size":     21 
+},
+{
+ "name": "SMScarsim_2549",
+"size":     10 
+},
+{
+ "name": "SMSclus8km_2534",
+"size":     11 
+},
+{
+ "name": "SMSclus8p_781",
+"size":     18 
+},
+{
+ "name": "SMSclus8pa_2535",
+"size":     16 
+},
+{
+ "name": "Specclust_2528",
+"size":     20 
+},
+{
+ "name": "SMSclus8pd_782",
+"size":     47 
+},
+{
+ "name": "MVAspecclust_2547",
+"size":     17 
+},
+{
+ "name": "SMSdisthealth05_2542",
+"size":     16 
+} 
+] 
+},
+{
+ "name": "18",
+"children": [
+ {
+ "name": "MVApcasimu_1242",
+"size":     26 
+},
+{
+ "name": "PrincipalDirection.R_2350",
+"size":      7 
+},
+{
+ "name": "SFEVolaPCA_612",
+"size":      9 
+},
+{
+ "name": "SMSpcahealth_1110",
+"size":      4 
+},
+{
+ "name": "XFGiv04_2443",
+"size":     39 
+},
+{
+ "name": "SMSpcacarm_2433",
+"size":     77 
+},
+{
+ "name": "SFEVolaPCA_1802",
+"size":      3 
+},
+{
+ "name": "SMSnpcathletic_2432",
+"size":     58 
+},
+{
+ "name": "MVApcasimu_1225",
+"size":     26 
+},
+{
+ "name": "SMSnpcageopol_1106",
+"size":      4 
+},
+{
+ "name": "SMSnpcageopol_2430",
+"size":     76 
+},
+{
+ "name": "SFEPCA_610",
+"size":      9 
+},
+{
+ "name": "fpca.R_2349",
+"size":      7 
+},
+{
+ "name": "MVAnpcahous_1117",
+"size":     21 
+},
+{
+ "name": "MVAnpcahous_1386",
+"size":     13 
+},
+{
+ "name": "China_example_2348",
+"size":      8 
+},
+{
+ "name": "BCS_PCAvar_2416",
+"size":     30 
+},
+{
+ "name": "BCS_NPCAbiplot_2414",
+"size":     22 
+},
+{
+ "name": "BCS_PCAbiplot_2415",
+"size":     21 
+},
+{
+ "name": "SMSpcahealth_2434",
+"size":     13 
+},
+{
+ "name": "SMSnpcacrime_1105",
+"size":      5 
+},
+{
+ "name": "SMSnpcacrime_2429",
+"size":     56 
+},
+{
+ "name": "SMSnpcasimu_2431",
+"size":     44 
+},
+{
+ "name": "SFEPCA_1413",
+"size":      6 
+} 
+] 
+},
+{
+ "name": "29",
+"children": [
+ {
+ "name": "MVAspecdecomp_2554",
+"size":     10 
+},
+{
+ "name": "MVAdecofood_1114",
+"size":     20 
+},
+{
+ "name": "MVAnpcatime_1673",
+"size":     12 
+},
+{
+ "name": "MVAnpcatime_986",
+"size":     19 
+},
+{
+ "name": "DGdecompS_2170",
+"size":     30 
+},
+{
+ "name": "MVAclusfood_1205",
+"size":     17 
+},
+{
+ "name": "MVAclusfood_1667",
+"size":     10 
+},
+{
+ "name": "SMSjordandec_1847",
+"size":      4 
+},
+{
+ "name": "SMSjordandec_2077",
+"size":      4 
+},
+{
+ "name": "SFETsDecomp_2513",
+"size":      6 
+},
+{
+ "name": "SMSdecobank_1809",
+"size":      5 
+},
+{
+ "name": "SMSdecofood_1810",
+"size":      5 
+},
+{
+ "name": "SMSdecotime_1843",
+"size":      4 
+},
+{
+ "name": "MVAnpcafood_2511",
+"size":     23 
+},
+{
+ "name": "MVAnpcafood_1669",
+"size":     16 
+},
+{
+ "name": "MVAdecofood_475",
+"size":     14 
+} 
+] 
+},
+{
+ "name": "44",
+"children": [
+ {
+ "name": "MVAcancarm_2086",
+"size":     14 
+},
+{
+ "name": "MVAcanus_1198",
+"size":      7 
+},
+{
+ "name": "MVAcancarm_2087",
+"size":     14 
+},
+{
+ "name": "MVAcanus_1125",
+"size":      7 
+},
+{
+ "name": "SMScanus_778",
+"size":      2 
+},
+{
+ "name": "SMScancarm1_775",
+"size":      2 
+},
+{
+ "name": "MSEklcanparam_888",
+"size":      2 
+},
+{
+ "name": "SMScancarm2_776",
+"size":      1 
+},
+{
+ "name": "SMScanfood_777",
+"size":      1 
+} 
+] 
+},
+{
+ "name": "56",
+"children": [
+ {
+ "name": "MVAdrafthousingt_634",
+"size":      9 
+},
+{
+ "name": "MVAlinreg2bh_1682",
+"size":      7 
+},
+{
+ "name": "MVAnpcahousi_1118",
+"size":     15 
+},
+{
+ "name": "MVAnpcahousi_1239",
+"size":     15 
+},
+{
+ "name": "MVApcphousing_470",
+"size":      5 
+},
+{
+ "name": "MVAaerbh_2344",
+"size":     14 
+},
+{
+ "name": "MVAaerbh_1701",
+"size":     13 
+},
+{
+ "name": "MVAclusbh_1204",
+"size":     15 
+},
+{
+ "name": "MVAclusbh_1666",
+"size":      8 
+},
+{
+ "name": "MVAlinregbh_1615",
+"size":      6 
+},
+{
+ "name": "MVAlinregbh_499",
+"size":      9 
+},
+{
+ "name": "MVApcphousing_1611",
+"size":      5 
+},
+{
+ "name": "MVAlinreg2bh_425",
+"size":     10 
+},
+{
+ "name": "MVAboshousing_1476",
+"size":      5 
+},
+{
+ "name": "MVAboshousing_2427",
+"size":     18 
+},
+{
+ "name": "MVAdrafthousing_633",
+"size":      6 
+},
+{
+ "name": "MVAdrafthousing_1609",
+"size":     11 
+},
+{
+ "name": "MVAdrafthousingt_1610",
+"size":     13 
+},
+{
+ "name": "MVAfacthous_1211",
+"size":     24 
+},
+{
+ "name": "MVAfacthous_1672",
+"size":     14 
+} 
+] 
+},
+{
+ "name": "66",
+"children": [
+ {
+ "name": "SMScorrfood_1123",
+"size":     15 
+},
+{
+ "name": "SMScorrhealth_1124",
+"size":     36 
+},
+{
+ "name": "MVAcorrbac_1113",
+"size":     26 
+},
+{
+ "name": "SMScorrcarm_1121",
+"size":     24 
+},
+{
+ "name": "SMScorrcrime_1122",
+"size":     31 
+},
+{
+ "name": "MVAcorrcrime_658",
+"size":     20 
+},
+{
+ "name": "MVAcorrjourn_1072",
+"size":     21 
+},
+{
+ "name": "MVAcorrjourn_428",
+"size":     23 
+},
+{
+ "name": "MVAcorrcrime_1073",
+"size":     20 
+},
+{
+ "name": "MVAcorrbac_510",
+"size":     25 
+} 
+] 
+},
+{
+ "name": "70",
+"children": [
+ {
+ "name": "MVAnpcausco2i_1675",
+"size":     16 
+},
+{
+ "name": "MVApcabank_945",
+"size":     22 
+},
+{
+ "name": "MVApcabanki_1223",
+"size":     23 
+},
+{
+ "name": "MVAnpcabank_947",
+"size":     26 
+},
+{
+ "name": "MVAnpcabanki_1216",
+"size":     23 
+},
+{
+ "name": "MVAnpcausco_1115",
+"size":     19 
+},
+{
+ "name": "MVAnpcausco_655",
+"size":     19 
+},
+{
+ "name": "MVApcabank_1670",
+"size":     18 
+},
+{
+ "name": "SMSpcacarm_1109",
+"size":     15 
+},
+{
+ "name": "MVAnpcausco2i_949",
+"size":     21 
+},
+{
+ "name": "MVAnpcausco2_1674",
+"size":     17 
+},
+{
+ "name": "MVAnpcabanki_408",
+"size":     23 
+},
+{
+ "name": "MVApcabanki_653",
+"size":     23 
+},
+{
+ "name": "MVApcabankr_1671",
+"size":     24 
+},
+{
+ "name": "MVApcabankr_948",
+"size":     24 
+},
+{
+ "name": "MVAnpcausco2_1116",
+"size":     27 
+},
+{
+ "name": "MVAnpcabank_1215",
+"size":     26 
+},
+{
+ "name": "MVAnpcabank_654",
+"size":     26 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "6",
+"children": [
+ {
+ "name": "19",
+"children": [
+ {
+ "name": "SFEBSCopt2_591",
+"size":     11 
+},
+{
+ "name": "SFEBSCopt2_1389",
+"size":     13 
+},
+{
+ "name": "SFEBSCopt1_2471",
+"size":     13 
+},
+{
+ "name": "SFEBSCopt2_2488",
+"size":     14 
+},
+{
+ "name": "SFEBSCopt1_1984",
+"size":     26 
+},
+{
+ "name": "IBTblackscholes_1465",
+"size":     10 
+},
+{
+ "name": "blackscholes_1545",
+"size":      8 
+},
+{
+ "name": "blsprice_1745",
+"size":      2 
+},
+{
+ "name": "blsprice_1746",
+"size":      2 
+},
+{
+ "name": "blspricevec_2116",
+"size":      4 
+},
+{
+ "name": "blsprice_1747",
+"size":      2 
+},
+{
+ "name": "IBTblackscholes_2104",
+"size":      7 
+},
+{
+ "name": "SFEBSCopt1_1248",
+"size":     11 
+} 
+] 
+},
+{
+ "name": "39",
+"children": [
+ {
+ "name": "SFElookback_2127",
+"size":     10 
+},
+{
+ "name": "SFEbitreeCDiv_1453",
+"size":     20 
+},
+{
+ "name": "SFEbitreeFDiv_471",
+"size":     18 
+},
+{
+ "name": "SFEbitreePDiv_1452",
+"size":     20 
+},
+{
+ "name": "SFEchooser_2126",
+"size":      9 
+},
+{
+ "name": "IBTcrr_1548",
+"size":     13 
+},
+{
+ "name": "SFSbitreeNDiv_1324",
+"size":     15 
+},
+{
+ "name": "SFSbitreeNDiv_534",
+"size":     12 
+},
+{
+ "name": "SFEbitreeFDiv_2468",
+"size":     19 
+},
+{
+ "name": "SFEbitreeCDiv_530",
+"size":     19 
+},
+{
+ "name": "IBTcrr_1467",
+"size":     14 
+},
+{
+ "name": "SFEasian_2125",
+"size":      8 
+},
+{
+ "name": "SFEbitreeCDiv_2499",
+"size":     20 
+},
+{
+ "name": "SFEbitreePDiv_315",
+"size":     17 
+},
+{
+ "name": "SFEbitreeFDiv_1451",
+"size":     19 
+},
+{
+ "name": "SFEbitreePDiv_2481",
+"size":     20 
+},
+{
+ "name": "SFEcompound_2089",
+"size":     11 
+} 
+] 
+},
+{
+ "name": "40",
+"children": [
+ {
+ "name": "SFScompBS_1588",
+"size":     12 
+},
+{
+ "name": "SFEspeed_1974",
+"size":      3 
+},
+{
+ "name": "sker_2152",
+"size":      2 
+},
+{
+ "name": "SFSproductcall_2111",
+"size":      9 
+},
+{
+ "name": "SFSproductcall_1589",
+"size":      9 
+},
+{
+ "name": "SFSBSCopt1_1534",
+"size":      6 
+},
+{
+ "name": "SFSBSCopt1_982",
+"size":     10 
+},
+{
+ "name": "SFSgreeks_981",
+"size":     10 
+},
+{
+ "name": "SFSgreeks_1459",
+"size":      8 
+},
+{
+ "name": "kerndens_2156",
+"size":      1 
+},
+{
+ "name": "kern_2151",
+"size":      2 
+},
+{
+ "name": "SFEspeed_1960",
+"size":      3 
+},
+{
+ "name": "ppexample_2148",
+"size":      1 
+},
+{
+ "name": "SFEputcall_352",
+"size":      8 
+},
+{
+ "name": "SFEputcall_2462",
+"size":     12 
+},
+{
+ "name": "SFEputcall_951",
+"size":      8 
+},
+{
+ "name": "SFScompBS_2106",
+"size":     12 
+} 
+] 
+},
+{
+ "name": "84",
+"children": [
+ {
+ "name": "SFEvanna_2484",
+"size":     11 
+},
+{
+ "name": "SFEgamma_495",
+"size":     11 
+},
+{
+ "name": "SFEvega_592",
+"size":     10 
+},
+{
+ "name": "SFEvanna_1971",
+"size":     11 
+},
+{
+ "name": "SFEvega_2501",
+"size":     10 
+},
+{
+ "name": "SFEgamma_1143",
+"size":     11 
+},
+{
+ "name": "SFEgamma_2473",
+"size":     11 
+},
+{
+ "name": "SFEtheta_1414",
+"size":     10 
+},
+{
+ "name": "SFEvolga_1429",
+"size":     11 
+},
+{
+ "name": "SFEvolga_317",
+"size":     11 
+},
+{
+ "name": "SFEvolga_2475",
+"size":     11 
+},
+{
+ "name": "SFEtheta_2491",
+"size":     11 
+},
+{
+ "name": "SFEtheta_341",
+"size":      7 
+},
+{
+ "name": "SFEvega_1428",
+"size":     10 
+},
+{
+ "name": "SFEdelta_2465",
+"size":     11 
+},
+{
+ "name": "SFEdelta_955",
+"size":     11 
+},
+{
+ "name": "SFEdelta_424",
+"size":     11 
+},
+{
+ "name": "SFEdelta_2482",
+"size":     11 
+} 
+] 
+},
+{
+ "name": "90",
+"children": [
+ {
+ "name": "SFSbottomstraddle_544",
+"size":     19 
+},
+{
+ "name": "SFSstrap_393",
+"size":     24 
+},
+{
+ "name": "SFSstrip_549",
+"size":     23 
+},
+{
+ "name": "SFSstrip_548",
+"size":     23 
+},
+{
+ "name": "SFSbottomstrangle_546",
+"size":     24 
+},
+{
+ "name": "SFSbottomstrangle_547",
+"size":     25 
+},
+{
+ "name": "SFSbottomstraddle_414",
+"size":     19 
+},
+{
+ "name": "SFSbutterfly_545",
+"size":     28 
+},
+{
+ "name": "SFSbullspreadcall_2105",
+"size":     23 
+},
+{
+ "name": "SFSbullspreadcall_1390",
+"size":     23 
+},
+{
+ "name": "SFSbutterfly_345",
+"size":     28 
+},
+{
+ "name": "SFSstrap_550",
+"size":     24 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "7",
+"children": [
+ {
+ "name": "22",
+"children": [
+ {
+ "name": "STFcat05_2227",
+"size":     19 
+},
+{
+ "name": "STFcat06_2212",
+"size":     17 
+},
+{
+ "name": "STFcat04_2208",
+"size":     16 
+},
+{
+ "name": "STFcat04_2225",
+"size":     16 
+},
+{
+ "name": "STFcat08_2233",
+"size":     20 
+},
+{
+ "name": "STFcat09_2217",
+"size":     21 
+},
+{
+ "name": "STFcat07_2230",
+"size":     19 
+},
+{
+ "name": "STFcat07_2213",
+"size":     20 
+},
+{
+ "name": "STFcat08_2216",
+"size":     20 
+},
+{
+ "name": "STFcat09_2234",
+"size":     21 
+},
+{
+ "name": "BondZeroCouponHPP_2215",
+"size":     16 
+},
+{
+ "name": "BondZeroCouponHPP_2232",
+"size":     16 
+},
+{
+ "name": "BondZeroCoupon_2224",
+"size":     17 
+},
+{
+ "name": "STFcat06_2229",
+"size":     14 
+},
+{
+ "name": "BondOnlyCoupon_2226",
+"size":     18 
+},
+{
+ "name": "BondZeroCoupon_2207",
+"size":     17 
+},
+{
+ "name": "BondCoupon_2228",
+"size":     17 
+},
+{
+ "name": "BondOnlyCoupon_2209",
+"size":     18 
+},
+{
+ "name": "BondCoupon_2211",
+"size":     17 
+},
+{
+ "name": "STFcat05_2210",
+"size":     19 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "8",
+"children": [
+ {
+ "name": "37",
+"children": [
+ {
+ "name": "SFEMeanExcessFun_2274",
+"size":     29 
+},
+{
+ "name": "SFS_mef_frechet_560",
+"size":     13 
+},
+{
+ "name": "SFS_mef_frechet_559",
+"size":     13 
+},
+{
+ "name": "STFloss07_2082",
+"size":     28 
+},
+{
+ "name": "hillgp1_2303",
+"size":      8 
+},
+{
+ "name": "SFEMeanExcessFun_2275",
+"size":     29 
+},
+{
+ "name": "STFloss07_1918",
+"size":     31 
+},
+{
+ "name": "MSRtailHill_457",
+"size":     17 
+},
+{
+ "name": "MSRtailHill_1446",
+"size":     12 
+},
+{
+ "name": "SFEhillquantile_1837",
+"size":      9 
+},
+{
+ "name": "SFEhillquantile_2304",
+"size":     14 
+},
+{
+ "name": "SFSmeanExcessFun_1334",
+"size":     31 
+},
+{
+ "name": "SFSmeanExcessFun_1472",
+"size":     24 
+} 
+] 
+},
+{
+ "name": "47",
+"children": [
+ {
+ "name": "MSRtailport_1447",
+"size":     10 
+},
+{
+ "name": "MSRtailport_273",
+"size":     13 
+},
+{
+ "name": "SFSportfolio_1337",
+"size":     10 
+},
+{
+ "name": "MSRstdlogret_1442",
+"size":      7 
+},
+{
+ "name": "MSRsiemens_log_returns_1042",
+"size":      5 
+},
+{
+ "name": "SFE_LogReturns_785",
+"size":      3 
+},
+{
+ "name": "SFSportfolio_1347",
+"size":     10 
+},
+{
+ "name": "MSRstdlogret_268",
+"size":      9 
+},
+{
+ "name": "MSRsiemens_log_returns_266",
+"size":      6 
+},
+{
+ "name": "SFStailport _329",
+"size":     13 
+},
+{
+ "name": "SFEcomplogreturns_1623",
+"size":      6 
+},
+{
+ "name": "SFEdenport_2243",
+"size":     19 
+},
+{
+ "name": "SFEdenport_2247",
+"size":     18 
+},
+{
+ "name": "SFEclose_2195",
+"size":      8 
+},
+{
+ "name": "SFEclose_2196",
+"size":      8 
+},
+{
+ "name": "SFEcomplogreturns_1894",
+"size":      7 
+},
+{
+ "name": "MSRbmw_log_returns_1034",
+"size":      5 
+},
+{
+ "name": "MSRbayer_log_returns_984",
+"size":      6 
+},
+{
+ "name": "MSRclose_1432",
+"size":      8 
+},
+{
+ "name": "MSRclose_272",
+"size":     10 
+},
+{
+ "name": "MSRbayer_log_returns_270",
+"size":      6 
+},
+{
+ "name": "MSRbmw_log_returns_271",
+"size":      6 
+},
+{
+ "name": "SFStailport_357",
+"size":     12 
+},
+{
+ "name": "SFEportlogreturns_2265",
+"size":     15 
+},
+{
+ "name": "SFEportlogreturns_2277",
+"size":     15 
+} 
+] 
+},
+{
+ "name": "51",
+"children": [
+ {
+ "name": "MSRutd_bmw_vw_1448",
+"size":     10 
+},
+{
+ "name": "MVAscalogret_1744",
+"size":      9 
+},
+{
+ "name": "MSRsca_sie_vw_1441",
+"size":      9 
+},
+{
+ "name": "MSRsca_sie_vw_520",
+"size":     11 
+},
+{
+ "name": "MSRsca_bmw_vw_264",
+"size":     12 
+},
+{
+ "name": "MSRsca_bmw_vw_1041",
+"size":     12 
+},
+{
+ "name": "MSRutd_bmw_vw_274",
+"size":     13 
+} 
+] 
+},
+{
+ "name": "52",
+"children": [
+ {
+ "name": "SFStailGPareto_1350",
+"size":     18 
+},
+{
+ "name": "SFStailGEV_1341",
+"size":     19 
+},
+{
+ "name": "SFStailGEV_1349",
+"size":     16 
+},
+{
+ "name": "MSRtailGPareto_506",
+"size":     18 
+},
+{
+ "name": "MSRtailGPareto_1445",
+"size":     14 
+},
+{
+ "name": "SFEtailGEV_qq_2261",
+"size":     17 
+},
+{
+ "name": "SFEtailGEV_qq_2279",
+"size":     22 
+},
+{
+ "name": "SFEtailGEV_pp_2260",
+"size":     17 
+},
+{
+ "name": "SFEtailGEV_pp_2278",
+"size":     21 
+},
+{
+ "name": "SFStailGPareto_1342",
+"size":     21 
+},
+{
+ "name": "SFEtailGPareto_qq_2263",
+"size":     15 
+},
+{
+ "name": "SFEtailGPareto_qq_2281",
+"size":     14 
+},
+{
+ "name": "SFEtailGPareto_pp_2262",
+"size":     15 
+},
+{
+ "name": "SFEtailGPareto_pp_2280",
+"size":     18 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "9",
+"children": [
+ {
+ "name": "85",
+"children": [
+ {
+ "name": "SFEgarchest_1272",
+"size":     35 
+},
+{
+ "name": "SFEgarchest_1951",
+"size":     35 
+},
+{
+ "name": "SFEtail_1291",
+"size":     36 
+},
+{
+ "name": "SFElshill_1955",
+"size":     32 
+},
+{
+ "name": "SFEgarchest_2502",
+"size":     35 
+},
+{
+ "name": "SFEtimeret_1295",
+"size":     30 
+},
+{
+ "name": "SFEtimeret_1425",
+"size":     27 
+},
+{
+ "name": "SFEvolgarchest_1430",
+"size":     29 
+},
+{
+ "name": "SFEvolnonparest_1299",
+"size":     32 
+},
+{
+ "name": "SFEvolnonparest_1954",
+"size":     29 
+},
+{
+ "name": "SFEvolgarchest_1298",
+"size":     31 
+},
+{
+ "name": "SFEmvol01_1840",
+"size":     31 
+},
+{
+ "name": "SFEmvol01_1281",
+"size":     35 
+},
+{
+ "name": "SFEmvol02_879",
+"size":     42 
+},
+{
+ "name": "SFEtail_1953",
+"size":     31 
+},
+{
+ "name": "SFEmvol03_1841",
+"size":     37 
+},
+{
+ "name": "SFEmvol03_871",
+"size":     42 
+},
+{
+ "name": "SFElshill_1280",
+"size":     39 
+} 
+] 
+} 
+] 
+} 
+] 
+}

@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>QNet - D3 - Overview</title>
+		<link rel="stylesheet" href="css/main_style.css">
+    </head>
+    <body>
+		<header>
+		  <aside>Okt 8, 2016</aside>
+		  <a href="https://github.com/lborke" rel="author">Lukas Borke</a>
+		</header>
+		
+		<h1>Data-Driven Documents - D3</h1>
+		
+		<script src="http://d3js.org/d3.v3.min.js"></script>
+		<script src="js/main_d3.js"></script>
+		
+        <div id="menu">
+            <ol id="menuList">
+				<h4>I. Genesis (Nov 2013 - Aug 2014)</h4>
+                <li><a href="genesis/force_d_g.html">The entire QNet-Universe</a></li>
+                <li><a href="genesis/force_d_g_grav2.html">The entire QNet-Universe (more gravity)</a></li>
+				<li><a href="genesis/force_d_g_links.html">The entire QNet-Universe with clusters</a></li>
+				<li><a href="genesis/force_d_g_links_grav2.html">The entire QNet-Universe with clusters (more gravity)</a></li>
+				<li><a href="genesis/force_d_g_mva_links.html">Galaxy MVA with clusters</a></li>
+				<li><a href="genesis/force_d_g_sfe_links.html">Galaxy SFE with clusters</a></li>
+				<li><a href="genesis/force_d_g_xfg.html">Galaxy XFG</a></li>
+				<li><a href="genesis/force_d_g_xfg_links.html">Galaxy XFG with clusters</a></li>
+				<li><a href="genesis/matrix_qlets_xfg.html">QNet: Adjacency matrix of XFG </a></li>
+				<li><a href="genesis/matrix_author.html">QNet Authors: Co-occurrence</a></li>
+				<li><a href="genesis/matrix_kw.html">QNet Keywords: Co-occurrence</a></li>
+                <li><a href="genesis/force_d_g_last30d.html">QNet: current Qlets from the last 90 days</a></li>
+				<li><a href="genesis/force_d_g_last30d_verColor.html">QNet: current Qlets from the last 90 days - coloured version</a></li>
+				
+				<h4>II. Shakespeare works (41 documents) - Hierarchical cluster analysis (Dec 2014)</h4>
+				<li><a href="hc/pack-hierarchy/pack-hierarchy_sp.html">Pack-Hierarchy</a></li>
+				<li><a href="hc/IndentTree/IndentTree_sp.html">IndentTree</a></li>
+				<li><a href="hc/force-collapsible/force-collapsible_sp.html">Force Collapsible</a></li>
+				<li><a href="hc/collapseTreeName/collapseTreeName_sp.html">Force Collapsible with names</a></li>
+				<li><a href="hc/expandableTree/expandableTree_sp.html">Expandable Tree</a></li>
+                
+				<h4>III. QuantNet full - Hierarchical cluster analysis (Dec 2014)</h4>
+				<li><a href="hc/pack-hierarchy/pack-hierarchy_qn_2l.html">Pack-Hierarchy</a></li>
+				<li><a href="hc/IndentTree/IndentTree_qn_2l.html">IndentTree</a></li>
+				<li><a href="hc/force-collapsible/force-collapsible_qn_2l.html">Force Collapsible</a></li>
+				<li><a href="hc/collapseTreeName/collapseTreeName_qn_2l.html">Force Collapsible with names</a></li>
+				<li><a href="hc/expandableTree/expandableTree_qn_2l.html">Expandable Tree</a></li>
+				
+				<h4>IV. QuantNet subset from SFE, SFS and IBT - Hierarchical cluster analysis (2 levels) with Topics (Aug 30, 2015)</h4>
+				<li><a href="hc/pack-hierarchy/pack-hierarchy_qn_small_2l.html">Pack-Hierarchy</a></li>
+				<li><a href="hc/IndentTree/IndentTree_qn_small_2l.html">IndentTree</a></li>
+				<li><a href="hc/force-collapsible/force-collapsible_qn_small.html">Force Collapsible</a></li>
+				<li><a href="hc/collapseTreeName/collapseTreeName_qn_small_2l.html">Force Collapsible with names</a></li>
+				<li><a href="hc/expandableTree/expandableTree_qn_small.html">Expandable Tree</a></li>
+				
+				<h4>V. QuantNet full - Hierarchical cluster analysis (3 levels) with Topics (Aug 30, 2015)</h4>
+				<li><a href="hc/pack-hierarchy/pack-hierarchy_qn_full_3l.html">Pack-Hierarchy</a></li>
+				<li><a href="hc/IndentTree/IndentTree_qn_full_3l.html">IndentTree</a></li>
+				<li><a href="hc/force-collapsible/force-collapsible_qn_full_3l.html">Force Collapsible</a></li>
+				<li><a href="hc/collapseTreeName/collapseTreeName_qn_full_3l.html">Force Collapsible with names</a></li>
+				<li><a href="hc/expandableTree/expandableTree_qn_full_3l.html">Expandable Tree</a></li>
+				
+				<h4>VI. QuantNet 2.0 @ GitHub - Hierarchical cluster analysis (3 levels) with Topics</br>
+					(Data collected via a GitHub-R-API Parser on March 04, 2016)
+				</h4>
+				<li><a href="hc/pack-hierarchy/pack-hierarchy_gh_3l.html">Pack-Hierarchy</a></li>
+				<li><a href="hc/collapseTreeName/collapseTreeName_gh_3l.html">Force Collapsible with names</a></li>
+				<li><a href="hc/expandableTree/expandableTree_gh_3l.html">Expandable Tree</a></li>
+            </ol>
+        </div>
+		
+		<br/>
+		<h3>Outlook for the further development</h3>
+		<a href="http://mbostock.github.io/d3/talk/20111116/pack-hierarchy.html" target="blank">Layout 1 (Hierarchy)</a> |
+		<a href="http://languagenetwork.cotrino.com/" target="blank">Layout 2 (Languagenetwork)</a> |
+		<a href="http://ramblings.mcpher.com/Home/excelquirks/gassites/d3nodefocus" target="blank">Layout 3 (Node Explorer)</a> |
+		<a href="http://bl.ocks.org/mbostock/1093130" target="blank">Layout 4 (Collapsible Force Layout)</a> |
+		<a href="http://mbostock.github.io/d3/talk/20111116/force-collapsible.html" target="blank">Layout 5 (Collapsible Graph)</a> |
+		<a href="http://mbostock.github.io/d3/talk/20111116/bundle.html" target="blank">Layout 6 (Hierarchical edge bundling)</a> |
+		<a href="http://xliberation.com/googlecharts/d3concept.html" target="blank">Layout 7 (Site Concept Browser)</a>
+		
+		<p>Built with <a href="http://d3js.org/">d3.js</a></p>
+		
+	</body>
+</html>
